@@ -1,0 +1,475 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<GIGRACK activeRackSpace="0" gbpm="120.0" gtimeNum="4" gtimeDen="4" gTranspose="0"
+         version="5.0" scriptWindowPos="" globalStereoCount="2" globalPanelVisible="0">
+  <SCRIPT_CONTENT></SCRIPT_CONTENT>
+  <GLOBALRACKSPACE name="GLOBAL RACKSPACE" uid="16dcdd13adae4237a3a889f6417bcccd"
+                   bpm="120.0" timeNum="4" timeDen="4" resetTimeInfo="0" syncClock="0"
+                   maxDeactivationTime="2.5" maxDeactivationTimeIn="0.0" scriptWindowPos=""
+                   usePatchPersist="0" zoomLevel="1.0" viewX="0" viewY="0" activePreset="0">
+    <PROCESSORSTATE_IN handle="" gpscript="0" osc="0" x="0.0" y="0.0">23.VMjLg3.....OPwTUGkjSSQUPTUzK9..</PROCESSORSTATE_IN>
+    <PROCESSORSTATE_OUT handle="" gpscript="0" osc="0" x="0.0" y="0.0">73.VMjLg.D....OPwTUGkjSSQUPTUDHig1WvziHw3BLh.Ra0QWYeMFZeASOh.iHfLFZeESOhDiKvHBHsUGck80Xn8UL8HBLh7hO..</PROCESSORSTATE_OUT>
+    <PROCESSOR id="4" bypass="0" prop_str_nodeName="To Rackspaces" prop_int_x="0"
+               prop_int_y="0" cmp="1">
+      <PLUGIN name="To Rackspaces" format="Internal" category="Global" manufacturer="Deskew Technologies, LLC"
+              version="1.0" file="1010970" uid="f6d1a" isInstrument="0" fileTime="0"
+              infoUpdateTime="0" numInputs="4" numOutputs="0" isShell="0" isEnabled="1"
+              useDelayedLoading="0" explicitWidgetRefresh="0" b64UserKeywords=""/>
+      <PROCESSORSTATEZ>8.3o8......D.</PROCESSORSTATEZ>
+    </PROCESSOR>
+    <PROCESSOR id="5" bypass="0" prop_str_nodeName="From Rackspaces" prop_int_x="0"
+               prop_int_y="0" cmp="1">
+      <PLUGIN name="From Rackspaces" format="Internal" category="Global" manufacturer="Deskew Technologies, LLC"
+              version="1.0" file="10104242" uid="9a2db2" isInstrument="0" fileTime="0"
+              infoUpdateTime="0" numInputs="0" numOutputs="4" isShell="0" isEnabled="1"
+              useDelayedLoading="0" explicitWidgetRefresh="0" b64UserKeywords=""/>
+      <PROCESSORSTATEZ>8.3o8......D.</PROCESSORSTATEZ>
+    </PROCESSOR>
+    <RACKVIEW>
+      <RACKUNIT size="11" style="4" color="ff4682b4" ver="5.0"/>
+    </RACKVIEW>
+    <PRESET name="Default"/>
+    <SCRIPT_CONTENT></SCRIPT_CONTENT>
+  </GLOBALRACKSPACE>
+  <RACKSPACE name="Rackspace" uid="fc2a454c7d024adb96579d08570a1f40" bpm="120.0"
+             timeNum="4" timeDen="4" resetTimeInfo="0" syncClock="0" maxDeactivationTime="2.5"
+             maxDeactivationTimeIn="0.0" scriptWindowPos="" usePatchPersist="0"
+             zoomLevel="0.6563051123207266" viewX="0" viewY="0" activePreset="0">
+    <PROCESSORSTATE_IN handle="" gpscript="0" osc="0" x="0.02294923737645149" y="0.037109375">23.VMjLg3.....OPwTUGkjSSQUPTUzK9..</PROCESSORSTATE_IN>
+    <PROCESSORSTATE_OUT handle="" gpscript="0" osc="0" x="0.1640625149011612" y="0.2097167819738388">73.VMjLg.D....OPwTUGkjSSQUPTUDHig1WvziHw3BLh.Ra0QWYeMFZeASOh.iHfLFZeESOhDiKvHBHsUGck80Xn8UL8HBLh7hO..</PROCESSORSTATE_OUT>
+    <PROCESSOR id="4" bypass="0" prop_str_nodeName="MT-PowerDrumKit" prop_int_uiLastX="405"
+               prop_int_uiLastY="59" prop_dbl_x="0.17749023437500000000" prop_dbl_y="0.02416992560029029846"
+               prop_int_MaxInputPins="256" prop_int_MaxOutputPins="256" cmp="1">
+      <PLUGIN name="MT-PowerDrumKit" format="VST3" category="Instrument|Drum"
+              manufacturer="MANDA AUDIO" version="2.1.1.0" file="C:\Program Files\Common Files\VST3\MT PowerDrum Kit\MT-PowerDrumKit.vst3"
+              uid="a30d88ce" isInstrument="1" fileTime="18325dc7748" infoUpdateTime="1977b101957"
+              numInputs="0" numOutputs="16" isShell="0" isEnabled="1" useDelayedLoading="0"
+              explicitWidgetRefresh="0" b64UserKeywords=""/>
+      <PROCESSORSTATEZ>295.3oc0S2sSCBCFF.lDuR7XR5liweIjcfLSFKj.NPvSIQ1jEr.CrBbK6Mg71kLlMFc5Y9d.oO7QososQ1yt98qjjrhBBU7yecWFMnIoIcgkicwKkEzTZyBMcMxsjg3WRNFEugGakQSS6KxqRieTnNgacXlmgeckIad3apcIabodw6qsk62Eszn6lGdt0KI1YsLcnoZ2lPs1w9egi+26yBiadcczpE1ElwcGrOe7MvG0CuAdkw948NFB+Oy.s62k4M5w0uPNNetb+08Wb87KSn5P+2Vf4WiI1dfYbyfC0P8R3JXFpS3t.1E0I0vsvKg8q7H+qCa77veJJmNu7o6OT1zLbdSYF75ed+0ZxYWKsbt6orF6BZygh77zCKlh5BuyZh3MaoO.raJ4M.</PROCESSORSTATEZ>
+      <PROCESSORLAYOUT>
+        <BUSINPUTS/>
+        <BUSOUTPUTS>
+          <PROCESSORBUS index="0" layout="L R"/>
+          <PROCESSORBUS index="1" layout="L R"/>
+          <PROCESSORBUS index="2" layout="L R"/>
+          <PROCESSORBUS index="3" layout="L R"/>
+          <PROCESSORBUS index="4" layout="L R"/>
+          <PROCESSORBUS index="5" layout="L R"/>
+          <PROCESSORBUS index="6" layout="L R"/>
+          <PROCESSORBUS index="7" layout="L R"/>
+        </BUSOUTPUTS>
+      </PROCESSORLAYOUT>
+    </PROCESSOR>
+    <PROCESSOR id="5" bypass="0" prop_str_nodeName="PRE_SEND_DRUM" prop_int_uiLastX="502"
+               prop_int_uiLastY="241" prop_dbl_x="0.16040039062500000000" prop_dbl_y="0.08203125000000000000"
+               prop_int_MaxInputPins="256" prop_int_MaxOutputPins="256" cmp="1">
+      <PLUGIN name="Audio Mixer (16ch)" descriptiveName="Audio Mixer" format="Internal"
+              category="Audio Mixer" manufacturer="Deskew Technologies, LLC"
+              version="1.0" file="424210" uid="1092" isInstrument="0" fileTime="0"
+              infoUpdateTime="0" numInputs="16" numOutputs="16" isShell="0"
+              isEnabled="1" useDelayedLoading="0" explicitWidgetRefresh="0"
+              b64UserKeywords=""/>
+      <PROCESSORSTATEZ>315.3oceR+8RCCCDG.e3eI079zb4G2kBpfLDQTDwU883r3F1kJac+4KXVxr6xKKOcWZ4y2iq88Ypy+8rISt5kmd69GdddysM2U8keUPdsPdARVY7.PsRVqpEUe367gEsoGZEUa665S0RQ05cCs+W2ua3mcC66DUA+582+3pEeKRxv9WhjTRl.DAMQiz.iFXzPAcrCxzwp4A+l1rsJYi57TaLFYM3FsULaEyVUXG6TY6X0rk9McsaG5C4.zmb30r.zr.zEAD6z4.hUM8qyxlzBWlNJsy.NKcbiaXxFlroPN1YxxwpWW84gshMMzNHMzt3WSGnFksLYKS1VHG6rY4X0rM9sKyz3g8gFs5ZMpcHHOtvQlMxrwBab7+DLsvCg1tJPOEL4LnSlAwxfXYPEYPiYPrLrSATb4MS9C..Q4LZ</PROCESSORSTATEZ>
+      <PROCESSORLAYOUT>
+        <BUSINPUTS>
+          <PROCESSORBUS index="0" layout="L R"/>
+          <PROCESSORBUS index="1" layout="L R"/>
+          <PROCESSORBUS index="2" layout="L R"/>
+          <PROCESSORBUS index="3" layout="L R"/>
+          <PROCESSORBUS index="4" layout="L R"/>
+          <PROCESSORBUS index="5" layout="L R"/>
+          <PROCESSORBUS index="6" layout="L R"/>
+          <PROCESSORBUS index="7" layout="L R"/>
+        </BUSINPUTS>
+        <BUSOUTPUTS>
+          <PROCESSORBUS index="0" layout="L R"/>
+          <PROCESSORBUS index="1" layout="L R"/>
+          <PROCESSORBUS index="2" layout="L R"/>
+          <PROCESSORBUS index="3" layout="L R"/>
+          <PROCESSORBUS index="4" layout="L R"/>
+          <PROCESSORBUS index="5" layout="L R"/>
+          <PROCESSORBUS index="6" layout="L R"/>
+          <PROCESSORBUS index="7" layout="L R"/>
+        </BUSOUTPUTS>
+      </PROCESSORLAYOUT>
+    </PROCESSOR>
+    <PROCESSOR id="6" bypass="0" prop_str_nodeName="KICK_Drum" prop_int_uiLastX="304"
+               prop_int_uiLastY="361" prop_dbl_x="0.07714844495058059692" prop_dbl_y="0.03613281250000000000"
+               prop_int_MaxInputPins="256" prop_int_MaxOutputPins="256" cmp="1">
+      <PLUGIN name="Gain and Balance Control" descriptiveName="Gain" format="Internal"
+              category="Gain Control" manufacturer="Deskew Technologies, LLC"
+              version="1.0" file="4242" uid="1092" isInstrument="0" fileTime="0"
+              infoUpdateTime="0" numInputs="2" numOutputs="2" isShell="0" isEnabled="1"
+              useDelayedLoading="0" explicitWidgetRefresh="0" b64UserKeywords=""/>
+      <PROCESSORSTATEZ>77.3o8ByYiTzAFXfAaBvmPc2S+BNDGCwUEROwLyyVkLPOKszBKMyRyLzDSMvTyMybKTRgjRLmDyK4TAIooJoPtkVRpo.jsR5aGC.HIKRDA</PROCESSORSTATEZ>
+    </PROCESSOR>
+    <PROCESSOR id="7" bypass="0" prop_str_nodeName="EQ_KICK_Drum" prop_int_uiLastX="64"
+               prop_int_uiLastY="38" prop_dbl_x="0.07836914807558059692" prop_dbl_y="0.05053711310029029846"
+               prop_int_MaxInputPins="256" prop_int_MaxOutputPins="256" cmp="1">
+      <PLUGIN name="Pro-Q 4" format="VST3" category="Fx|EQ" manufacturer="FabFilter"
+              version="4.0.1.0" file="C:\Program Files\Common Files\VST3\FabFilter\FabFilter Pro-Q 4.vst3"
+              uid="3dc7ff47" isInstrument="0" fileTime="193d890f980" infoUpdateTime="1977b101958"
+              numInputs="4" numOutputs="2" isShell="0" isEnabled="1" useDelayedLoading="0"
+              explicitWidgetRefresh="0" b64UserKeywords=""/>
+      <PROCESSORSTATEZ>659.3oc6Wt0ahBDEGueB1uC6ylPKWRJlXZxH2qx5vkgB9FfBUGDXcsdgO8cXzBzlZ1tOraxlvIwQFbNm++O+N7f3Iw88Ae6laF443xCydIcUtytvcKeXjgTwlxh7k46dfimSjQMXMzQgoNfioewjLndcnDToxDRtZOiDY8dIll.TuHS9vOq4dCkdaOMecCxumrF1lDyh41lvnAS+A.vzMrG2r+R99Gzkkpq+TXw96zFzTeFXi9Ca7Sxf2qOsdT8aNwlLWIYtYqbfuS4t96R9N7PqZ+sFTm+919i1uT8OqWW+9V9mqWm9gbhBi6XNHdhWV9cR2weuk+LyBq+w79h9vmcTn9Silea+8Wj2W327YbZs96Kx6skkk2eUdiXR2jsV4p79B+VwdRzp0OeQd+yxxGuNuUfD8C9s7NWLZYmmG9Z79DooOdcdCjI560y6dd2y6dd2y6dd2y6+q48G5m+zX3j14Qy7QF9I++QHSG+oFHGcToc+na67FCiLTVrZmTQ9tsEYYK29.Oq.iphh4dSJcnVVFkEjhzBq.GcwVZwEBrACpCMJvnZAM3B+kLhpfDhy0ip39yNfVDWjaZkiMlB.qTiLqhCpwXCtwm0nxUx.YCsP1yDbKqumap27SfwQGQrQDc0KL0z2J54uFoFjDoMGKnpKH5EmbuZT80ofmCwwjyIvFUojEtBkM4wbn2KHM8Uj8IS8hOYQ7INaAFLNNGop+Y8VBylHr4SAU.a+S.6E04uEyNGeXrdp.Q6oO4yRxsf3IVrmeBj3kN97E.oNhYgjbCwBD+wKo6njEiA1PR+XgC77uiz66NO6Pf3JWGJDcCxT7h2ZoMQ5fW.QqINVO4ezZikJom6LoICwOL3Fc6GeyvadEHf1dwK</PROCESSORSTATEZ>
+      <PROCESSORLAYOUT>
+        <BUSINPUTS>
+          <PROCESSORBUS index="0" layout="L R"/>
+          <PROCESSORBUS index="1" layout="L R"/>
+        </BUSINPUTS>
+        <BUSOUTPUTS>
+          <PROCESSORBUS index="0" layout="L R"/>
+        </BUSOUTPUTS>
+      </PROCESSORLAYOUT>
+    </PROCESSOR>
+    <PROCESSOR id="8" bypass="0" prop_str_nodeName="SNARE_Drum" prop_int_uiLastX="304"
+               prop_int_uiLastY="361" prop_dbl_x="0.12109374254941940308" prop_dbl_y="0.03833007812500000000"
+               prop_int_MaxInputPins="256" prop_int_MaxOutputPins="256" cmp="1">
+      <PLUGIN name="Gain and Balance Control" descriptiveName="Gain" format="Internal"
+              category="Gain Control" manufacturer="Deskew Technologies, LLC"
+              version="1.0" file="4242" uid="1092" isInstrument="0" fileTime="0"
+              infoUpdateTime="0" numInputs="2" numOutputs="2" isShell="0" isEnabled="1"
+              useDelayedLoading="0" explicitWidgetRefresh="0" b64UserKeywords=""/>
+      <PROCESSORSTATEZ>77.3o8ByYiTzAFXfAaBvmPc2S+BNDGCwUEROwLyyVkLPOKszBKMyRyLzDSMvTyMybKTRgjRLmDyK4TAIooJoPtkVRpo.jsR5aGC.HIKRDA</PROCESSORSTATEZ>
+    </PROCESSOR>
+    <PROCESSOR id="9" bypass="0" prop_str_nodeName="CHARLESTON_Drum" prop_int_uiLastX="26"
+               prop_int_uiLastY="283" prop_dbl_x="0.15893554687500000000" prop_dbl_y="0.03906250000000000000"
+               prop_int_MaxInputPins="256" prop_int_MaxOutputPins="256" cmp="1">
+      <PLUGIN name="Gain and Balance Control" descriptiveName="Gain" format="Internal"
+              category="Gain Control" manufacturer="Deskew Technologies, LLC"
+              version="1.0" file="4242" uid="1092" isInstrument="0" fileTime="0"
+              infoUpdateTime="0" numInputs="2" numOutputs="2" isShell="0" isEnabled="1"
+              useDelayedLoading="0" explicitWidgetRefresh="0" b64UserKeywords=""/>
+      <PROCESSORSTATEZ>64.3o8ByYiTzPFXfAaBvmPc2S+BNDGCwUEROwLyyVkLTOCTRgjRLmDyK4TsUICzyTkTH2RKI0T.xVI8siA.rdnCPC</PROCESSORSTATEZ>
+    </PROCESSOR>
+    <PROCESSOR id="10" bypass="0" prop_str_nodeName="TOMs_Drum" prop_int_uiLastX="287"
+               prop_int_uiLastY="361" prop_dbl_x="0.19775390625000000000" prop_dbl_y="0.04028320312500000000"
+               prop_int_MaxInputPins="256" prop_int_MaxOutputPins="256" cmp="1">
+      <PLUGIN name="Gain and Balance Control" descriptiveName="Gain" format="Internal"
+              category="Gain Control" manufacturer="Deskew Technologies, LLC"
+              version="1.0" file="4242" uid="1092" isInstrument="0" fileTime="0"
+              infoUpdateTime="0" numInputs="2" numOutputs="2" isShell="0" isEnabled="1"
+              useDelayedLoading="0" explicitWidgetRefresh="0" b64UserKeywords=""/>
+      <PROCESSORSTATEZ>64.3o8ByYiTzPFXfAaBvmPc2S+BNDGCwUEROwLyyVkLTOCTRgjRLmDyK4TsUICzyTkTH2RKI0T.xVI8siA.rdnCPC</PROCESSORSTATEZ>
+    </PROCESSOR>
+    <PROCESSOR id="11" bypass="0" prop_str_nodeName="RIDE_Drum" prop_int_uiLastX="221"
+               prop_int_uiLastY="361" prop_dbl_x="0.23876954615116119385" prop_dbl_y="0.04052734747529029846"
+               prop_int_MaxInputPins="256" prop_int_MaxOutputPins="256" cmp="1">
+      <PLUGIN name="Gain and Balance Control" descriptiveName="Gain" format="Internal"
+              category="Gain Control" manufacturer="Deskew Technologies, LLC"
+              version="1.0" file="4242" uid="1092" isInstrument="0" fileTime="0"
+              infoUpdateTime="0" numInputs="2" numOutputs="2" isShell="0" isEnabled="1"
+              useDelayedLoading="0" explicitWidgetRefresh="0" b64UserKeywords=""/>
+      <PROCESSORSTATEZ>64.3o8ByYiTzPFXfAaBvmPc2S+BNDGCwUEROwLyyVkLTOCTRgjRLmDyK4TsUICzyTkTH2RKI0T.xVI8siA.rdnCPC</PROCESSORSTATEZ>
+    </PROCESSOR>
+    <PROCESSOR id="12" bypass="0" prop_str_nodeName="CRASH_Drum" prop_int_uiLastX="300"
+               prop_int_uiLastY="361" prop_dbl_x="0.28027346730232238770" prop_dbl_y="0.03955078125000000000"
+               prop_int_MaxInputPins="256" prop_int_MaxOutputPins="256" cmp="1">
+      <PLUGIN name="Gain and Balance Control" descriptiveName="Gain" format="Internal"
+              category="Gain Control" manufacturer="Deskew Technologies, LLC"
+              version="1.0" file="4242" uid="1092" isInstrument="0" fileTime="0"
+              infoUpdateTime="0" numInputs="2" numOutputs="2" isShell="0" isEnabled="1"
+              useDelayedLoading="0" explicitWidgetRefresh="0" b64UserKeywords=""/>
+      <PROCESSORSTATEZ>64.3o8ByYiTzPFXfAaBvmPc2S+BNDGCwUEROwLyyVkLTOCTRgjRLmDyK4TsUICzyTkTH2RKI0T.xVI8siA.rdnCPC</PROCESSORSTATEZ>
+    </PROCESSOR>
+    <PROCESSOR id="13" bypass="0" prop_str_nodeName="DRY+WET DRUM" prop_int_uiLastX="433"
+               prop_int_uiLastY="123" prop_dbl_x="0.15209957957267761230" prop_dbl_y="0.12866210937500000000"
+               prop_int_MaxInputPins="256" prop_int_MaxOutputPins="256" cmp="1">
+      <PLUGIN name="Gain and Balance Control" descriptiveName="Gain" format="Internal"
+              category="Gain Control" manufacturer="Deskew Technologies, LLC"
+              version="1.0" file="4242" uid="1092" isInstrument="0" fileTime="0"
+              infoUpdateTime="0" numInputs="2" numOutputs="2" isShell="0" isEnabled="1"
+              useDelayedLoading="0" explicitWidgetRefresh="0" b64UserKeywords=""/>
+      <PROCESSORSTATEZ>77.3o8ByYiTzAFXfAaBvmPc2S+BNDGCwUEROwLyyVkLPOKszBKMyRyLzDSMvTyMybKTRgjRLmDyK4TAIooJoPtkVRpo.jsR5aGC.HIKRDA</PROCESSORSTATEZ>
+    </PROCESSOR>
+    <PROCESSOR id="14" bypass="0" prop_str_nodeName="DRY_SUM_Drum" prop_int_uiLastX="68"
+               prop_int_uiLastY="361" prop_dbl_x="0.13623046875000000000" prop_dbl_y="0.09887696057558059692"
+               prop_int_MaxInputPins="256" prop_int_MaxOutputPins="256" cmp="1">
+      <PLUGIN name="Gain and Balance Control" descriptiveName="Gain" format="Internal"
+              category="Gain Control" manufacturer="Deskew Technologies, LLC"
+              version="1.0" file="4242" uid="1092" isInstrument="0" fileTime="0"
+              infoUpdateTime="0" numInputs="2" numOutputs="2" isShell="0" isEnabled="1"
+              useDelayedLoading="0" explicitWidgetRefresh="0" b64UserKeywords=""/>
+      <PROCESSORSTATEZ>77.3o8ByYiTzAFXfAaBvmPc2S+BNDGCwUEROwLyyVkLPOKszBKMyRyLzDSMvTyMybKTRgjRLmDyK4TAIooJoPtkVRpo.jsR5aGC.HIKRDA</PROCESSORSTATEZ>
+    </PROCESSOR>
+    <PROCESSOR id="15" bypass="0" prop_str_nodeName="WET_MIX_Drum" prop_int_uiLastX="502"
+               prop_int_uiLastY="241" prop_dbl_x="0.20532226562500000000" prop_dbl_y="0.09741211682558059692"
+               prop_int_MaxInputPins="256" prop_int_MaxOutputPins="256" cmp="1">
+      <PLUGIN name="Audio Mixer (16ch)" descriptiveName="Audio Mixer" format="Internal"
+              category="Audio Mixer" manufacturer="Deskew Technologies, LLC"
+              version="1.0" file="424210" uid="1092" isInstrument="0" fileTime="0"
+              infoUpdateTime="0" numInputs="16" numOutputs="16" isShell="0"
+              isEnabled="1" useDelayedLoading="0" explicitWidgetRefresh="0"
+              b64UserKeywords=""/>
+      <PROCESSORSTATEZ>300.3oceR2sSDBCDE.l3SBx8qR+YlARTSLDiwnwXbQuutRbIBEyB7h5SjsTWb5MxUmCz7MSZ30J4oeeRRxEO8vK2d2iaqut9lzOLs17KyxOKOK8MSmwtqYoBYoiCcCG+T+7Tyw7v7zWyS9VVp0z6e+8s69LawR3Ojlzk9GctpDT.rRKXzBFsHh10DAZWZq0bnIXK8mRkCdZTqI.UBZ0VxrkLaYjsqIC1tT0dygtlwoAaX.pkkufb9TIVfjhxw0AnXCPwFfJZ.tlJL.WpdnOHq8mQVpVtVJIT.EB8prlIqYxtr3OYWSGjcomae+2aE3eoAFMvngnk10f.sKUcvLtOXiw+YfLLjggQ6It9mAtbEasMcoB0F+V4QoXThgRLTJBkVQIFJrQfYmeUxOfirZ7S</PROCESSORSTATEZ>
+      <PROCESSORLAYOUT>
+        <BUSINPUTS>
+          <PROCESSORBUS index="0" layout="L R"/>
+          <PROCESSORBUS index="1" layout="L R"/>
+          <PROCESSORBUS index="2" layout="L R"/>
+          <PROCESSORBUS index="3" layout="L R"/>
+          <PROCESSORBUS index="4" layout="L R"/>
+          <PROCESSORBUS index="5" layout="L R"/>
+          <PROCESSORBUS index="6" layout="L R"/>
+          <PROCESSORBUS index="7" layout="L R"/>
+        </BUSINPUTS>
+        <BUSOUTPUTS>
+          <PROCESSORBUS index="0" layout="L R"/>
+          <PROCESSORBUS index="1" layout="L R"/>
+          <PROCESSORBUS index="2" layout="L R"/>
+          <PROCESSORBUS index="3" layout="L R"/>
+          <PROCESSORBUS index="4" layout="L R"/>
+          <PROCESSORBUS index="5" layout="L R"/>
+          <PROCESSORBUS index="6" layout="L R"/>
+          <PROCESSORBUS index="7" layout="L R"/>
+        </BUSOUTPUTS>
+      </PROCESSORLAYOUT>
+    </PROCESSOR>
+    <PROCESSOR id="16" bypass="0" prop_str_nodeName="WET_SUM_Drum" prop_int_uiLastX="89"
+               prop_int_uiLastY="223" prop_dbl_x="0.21044921875000000000" prop_dbl_y="0.11230468750000000000"
+               prop_int_MaxInputPins="256" prop_int_MaxOutputPins="256" cmp="1">
+      <PLUGIN name="Gain and Balance Control" descriptiveName="Gain" format="Internal"
+              category="Gain Control" manufacturer="Deskew Technologies, LLC"
+              version="1.0" file="4242" uid="1092" isInstrument="0" fileTime="0"
+              infoUpdateTime="0" numInputs="2" numOutputs="2" isShell="0" isEnabled="1"
+              useDelayedLoading="0" explicitWidgetRefresh="0" b64UserKeywords=""/>
+      <PROCESSORSTATEZ>77.3o8ByYiTzAFXfAaBvmPc2S+BNDGCwUEROwLyyVkLPOKszBKMyRyLzDSMvTyMybKTRgjRLmDyK4TAIooJoPtkVRpo.jsR5aGC.HIKRDA</PROCESSORSTATEZ>
+    </PROCESSOR>
+    <PROCESSOR id="17" bypass="0" prop_str_nodeName="REVERB_DRUM" prop_int_uiLastX="217"
+               prop_int_uiLastY="89" prop_dbl_x="0.21118165552616119385" prop_dbl_y="0.12646484375000000000"
+               prop_int_MaxInputPins="256" prop_int_MaxOutputPins="256" cmp="1">
+      <PLUGIN name="Pro-R 2" format="VST3" category="Fx|Reverb" manufacturer="FabFilter"
+              version="2.0.4.0" file="C:\Program Files\Common Files\VST3\FabFilter\FabFilter Pro-R 2.vst3"
+              uid="336ac312" isInstrument="0" fileTime="193d890f980" infoUpdateTime="1977b101959"
+              numInputs="2" numOutputs="2" isShell="0" isEnabled="1" useDelayedLoading="0"
+              explicitWidgetRefresh="0" b64UserKeywords=""/>
+      <PROCESSORSTATEZ>596.3ociT00bhBCEsOr+Q1mYFJhnhy3zYR.hPEjf7gEeSnBpPEkBB3eo9mbiQ1V0NS289vkbRt2aN2SRvSh+2e7qGdXjmsSWbZY7lc1EKKV8zHMor21msa0thm50WjE4uEaqvd1Ve1sOYMdHEFwNDUa9hLOjghkodbidinNwMnoiOiJlLUMDP7CkXuXQuJAX+2FM9tl6ODAAwZF8Gb3sN8yLOW.lqVmhOFZ+rhLrWetxYSPACuc815sgm+vTLzaeICjfG7W9zVuVagI+Xvm76n4s7o01IFrRV9S3W4e09wF0oQzB+I798qkeB9qVB.byA.YFj0g65Op9cS7yP75W3mdb+9T9Ew9k99s3Kx0EYiS8SA5plIs8yODOpxSFDKOAIoG0Us599+6w6Iu..zSm1SBnKbO+k+V7LE3ofpI8pkycy.aMuU+upeo50E99ego27NYZznaybqd+S1kymW1ZcTa9USO5wqdFLRS40MERY6JxyRSWk+DeONVjVh9QC5wIjd6Wad36.nStBJLQjgXq9pbzqJGwbFItWN5n4QGBbUbUE25fnsumcrf2hMuSyxRwfCOKQ1wI4j8TgyOBw3ntj0cQpu6h7ybmuL5nmeQHJbG.FP2aPc.WBJLVCsLAr1uTarZbEZYzIuWJD77qA0KSAP+ZRtMBP04hoAGLFq9l1b+XqwpoDbz.R8bIewiWjIzwuA.CKESmPaCrKdrA2ymGZzxgb0sAYgnEmpZ6+JnEs9U0NEJoADraIWmfb1jfRt0N0D8NwBc06AhdemFO5w6+yzC+Abrp8TG</PROCESSORSTATEZ>
+      <PROCESSORLAYOUT>
+        <BUSINPUTS>
+          <PROCESSORBUS index="0" layout="L R"/>
+        </BUSINPUTS>
+        <BUSOUTPUTS>
+          <PROCESSORBUS index="0" layout="L R"/>
+        </BUSOUTPUTS>
+      </PROCESSORLAYOUT>
+    </PROCESSOR>
+    <PROCESSOR id="18" bypass="0" prop_str_nodeName="Saturn_SNARE_Drum" prop_int_uiLastX="261"
+               prop_int_uiLastY="191" prop_dbl_x="0.12670899927616119385" prop_dbl_y="0.05126952752470970154"
+               prop_int_MaxInputPins="256" prop_int_MaxOutputPins="256" cmp="1">
+      <PLUGIN name="Saturn 2" format="VST3" category="Fx|Distortion" manufacturer="FabFilter"
+              version="2.1.1.0" file="C:\Program Files\Common Files\VST3\FabFilter\FabFilter Saturn 2.vst3"
+              uid="eb74d2e" isInstrument="0" fileTime="193d890f980" infoUpdateTime="1977b10195a"
+              numInputs="4" numOutputs="2" isShell="0" isEnabled="1" useDelayedLoading="0"
+              explicitWidgetRefresh="0" b64UserKeywords=""/>
+      <PROCESSORSTATEZ>389.3oc6XEtaBBCD1Gh8Bre2j5FXTHgXBREmSMhCzL1+bJZTQvnHiwa0dCmTbBT2fjEWxh499Agud89tdGMGMcjB2sebSoRRizM30r2Oegit2XOq5RsUbWuw0wxwqNu.m.V0boldS7A3uSAyBheF5rsZQOQThe35p8i3XTCpQq2B35eZtxcOSsi9mB7wy2WWeSCRzaw1MpVQTgbxKDtX7PGR1ADiylZgK2fko4Bke2TOTLOU7yGAMjylEGWO8649X75kZWa2W0izwOWbUWOveS7Y0mxYymXNa86W5u3SVVhmL4WT9ogAb4AeGAgJIeOKb+qLTxt7X19Pt0I6+qUT+IBTx9C.zOB5GA.5G8eEuD99BQlwPY6Wc14OQf+WL+ATL945UN+OMm9KfdfdfdfdWi5oZRdMnYBWpbpa.TpcyoK7Tbc715Zaassd0ZX0dq5NuGUL5JfLz1b9vViCkCLVMn0D2J2ahhPKlyG20Xht4vjAed4fUCTScoLGBMS3jJyd+jk9DfHI+qL</PROCESSORSTATEZ>
+      <PROCESSORLAYOUT>
+        <BUSINPUTS>
+          <PROCESSORBUS index="0" layout="L R"/>
+          <PROCESSORBUS index="1" layout="L R"/>
+        </BUSINPUTS>
+        <BUSOUTPUTS>
+          <PROCESSORBUS index="0" layout="L R"/>
+        </BUSOUTPUTS>
+      </PROCESSORLAYOUT>
+    </PROCESSOR>
+    <PROCESSOR id="19" bypass="0" prop_str_nodeName="Saturn_TOMs_Drum" prop_int_uiLastX="251"
+               prop_int_uiLastY="406" prop_dbl_x="0.19311524927616119385" prop_dbl_y="0.05322265997529029846"
+               prop_int_MaxInputPins="256" prop_int_MaxOutputPins="256" cmp="1">
+      <PLUGIN name="Saturn 2" format="VST3" category="Fx|Distortion" manufacturer="FabFilter"
+              version="2.1.1.0" file="C:\Program Files\Common Files\VST3\FabFilter\FabFilter Saturn 2.vst3"
+              uid="eb74d2e" isInstrument="0" fileTime="193d890f980" infoUpdateTime="1977b10195a"
+              numInputs="4" numOutputs="2" isShell="0" isEnabled="1" useDelayedLoading="0"
+              explicitWidgetRefresh="0" b64UserKeywords=""/>
+      <PROCESSORSTATEZ>386.3oc6XFtaBBCD.1Gh8BreSRcCLJjPLAohy4LhCzL1+bJZTQpQQFi2p8FNocQftMHYwkrrce+fv0i6tdGMWa5XcwKe8hJUTGaYKY5cXwReqfIAtMU6pS1rk365GzTRVTFY3rxzpM5Hg60Q7fCyINemYxSApPX7l5CL8HZGTZQU59bj3.TQvrOCRruOzxZaKbxaL810qoniOYk.pbtoGN+.JrroQ7psHMZtPkuZVf.SNS7KlnVZ4yh2mOC5StkMeo5M2mTO3i++25A5ShOu+ox74CSlu98MsW4dWWkSpBKK+LQ.mej5IKWK8+Yoqe0fR14m4GhE2jt9uQY8mvPI6G.neDzOB.5G8akGieYoB2XB46W8gyeJ.1e1rGnb955UA6mVP+Evef+.+A96un+LbvOE0NUVsZla.Tsa6YKCzI9A6Hddt6ZVuAxn+56Vzm5L5L.OxyYwnNSh0hrWOryTRsqcDRnC24iuydpkynzAeX0v0CMxboLGCMW3Tqxe+jUdCzeR.7H</PROCESSORSTATEZ>
+      <PROCESSORLAYOUT>
+        <BUSINPUTS>
+          <PROCESSORBUS index="0" layout="L R"/>
+          <PROCESSORBUS index="1" layout="L R"/>
+        </BUSINPUTS>
+        <BUSOUTPUTS>
+          <PROCESSORBUS index="0" layout="L R"/>
+        </BUSOUTPUTS>
+      </PROCESSORLAYOUT>
+    </PROCESSOR>
+    <PROCESSOR id="20" bypass="0" prop_str_nodeName="Saturn_RIDE_Drum" prop_int_uiLastX="261"
+               prop_int_uiLastY="406" prop_dbl_x="0.23901367187500000000" prop_dbl_y="0.05371094495058059692"
+               prop_int_MaxInputPins="256" prop_int_MaxOutputPins="256" cmp="1">
+      <PLUGIN name="Saturn 2" format="VST3" category="Fx|Distortion" manufacturer="FabFilter"
+              version="2.1.1.0" file="C:\Program Files\Common Files\VST3\FabFilter\FabFilter Saturn 2.vst3"
+              uid="eb74d2e" isInstrument="0" fileTime="193d890f980" infoUpdateTime="1977b10195b"
+              numInputs="4" numOutputs="2" isShell="0" isEnabled="1" useDelayedLoading="0"
+              explicitWidgetRefresh="0" b64UserKeywords=""/>
+      <PROCESSORSTATEZ>379.3oc6XEkaBBDD0CQu.8aRVaEiBIDRPVwZUiPALk9mUAiJBFc0X4V0aXE1FA11JlFZRS679Zeyj4M6LrYXyNRs10udUkJRiLs3082MadfIYLwUVpqZ3p0gAtADYdgZBHMmE5lsQGw9spHVzWOG0aSL2iKgrOZUig5XWMhXKzkAZ7Y.+PpTllqagiWQ8a0ntnJ9TTbWfz20Cm2fHsZZFsXMRIdE0+MSIbTdl7edbnkR9p388yvAg2S2uI902F2OXy++29A5SxOq9Ib15gxY6eey3Eev0U7jq8EUe5H.kO36IHTO86YgmeUfVV4CucQ0Vkd9uYQymvPK6G.v7HXdD.XdzuU7TzKyEYrwked0Gt+IGDeoEOfhwW2uNy+SOy7EPOPOPOPu+h5o4fe9P6TtT0Lu.nT21SmSTCCHaB88c2H2nIRavx9yFjHVxN.a66Lyty3HkCVKM5LIr9sNbwnCy8i6aMwzwN03iKLVZnk4QYNlZlzIUk88Iq7FUV6+M.</PROCESSORSTATEZ>
+      <PROCESSORLAYOUT>
+        <BUSINPUTS>
+          <PROCESSORBUS index="0" layout="L R"/>
+          <PROCESSORBUS index="1" layout="L R"/>
+        </BUSINPUTS>
+        <BUSOUTPUTS>
+          <PROCESSORBUS index="0" layout="L R"/>
+        </BUSOUTPUTS>
+      </PROCESSORLAYOUT>
+    </PROCESSOR>
+    <PROCESSOR id="21" bypass="0" prop_str_nodeName="Saturn_CRASH_DRUM" prop_int_uiLastX="261"
+               prop_int_uiLastY="406" prop_dbl_x="0.28271487355232238770" prop_dbl_y="0.05249023064970970154"
+               prop_int_MaxInputPins="256" prop_int_MaxOutputPins="256" cmp="1">
+      <PLUGIN name="Saturn 2" format="VST3" category="Fx|Distortion" manufacturer="FabFilter"
+              version="2.1.1.0" file="C:\Program Files\Common Files\VST3\FabFilter\FabFilter Saturn 2.vst3"
+              uid="eb74d2e" isInstrument="0" fileTime="193d890f980" infoUpdateTime="1977b10195c"
+              numInputs="4" numOutputs="2" isShell="0" isEnabled="1" useDelayedLoading="0"
+              explicitWidgetRefresh="0" b64UserKeywords=""/>
+      <PROCESSORSTATEZ>379.3oc6XssaBBDD0Oh9CzmIYsELHjPLgKh0pFwBXJ9lUQi.BFEIV9q7OrBaiHqVwzPSZZmyCjc1IyYtvlY2LCkoue+cUpHLT2fQya67E95giCsaHzVNX4p.ea+vFLbzbHUKGM8lnCHZiLhDL8yINasVxWpTgn3kr80lwwNhWBca.a+47GoquRRIYEVuAaMdYkiVQcCT+TGk7aviyl5wNqPhIqv5eXZHEV9B42kwNIw7YwmwS+dAOii2T8ZaRpGj9++a8.cA+SxepLY9fkIqeeS64ew1l+npnhxOMDfxGLc33pk8+rvyuhPIq7wrswzKyN+Wun9SJPI6G.P+HneD.nezuULJ98E7D6Qkue0Yu+jBruzrGPw3qqWW49zqzeA3C3C3C36uHepVJusqYlrP0Sl.nP6lSWDJG3GtNvyydcC15H0dtcm2KkrzHPwzyZtYqwwh6LbGzZRPsGsnRPKh2G20XhtkY1lu5Lvcf5ICk4fqIbmPUx4SV4C.MMs+9B</PROCESSORSTATEZ>
+      <PROCESSORLAYOUT>
+        <BUSINPUTS>
+          <PROCESSORBUS index="0" layout="L R"/>
+          <PROCESSORBUS index="1" layout="L R"/>
+        </BUSINPUTS>
+        <BUSOUTPUTS>
+          <PROCESSORBUS index="0" layout="L R"/>
+        </BUSOUTPUTS>
+      </PROCESSORLAYOUT>
+    </PROCESSOR>
+    <PROCESSOR id="22" bypass="0" prop_str_nodeName="EQ_DRUMKIT" prop_int_uiLastX="404"
+               prop_int_uiLastY="272" prop_dbl_x="0.14990232884883880615" prop_dbl_y="0.14501954615116119385"
+               prop_int_MaxInputPins="256" prop_int_MaxOutputPins="256" cmp="1">
+      <PLUGIN name="kHs 3-Band EQ" format="VST3" category="Fx|EQ" manufacturer="Kilohearts"
+              version="2.4.0" file="C:\Program Files\Common Files\VST3\Kilohearts\kHs 3-Band EQ.vst3"
+              uid="a368daf2" isInstrument="0" fileTime="19774f6af9e" infoUpdateTime="1977b10195d"
+              numInputs="2" numOutputs="2" isShell="0" isEnabled="1" useDelayedLoading="0"
+              explicitWidgetRefresh="0" b64UserKeywords=""/>
+      <PROCESSORSTATEZ>554.3ocsSmraiBDDF.NRySxbajPhvRCCHYEIaLMgECXyRiysFLfYm.MFie5icxbHZzbc9O7qRppieUnB2O+0Od5oUgd97t0S4EsdDLI8kU5JcM8csosjWDDjnWSeOQmez9l6nW6SSu40LZZlA2au84xuk1G0k3apvjJv42VjpwiSIGH5VV9Qz7L5Mm6aIkp99HeFQWDSUPv95RM8P97LMZly7DjiKL65d9TkCxbSblorCrMll8kkEARxd2GM5iNglX2FFHo6EWBtA66G3u16dTSun58fh.hGtzBMbE0Gpp.2JaSLTGNsfAVXQ4nK0HMsqY4Ck3XnhEJMlJd1ntrFseLViAhDsj02dHwTGhQsNAbyWSWX.DAPhDWiNXjSSU7l8q75TX1gAP0LZA2kXMc43jbhx3B90ppdUg5a.rlWTm+3ZNC1v4M7faMITVk1wdKFMl.CRIElHWUL2.o5DtnFp3bZRKjYF26zsS7HbDIMYCifG.8hav1kN847lcJtMtS67AkoUH4bBiYD4R13BmYmHm5bp5hwAosrKyVI.JwCd6fGYN4oj3s0CdADZs3FVvEWR1Iji7LmZqq7qXEDzningYq+eTf7nyTxI8CfyvzzjpBGdRWhMOXm36cJybSQfpqT28UB8FmSJ+1Q4sGNBCt2ti9zadfuu6NI9cWnrZevuoJk+3t+QrzRx2iNRZYim.PeyfruD6V5Gt19SZq80oqd9ave0y+8awSe.jA78KF</PROCESSORSTATEZ>
+      <PROCESSORLAYOUT>
+        <BUSINPUTS>
+          <PROCESSORBUS index="0" layout="L R"/>
+        </BUSINPUTS>
+        <BUSOUTPUTS>
+          <PROCESSORBUS index="0" layout="L R"/>
+        </BUSOUTPUTS>
+      </PROCESSORLAYOUT>
+    </PROCESSOR>
+    <PROCESSOR id="23" bypass="0" prop_str_nodeName="GLUE_DRUMKIT" prop_int_uiLastX="1079"
+               prop_int_uiLastY="184" prop_dbl_x="0.14526367187500000000" prop_dbl_y="0.16455078125000000000"
+               prop_int_MaxInputPins="256" prop_int_MaxOutputPins="256" cmp="1">
+      <PLUGIN name="kHs Compressor" format="VST3" category="Fx|Dynamics" manufacturer="Kilohearts"
+              version="2.4.0" file="C:\Program Files\Common Files\VST3\Kilohearts\kHs Compressor.vst3"
+              uid="dc1d7dca" isInstrument="0" fileTime="19774f6e25a" infoUpdateTime="1977b10195e"
+              numInputs="4" numOutputs="2" isShell="0" isEnabled="1" useDelayedLoading="0"
+              explicitWidgetRefresh="0" b64UserKeywords=""/>
+      <PROCESSORSTATEZ>627.3ocsSlriaBDEEskxWRViTkxPwjjUKYrAaLiFy7NLlYLfYF1le7zt6Mshx1bWbzS221y0dO9O+8Od6ss1WMIzKGRxpt1GzG89Vw80OZpqhp5emBmBrC7QpJeQSIEvNS.f6TL..a0W8+742R0KLdakWHr.k5uvTFzMvXz2oHq6BHfFOR4R5kqFs1.UpwSR6qjjNen7jhQ5HcBHhHdS7M7mmpu6lUlMhIreLYOF7Xsi1fssYsqlESmFsu2kK77zYBTzMMQFyOywcQMyo32c66d1BEkIgpTJ17nrPVTywT9x7jcIpVDiNMKvagNo7MZcBy4EgsQJYhyZB3Z3sklzrm6uRf5I7GTZSz8HcQB1CO7uFEuOhTmYhF01lKdbvjYsdApERLsfXLW4UkCyPt2lJXxWFtcaVRVbAAYm7lxD7bTGyfG0nWczvHlgWWm5xxcYtTWQlwhIWXXV8fiU3wZ9RWkQtgdvJsQB7IkFI0igv5mNWfwqzxhgAn58MCAjbyUm6j7bQDMTmwd51kt5kVIRoyZoV32lubnsiNr3TgXECdN5V2lXlyQQh1W0jFPQoPx.GXnnUcmMK.reDH+eACRkDCXpvM2u9bwwAQBvgSLl5j3OHTqqJfp8W7myrcwtQ8LqEmx2UitqcFZw0oKxFziEjIlmhUTJJgeNcwDQ2r6Rvhj.E+rJlOczC2z11M3xxCHSVOOJtVFXfRCwpEo7FhQCaVaDF.ZbLFLISvwme7khFp9oOyG+RX4Awe3z.cEoCc1GVhkL0u+pGG8ANC92Y4hi6pUoTiBdP+NnAu6W86.5.P79WmG49pZ6u91lZ6u96E2a+AfSLogC</PROCESSORSTATEZ>
+      <PROCESSORLAYOUT>
+        <BUSINPUTS>
+          <PROCESSORBUS index="0" layout="L R"/>
+          <PROCESSORBUS index="1" layout="L R"/>
+        </BUSINPUTS>
+        <BUSOUTPUTS>
+          <PROCESSORBUS index="0" layout="L R"/>
+        </BUSOUTPUTS>
+      </PROCESSORLAYOUT>
+    </PROCESSOR>
+    <PROCESSOR id="24" bypass="0" prop_str_nodeName="GP Relayer" prop_int_uiLastX="353"
+               prop_int_uiLastY="218" prop_dbl_x="0.14477539062500000000" prop_dbl_y="0.18188476562500000000"
+               prop_int_MaxInputPins="256" prop_int_MaxOutputPins="256" cmp="1">
+      <PLUGIN name="GP Relayer" format="Internal" category="System" manufacturer="Deskew Technologies, LLC"
+              version="1" file="434251" uid="6a04b" isInstrument="0" fileTime="0"
+              infoUpdateTime="0" numInputs="2" numOutputs="2" isShell="0" isEnabled="1"
+              useDelayedLoading="0" explicitWidgetRefresh="0" b64UserKeywords=""/>
+      <PROCESSORSTATEZ>58.3o8ByYiTzPFXfAaROwhyHwhRM9hKIwRRUgxRsnhyL+7rUICURghxOmTAyn3TKFhflqj91w..DfaDZA</PROCESSORSTATEZ>
+      <PROCESSORLAYOUT>
+        <BUSINPUTS>
+          <PROCESSORBUS index="0" layout="L R"/>
+        </BUSINPUTS>
+        <BUSOUTPUTS>
+          <PROCESSORBUS index="0" layout="L R"/>
+        </BUSOUTPUTS>
+      </PROCESSORLAYOUT>
+    </PROCESSOR>
+    <CONNECTION srcID="4" srcChannel="0" dstID="6" dstChannel="0"/>
+    <CONNECTION srcID="4" srcChannel="1" dstID="6" dstChannel="1"/>
+    <CONNECTION srcID="4" srcChannel="2" dstID="8" dstChannel="0"/>
+    <CONNECTION srcID="4" srcChannel="3" dstID="8" dstChannel="1"/>
+    <CONNECTION srcID="4" srcChannel="4" dstID="9" dstChannel="0"/>
+    <CONNECTION srcID="4" srcChannel="5" dstID="9" dstChannel="1"/>
+    <CONNECTION srcID="4" srcChannel="6" dstID="10" dstChannel="0"/>
+    <CONNECTION srcID="4" srcChannel="7" dstID="10" dstChannel="1"/>
+    <CONNECTION srcID="4" srcChannel="8" dstID="11" dstChannel="0"/>
+    <CONNECTION srcID="4" srcChannel="9" dstID="11" dstChannel="1"/>
+    <CONNECTION srcID="4" srcChannel="10" dstID="12" dstChannel="0"/>
+    <CONNECTION srcID="4" srcChannel="11" dstID="12" dstChannel="1"/>
+    <CONNECTION srcID="5" srcChannel="0" dstID="14" dstChannel="0"/>
+    <CONNECTION srcID="5" srcChannel="1" dstID="14" dstChannel="1"/>
+    <CONNECTION srcID="5" srcChannel="2" dstID="14" dstChannel="0"/>
+    <CONNECTION srcID="5" srcChannel="3" dstID="14" dstChannel="1"/>
+    <CONNECTION srcID="5" srcChannel="4" dstID="14" dstChannel="0"/>
+    <CONNECTION srcID="5" srcChannel="5" dstID="14" dstChannel="1"/>
+    <CONNECTION srcID="5" srcChannel="6" dstID="14" dstChannel="0"/>
+    <CONNECTION srcID="5" srcChannel="7" dstID="14" dstChannel="1"/>
+    <CONNECTION srcID="5" srcChannel="8" dstID="14" dstChannel="0"/>
+    <CONNECTION srcID="5" srcChannel="9" dstID="14" dstChannel="1"/>
+    <CONNECTION srcID="5" srcChannel="10" dstID="14" dstChannel="0"/>
+    <CONNECTION srcID="5" srcChannel="11" dstID="14" dstChannel="1"/>
+    <CONNECTION srcID="5" srcChannel="0" dstID="15" dstChannel="0"/>
+    <CONNECTION srcID="5" srcChannel="1" dstID="15" dstChannel="1"/>
+    <CONNECTION srcID="5" srcChannel="2" dstID="15" dstChannel="2"/>
+    <CONNECTION srcID="5" srcChannel="3" dstID="15" dstChannel="3"/>
+    <CONNECTION srcID="5" srcChannel="4" dstID="15" dstChannel="4"/>
+    <CONNECTION srcID="5" srcChannel="5" dstID="15" dstChannel="5"/>
+    <CONNECTION srcID="5" srcChannel="6" dstID="15" dstChannel="6"/>
+    <CONNECTION srcID="5" srcChannel="7" dstID="15" dstChannel="7"/>
+    <CONNECTION srcID="5" srcChannel="8" dstID="15" dstChannel="8"/>
+    <CONNECTION srcID="5" srcChannel="9" dstID="15" dstChannel="9"/>
+    <CONNECTION srcID="5" srcChannel="10" dstID="15" dstChannel="10"/>
+    <CONNECTION srcID="5" srcChannel="11" dstID="15" dstChannel="11"/>
+    <CONNECTION srcID="6" srcChannel="0" dstID="7" dstChannel="0"/>
+    <CONNECTION srcID="6" srcChannel="1" dstID="7" dstChannel="1"/>
+    <CONNECTION srcID="7" srcChannel="0" dstID="5" dstChannel="0"/>
+    <CONNECTION srcID="7" srcChannel="1" dstID="5" dstChannel="1"/>
+    <CONNECTION srcID="8" srcChannel="0" dstID="18" dstChannel="0"/>
+    <CONNECTION srcID="8" srcChannel="1" dstID="18" dstChannel="1"/>
+    <CONNECTION srcID="9" srcChannel="0" dstID="5" dstChannel="4"/>
+    <CONNECTION srcID="9" srcChannel="1" dstID="5" dstChannel="5"/>
+    <CONNECTION srcID="10" srcChannel="0" dstID="19" dstChannel="0"/>
+    <CONNECTION srcID="10" srcChannel="1" dstID="19" dstChannel="1"/>
+    <CONNECTION srcID="11" srcChannel="0" dstID="20" dstChannel="0"/>
+    <CONNECTION srcID="11" srcChannel="1" dstID="20" dstChannel="1"/>
+    <CONNECTION srcID="12" srcChannel="0" dstID="21" dstChannel="0"/>
+    <CONNECTION srcID="12" srcChannel="1" dstID="21" dstChannel="1"/>
+    <CONNECTION srcID="13" srcChannel="0" dstID="22" dstChannel="0"/>
+    <CONNECTION srcID="13" srcChannel="1" dstID="22" dstChannel="1"/>
+    <CONNECTION srcID="14" srcChannel="0" dstID="13" dstChannel="0"/>
+    <CONNECTION srcID="14" srcChannel="1" dstID="13" dstChannel="1"/>
+    <CONNECTION srcID="15" srcChannel="0" dstID="16" dstChannel="0"/>
+    <CONNECTION srcID="15" srcChannel="1" dstID="16" dstChannel="1"/>
+    <CONNECTION srcID="15" srcChannel="2" dstID="16" dstChannel="0"/>
+    <CONNECTION srcID="15" srcChannel="3" dstID="16" dstChannel="1"/>
+    <CONNECTION srcID="15" srcChannel="4" dstID="16" dstChannel="0"/>
+    <CONNECTION srcID="15" srcChannel="5" dstID="16" dstChannel="1"/>
+    <CONNECTION srcID="15" srcChannel="6" dstID="16" dstChannel="0"/>
+    <CONNECTION srcID="15" srcChannel="7" dstID="16" dstChannel="1"/>
+    <CONNECTION srcID="15" srcChannel="8" dstID="16" dstChannel="0"/>
+    <CONNECTION srcID="15" srcChannel="9" dstID="16" dstChannel="1"/>
+    <CONNECTION srcID="15" srcChannel="10" dstID="16" dstChannel="0"/>
+    <CONNECTION srcID="15" srcChannel="11" dstID="16" dstChannel="1"/>
+    <CONNECTION srcID="16" srcChannel="0" dstID="17" dstChannel="0"/>
+    <CONNECTION srcID="16" srcChannel="1" dstID="17" dstChannel="1"/>
+    <CONNECTION srcID="17" srcChannel="0" dstID="13" dstChannel="0"/>
+    <CONNECTION srcID="17" srcChannel="1" dstID="13" dstChannel="1"/>
+    <CONNECTION srcID="18" srcChannel="0" dstID="5" dstChannel="2"/>
+    <CONNECTION srcID="18" srcChannel="1" dstID="5" dstChannel="3"/>
+    <CONNECTION srcID="19" srcChannel="0" dstID="5" dstChannel="6"/>
+    <CONNECTION srcID="19" srcChannel="1" dstID="5" dstChannel="7"/>
+    <CONNECTION srcID="20" srcChannel="0" dstID="5" dstChannel="8"/>
+    <CONNECTION srcID="20" srcChannel="1" dstID="5" dstChannel="9"/>
+    <CONNECTION srcID="21" srcChannel="0" dstID="5" dstChannel="10"/>
+    <CONNECTION srcID="21" srcChannel="1" dstID="5" dstChannel="11"/>
+    <CONNECTION srcID="22" srcChannel="0" dstID="23" dstChannel="0"/>
+    <CONNECTION srcID="22" srcChannel="1" dstID="23" dstChannel="1"/>
+    <CONNECTION srcID="23" srcChannel="0" dstID="24" dstChannel="0"/>
+    <CONNECTION srcID="23" srcChannel="1" dstID="24" dstChannel="1"/>
+    <RACKVIEW>
+      <RACKUNIT size="11" style="0" color="ff4682b4" ver="5.0"/>
+    </RACKVIEW>
+    <PRESET name="Default"/>
+    <SCRIPT_CONTENT></SCRIPT_CONTENT>
+  </RACKSPACE>
+  <SETLISTS activeSetlist="0"/>
+</GIGRACK>

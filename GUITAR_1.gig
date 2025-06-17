@@ -1,0 +1,371 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<GIGRACK activeRackSpace="2" gbpm="120.0" gtimeNum="4" gtimeDen="4" gTranspose="0"
+         version="5.0" scriptWindowPos="" globalStereoCount="2" globalPanelVisible="0">
+  <SCRIPT_CONTENT></SCRIPT_CONTENT>
+  <GLOBALRACKSPACE name="GLOBAL RACKSPACE" uid="842755ad3a3946d795069ee85b2137c2"
+                   bpm="120.0" timeNum="4" timeDen="4" resetTimeInfo="0" syncClock="0"
+                   maxDeactivationTime="2.5" maxDeactivationTimeIn="0.0" scriptWindowPos=""
+                   usePatchPersist="0" zoomLevel="1.0" viewX="0" viewY="0" activePreset="0">
+    <PROCESSORSTATE_IN handle="" gpscript="0" osc="0" x="0.0" y="0.0">23.VMjLg3.....OPwTUGkjSSQUPTUzK9..</PROCESSORSTATE_IN>
+    <PROCESSORSTATE_OUT handle="" gpscript="0" osc="0" x="0.0" y="0.0">73.VMjLg.D....OPwTUGkjSSQUPTUDHig1WvziHw3BLh.Ra0QWYeMFZeASOh.iHfLFZeESOhDiKvHBHsUGck80Xn8UL8HBLh7hO..</PROCESSORSTATE_OUT>
+    <PROCESSOR id="4" bypass="0" prop_str_nodeName="To Rackspaces" prop_int_x="0"
+               prop_int_y="0" cmp="1">
+      <PLUGIN name="To Rackspaces" format="Internal" category="Global" manufacturer="Deskew Technologies, LLC"
+              version="1.0" file="1010970" uid="f6d1a" isInstrument="0" fileTime="0"
+              infoUpdateTime="0" numInputs="4" numOutputs="0" isShell="0" isEnabled="1"
+              useDelayedLoading="0" explicitWidgetRefresh="0" b64UserKeywords=""/>
+      <PROCESSORSTATEZ>8.3o8......D.</PROCESSORSTATEZ>
+    </PROCESSOR>
+    <PROCESSOR id="5" bypass="0" prop_str_nodeName="From Rackspaces" prop_int_x="0"
+               prop_int_y="0" cmp="1">
+      <PLUGIN name="From Rackspaces" format="Internal" category="Global" manufacturer="Deskew Technologies, LLC"
+              version="1.0" file="10104242" uid="9a2db2" isInstrument="0" fileTime="0"
+              infoUpdateTime="0" numInputs="0" numOutputs="4" isShell="0" isEnabled="1"
+              useDelayedLoading="0" explicitWidgetRefresh="0" b64UserKeywords=""/>
+      <PROCESSORSTATEZ>8.3o8......D.</PROCESSORSTATEZ>
+    </PROCESSOR>
+    <RACKVIEW>
+      <RACKUNIT size="11" style="4" color="ff4682b4" ver="5.0"/>
+    </RACKVIEW>
+    <PRESET name="Default"/>
+    <SCRIPT_CONTENT></SCRIPT_CONTENT>
+  </GLOBALRACKSPACE>
+  <RACKSPACE name="CLEAN" uid="4786a33fefad409ebafc51d9502fb886" bpm="120.0"
+             timeNum="4" timeDen="4" resetTimeInfo="0" syncClock="0" maxDeactivationTime="2.5"
+             maxDeactivationTimeIn="0.0" scriptWindowPos="" usePatchPersist="0"
+             zoomLevel="1.0" viewX="112" viewY="6" activePreset="0">
+    <PROCESSORSTATE_IN handle="" gpscript="0" osc="0" x="0.127685546875" y="0.008056640625">23.VMjLg3.....OPwTUGkjSSQUPTUzK9..</PROCESSORSTATE_IN>
+    <PROCESSORSTATE_OUT handle="" gpscript="0" osc="0" x="0.135986328125" y="0.110107421875">73.VMjLg.D....OPwTUGkjSSQUPTUDHig1WvziHw3BLh.Ra0QWYeMFZeASOh.iHfLFZeESOhDiKvHBHsUGck80Xn8UL8HBLh7hO..</PROCESSORSTATE_OUT>
+    <PROCESSOR id="3" bypass="0" prop_str_nodeName="MIDI In (OMNI)" prop_int_MaxInputPins="256"
+               prop_int_MaxOutputPins="256" prop_dbl_x="0.02636718750000000000"
+               prop_dbl_y="0.01171875000000000000" cmp="1">
+      <PLUGIN name="MIDI In (OMNI)" descriptiveName="OMNI" format="Internal"
+              category="MIDI IN Processor" manufacturer="Deskew Technologies, LLC"
+              version="1.0" file="424242" uid="67932" isInstrument="0" fileTime="0"
+              infoUpdateTime="0" numInputs="0" numOutputs="0" isShell="0" isEnabled="1"
+              useDelayedLoading="0" explicitWidgetRefresh="0" b64UserKeywords=""/>
+      <PROCESSORSTATEZ>6914.3ocabksbhjjrc9Tpa8prIZxfcy5tMKIyDDRrD.4hPuTFaZAg.I.swGv7cecQ3aUOS2OzTtSfmdDgeb+bxx57H6+2+o++5e8mtdYc5NXRZXZxOhdX11sq1DL7siu71w+5mkLkpYq9SxtUrGnLWVYtQcwdEwt5aWUrVV+qTSYW8iTWLWQaugXWL1TYT+fGTRb7a1UYZM8idfJU0lUoZC8CefJW+seGU11T+3GvoafozO+Q+G2NX2wUm2wg+zrO8+oy9R2Oa6gW1cXElqSNt6kvMa99ab.WvjiOt3ou91B9y+eYOe0lcKd73Wz90+19quMOb6uJge234hs.xlXxhlRTesxjMwTEzTawTUzTG0JqQ1DS0QSgpuVCxlXpIZpk9wkxgVJaTND8uCXaVIWEik4jUrUQxVwXUNcEa037UrUWRXwXCNiEaMkTlMZKw4rXKPRZwnkSZwFkKQkXSU3bVrQYRrXpFmwhMJQRDSTZzVL0jSW1VYJI5HlB3jUrQoPnXpLmphMJEZIlnLHhy8x03DUrQYPrXpAmnhMJERXSUnLnsXJfSTwFkAcDSk4DUrQYPnXpJmnhMJEZIlnLHRJwZvIpXixfXorqDmnhMJERDSTFzVLUlSTwFkAcDSU4DUrQYPnXpNmnhMJEZIlnLHpLCRHPShMFZRLIPShMFZRLwPShIAZRrwPShIAZRrwPShIAZhsUmQlDSLvTE1jfKI1XXIwjfJI1XPIwDiIIlDHIwFiHIlD.I1VCFORLIvQhMFMRLwfQUYSBXjXiAiDSBXjXiAiDSLXjXR.iXaMYvHwj.FI1XvHwj.FI1XvHwDCFUiMIfQhMFLRLIfQhMFLplzeiQiT1D3HkQFORYS.jTFYDIkMARRYjwjT1XPo5hMAURYjgkDaABtjxHCLorwHSJaBzjxHiMorIfSJiL5jxl.OoLx3SJaL.UCYdBAgRYjgnT1DLJkQFjRYiQoT1DXJkQFmRYixEbbR8PexXkhUZzyIKlsY0x+2q3+kuyqyO+JYr+tkzzqtHZiJpD+IFzKxxehwGhpvehKkhpwehusE0f+TS4WVEDIJARXBj3DHAJPhTfDp.IVARvji9HqDMqJmjnIifEYknYknYknYknYknYknUVhVYIZkUagRzJKQSlNJprDsxRzJKQqrDsJRzpHQqhDsJpSLIZUjnUQhlL3RTEIZUjnUUhVUIZUknUUhVU0EDIZUknUUhVUIZxLEQ0jnUShVMIZ0jnUShVM08QIZ0jnUShVMIZ0knIs6ipKQqtDs5RzpKQqt55uDs5RzpKQqgDsFRzZHQS5DG0PhVCIZMjn0PUsIQqgDslRzZJQqoDslRzZJQSZRF0ThVSIZMUE25paU4cIU8cIUAdIUEdIUIdIUMdIUQdIUUdIUYdIUb+MXEUb0.KZjEMzhFaQCtnQWzvKJ7k.E.SfUimohqBiIPAxDnPYBTvLReA2iGW7v7UaWR8Au63p8G281hG9qeV0znhsTiZqpA3961tq2tOVc33vsa3lAfwKe79G9cqs.7+m7Mf9urb2cZS+yfe1n9IP8U2s4q+Kiga1L73Cq1Gsa6w861rY09CZ2PGnhGVwReb1V9tMu87JskIuc33rG+sG0jOeY+pCGdb2uYcxWGV8I1p66joMDwcefeCwP9rMuQAf5E9ae0e2H90KaM1pAMq0nbix0azrDrkOd0lUyN76g42rgKMvTtd4x0aVcU8e9it2uc29Uc1ra9rM+lLQZYixd4eZId2GTt1c66v9+0q9Z9tY6WxxFs6kyGLnZRe+etmjiZ+i2+q2d76uJLCPVZmgcGz4WCmD8qv33wISl7KWXZZx3A+0O+G9SCG2II8Wccz2D9As0MPDMA+iupa33z+5mMKU5aGxRGD1O46e1a526W86F28W8S.6+JYPXqdIwmeh9104egvznKaEN82blmLdR2gC90fr9sRF+W+z9y+9OeYya2+31e8xr8yddEjx+ZyiGN9CGJK1YwBcd8vB7e1J5b57Jf4sWQTzz407pr+6TSztz4U457mZHpT57pZQAqjHGoC0wB+rUDdzgBWQesJhDityRUc9vxIJT4NKLEYsA+bvfONQ6IGJ4jOgsh0xxGqHerp7QIZBninZjSTKxIhD4DwgbhlPNQKHmHAjSj9wIR93DkdbhBONQXGmHniSDxwI523DcabhbMNQlFmnNiSTkwIpw3DQXbh3KNQyEmn0hSzXwIRq3DIUbhRJNQAEmHbhSDLwIBk3D8QbhtHNQNDmHChSj+vIpd3D0NbhHGNQbCmnogSzxvIZX3DoKbhjENQoBmnPgSTlvIBR3DgHbh9CNQ2AmH2fSjYvIxK3DUEbhZBNQDAmHdfSDMvIZE3DMBbhz.NQR.mnDfST.vIL+cBgemPz2I76cJd8NEedmhFuSQe2oXs6Tr0cJR5NE4bmhTtSwE2o3f6TTucJJ2NEUamhgsSwr1oHT6TDocJ9yNEuYmhurSQS1onG6TrhcJ1vNEKXmh7qSQ586OqhqBoIPA0DnvZBTfMAJzl.EbSfBuIPA3DnPbBTPNAJLm.EnSfB0IPA6DnvcBT.OAJjm.EzSfB6IPA9DnPeBTvOAei+Pn9J.nfuQfX6p3pvfBTfPAJTn.ELTfBGJPADEnPhBTPQAJrn.EXTfBMJPAGEnviBT.RAJDo.EjTfBSJPAJEnPkBTvRAJbof55lkp3pflBTXSAJvo.E5TfBdJPgOEn.nBTHTAJHp.EFUfBjJPgREnfoBT3TAJfp.ERUfBpJPgUEn.qBTnUAJ3pfl54CTCHnvqrJ7JqBuxpvqrJ7JqBuxpvqrJ7JqBuxFnGLQEWEdkUgWYU3UVEdkUgWYU3UVEdkUOOjdfHEdkUORjdlH8PQ5ohziEomKROXjBuxpvqrJ7JaY8nXp3pvqrJ7JqBuxpvqrJ7JqBuxpvqrJ7JqBuxVQOCnJtJ7JqBuxpvqrJ7JqBuxpvqrp4krJ7JqZhIaU8vmp3pvqrJ7JqBuxpvqrJ7JqBuxpvqrJ7JqBuxVSO0qJtJ7JqBuxpvqrJ7JqBuxpvqrJ7JqBuxpvqr00iaqhqBuxpvqrJ7JqBuxpvqrJ7JqBux9MdkVifuMoBeC839pvqfsrJXKqB1xpfsrJXKqB1xpfsrJXKqB1x9MrU.8YMQCESCErU4ugs9ePE+aOJpGeCh8art+1lhDhBLqrBLqrBLq72fYe+j8G+8e1wMIJrWxOVrayt8+0Ou6tJ0ZXmW4m+34ukk37i+yy9D4F+ye79YZpMJUpgg9m2u3waqO1t9F2c0uHs+xcyF26R2ECMYOVTcSbTvEO9xGWuXxCggMuvc+qcRNtLc6ECuXW62N0ua65W732esV6+79KtXK9SYLtUWjd9GHzD+8JJWcz8FyN+WLumwQqO1De3xYO+1pWFEZ1cr6G2Ydc9Mv5OujW6zwDiOIsZYdBdJyFb5g0FWyl9efqLwMZL46m6OA+sJFd07Fae237Ix6W02DSqJx7z9EmWWcI9Ny5MSO+uciMit9SX7nmuMNzMDSfQl0T9A9O+6rewUg7y2Dy5ylZ1rB3uT4m9NEbgt27Yx1TSJr0kWwc83DynyObkdLOje9yMoACNGqW.+XPmG5vezcElTbQsZaFgFeHjyuolT7i2B9g8yadJ5v1PGtm+5slTeNU+y1F7388iP7m3+CyMo90b40cL8+p24+8DDe7mZgI91Q9mPvODvNverJDeLAVYhwPUqCe9YZ4rmi43h6Lwmy9OC5doo6zZ0+9vJpEu+cuIF1kR.GYWZ1E4uKztkCucT9d97+gKMzMots382GLw3Q4wK46G8Z4JVe3K6vR27nId22adECqBq2e8a8vV79+ZS7jy29yZ207z40T9owsb3khJq46Wi6ZRNuQM64rV74ySl3m8WOV1ku+cSKGdnd6FSLdq5EX83U8Ys3yumMw0FctrJ.Vu+h99kP96OTp8Le+s0UlD+i+g6awmuaMm7Qp5fq362qa4764UlsybxemzLCVOVd7bK97+EClHseFVu+l5mu.4u+nrN3uGdq.VuO7ecnEe+3UyI+0qwWbk4rSXG7cH+e77dwh8lSmOmRld80F7mO3qV78mClSmuRMXUw0FDdob.j+9qJMA+muHbySOBqGypJP96OoNdzbB2IdCVuAuKA4u+.Z4alS987OpAqGcegb+6cyZ+uYsndlOvGkvHmOQsqdmqu61yDhflQQ78y2MoH7jqGW+GG4l4QBceXv.k.nd2iPosi36uferpbND+U9uPmHWj+nx7Iie7.DerTnaDe+F76u9NXaOFe4pH2q9H8A3umup8HDeDTtWDe++KSJtqeBhOtU2OxM1up6+hwmpBw+EeZOLhqO.+HnooOie4hbHn4nSlTDzrcey83dw3Ht9A7iaZ85a9.2TlD4vjtUIF+abeSHVpmEw0WfeLn2zmwGyib3h9D7iFWBwGK5tIhq+BLo3M40P7wqRSgye+s5GBX70Wf3imUyh35SvOVd7deF+cdjCAMmXMoHnYPeyBbWeYDW+B9O2bMuR89FD943pHGVoGUlwuaMv36CTL79Ht9F76uydwkCX78Ghb3I0IvO19X3.CFI25Ht9uhI0ummjMvfvSe7Db96uUrtB2eXFDeDI74HFe.76Wy02Of6erEN+OiIXSqZR8o+fmg3et5qwjWhX7CvOhpe.hOtA8Jb96gRRpw8e9BhuePkrCQL9B32WIdSkAb+oiv4uOqJA9wG+Kf3iafuGw3O0MwXSojglCXU+Gv4uelmM049aWOzz3Y+.NeEw3Sferoxngl93F7I372Wfj2vfg+4hglEXUUPDie0fm+YADeO7WUKb96w5Z2zDiWEdDhec+APkHFeC7if56f3iWUpBm+9q2VvOBZ+FDe+I0h5v4OdU5Bt+bIH9d3wFMhbXO+mA+3UsZP78cpVdQjymSucwEl09x6lFG2+1D6veI.yMFAMiclQ33kgwD94Mlv0HnXGmAQBLshceb9o6p0v5QPuqbz822A+H956v5QPs9Nd9fnXG1puNrdrTv4n62ihiI72KCCWSSx4nYdakD6l5mjHMLjluH2Q2++D7i3y2AqmlDywyezN1gWk2CqGAMl6n5iIchI76xv5oIof72C+FcYrCaUE2Jjle4AGU+7E3Gw2G0JbMVT+jimuoarKymTKf0ik5acT8U5UwD9+NX8XQ4qP9isptN1gFKAqGmO5nip+JA9waxgQgqwhpOb77S8hcHmh9QgwHqfSNp9LueL0+XJrd7mxB4ONJxfXmeib+Sv5wc8pNp90B9w9Ke.qGuT2vwymML1gauMf0iPYlQT8cgKl5+zMNbM9nFMxjg.nihcTS63PZ9t1in5+xfepoLrdrTo6Hd9uwwNpoKr959U0aDgOLcRL0+pJrdbqX3HSIOlP2zXG0zLIjleb7HB+nJ3mZJlDt1CesKaDOeYVriZ5AqGgpuYDgubadL0+6EX8XrlA4OlUEwNpoErdb9zkiH7mZfepoT6v0HTv8i34WuAp+wlNsgZceY85QD9z7owT+yYv5wixmg7GG071XG0z.VOVU8xHB+pA3mZJzNL0C+U5vHd93YwNBzuc3I+3o12GQ3aKlGS8eutSXJdU4KH+wQoVD6HP6Ngz70AiH7ulfeBTFVOBOVYDO+8xXGA5Bq22opQcH+8spWsJl5eWCVOdU7BH+wAnuCvJ8+ykWFRyuGM1r.oWeeL0eO8xPZ9y1i446A+Hnycv5QPktiMG7fF2+PL0+eOrd7pduwlL7V6iP8uunsLrdrnb3XSC+IU35XZ9f3tzLQWNdLye.7iW5ccCOgWpyFa56uU7vSwz7Cyg0iW5tYroDRkXCT+6uzrEVOdoXFj+9C8nmio4KNAqGOzVNl4m.9W62zMWEdB2TuGxe+l15swz7G8uJjlOdMj+3nv6f5e+C8TX83C0yP96CZ7Kwz7IOAqGWzKiY9Of+d9R8Of06mjH+vXCNd6SuFSyuz.VOBE79XCJzR9dn922Ur60gD+ouFaPLy1Gho4axtNjl+NXLyuB7i652Cq22IcdkwFhy4wXZ9mCv5Qnl5iMHRVwaP8uuWZEX8HonKFan6ruGSyG0tWHM+dqIL+Mv+bOT03dgmPRMISLj7DeDSyOsDVOBkc4DCNI5zOg5e+pdAVOdA95IFbMc+JlluJ.VON++fIL+PvONUUq9gmvc8QSLXmzWNESyeMneHwOHcBq+SIn92iJcKrdbR8hIlJ9JwqCho4y1.qGypamv7OA+686DeBqGmzaAj+9Qke0FSyu0DVOBEeGj+3QU4XZVjqGDR7WeDxeTdiJwz7cECBI9Galv7aA+XU0iv5wgp2A4uuo9gpwz7euAqGg52Og02pVrCapVCVONT7aP96QJFTOllOryvPh+xmP9iiBB9wlRSFFdBGpsDj+334Mho4GWAqGakTdBy+tYrCA0eEVONJYMH+w16WD6vqhVX830ylSX94lD59YKXVS7TKLk5ueC3Gm+76YQwVAsRM67fduC9w6uCbL9ZbJ0++xvDZ9zTW3ZbnujTl+O3Gueeqiwe6jRyGTF7iyudGDebnsKSMU7fNiZkP2+23X74qRo4G1A9wQ81CwGG555TVegnDp93SGie2OkluXJ3Gm+sLDerU2fTSW+I0Gfer9ooiw2coz7GWEmPyGGOJDQZ2NJk0u.7i0WWMhw+mjRymTE7iyO6FER7eRSMS8EciSRn5u7Qb+g7TZ9kW.+3nryg3iCcTjx5izNgpOeXD2+XZJMeyLvON+8VH9Xq7agye+k9u.+X86wQb+k4oz7OW2IglO+DDero+hTV+EvOVeWcD2+YUJMeTcvON+d33Ph+1cv4uORoWlP0+cFy8mdHkleZO3GGUu+3v0Hp+ior9NcSH7gIi49WOkRyWMG7iy+OEhO1zbCb96qjNA9QREqFy821lRye0+pDhevSP7wld6RY8i.+HofWGy8+dMklOqA3GG5+CH9Hp8d372uSjccBg+XGy8GOlRyuc.7ikOMf3iMcdKk0mpWBgOEMg6e9QJMe2RvOI5+jPhe6moz6mH.7i3WCmv8WOkRy+MneBwOIaR3ZDzuTJq+E3Gw2lMg6+ZSo4Cu.7SuTAH9HncY37GEMePBg+87Dt+b0TZ9w2.+XU+AH9HnasTVesgID93WS392MRo4KWA9oWZwDle9Ev4OJpI3GA8Lob+cSFM+oykP7iZmx72akw52A9QPidob++nLZ9TynDh+z3TleeRlYJJpI3GK5tIkmOncFM+5GfernXYJy++xLVevwIzapZcJO+P2LZ916A+zKcIk0G35LyNTTSvOdn+dJOeQuLZ92QSRH9YAor9ACxX8GA+3lV8Td9igYz7wsRSH9asxX8EFkYpfhZB9wfdYFOex3LZ94OA+nwAYr9CoYr9lYINbnjzLd9krLZ95G.+zKMJi0mnHyzEE0D7iCUbWFOeyMYz72SxSH9gaxX8KtMi0OE7iCErOim+YVFMedTQBwe7yLVeiEv4OJpI3GapWNimOZYFM+9IvOt8cQFq+wcYr9r2.8m8U8I477S2mQy2uF7SuzqbVejGyn2eUcvOJp4nbd9p0Yz7+oSSH9oE4r9IaxX8eA+nTTKx44udNi3GjbaBwe8wbVekcv4CJpI3GkGaWNOe1KYD+gRferq8a4r9K6yX8kmA8m8.Xkx442NjQ7K1.9oWZWNqOyav4CJpI3GGJIrfmu68Lh+Q97DhebmBV+lOyX8qA+XS89E77eekQ7SZuHg3OOof02oDb9fhZB9wlhSK34CCxH9KVvO1zZUAq+S4LVe7kP+YOp9SE77iUxH9MOC9QP+WKX8gpA0mnnlfeDT9iBd9x5YD+mhUID+7xEr9QMyX82A+HnVSH93ttIm3Gc4cID+83aX8kByI8OuC7ifBWcSHoeeTNwepL3Guo6tg0eJNm02+9DGVTkeS3ILRsyI9U6.+3k942v5S0ImzOM7An+u+R4CP7wU0Mm3eME7iWZ1dCqe0U476O.7iGpGg36Oz5zKm3m08wDR+fS2v5a0Omze8AvOtoTEhOVpNLm3uUE7iOzlor9Wtb98SrF5+6+QaOM7jeQWMNm328B3G0en2TVerI4j9ssdB5+6a0OdZH89MxxI9ey.+H.+MSY8yxy42+A3G+oVBwGqptIm3Gd8lDR+h0SY80llS5+9H3G+6evKP7QnlY4D+wZfebp62mx5uMOme+JOC8+8OpVH93eoLVlS7K2C9Q8OZLk0maUNoeb7Vn+ueTknaCo2Oy84D+SHGH8Q5dKqe2C476uA7iaECuM7ju7bx5bheZucIj9IY2x568TNo+7Sfe7u+.y.+HT4y4D+0FfeTek6uk0+aaN+9gdA5+62peFd9PBVujS7aO.9Q8WNbKqO3q4j90IuB8+8U8eAwGKTOjS7eWB9Q8YpbKqe3wb98OA9wixKf3inlumS7iGrOgzuIYFqu3G4j92a.+36m95Ygz6u5qbh+bSvOxpZzLV+wS47625.z+2eUoXV3ZTosfbhe8afeT+mEyX8Is4j94cNB8+8MMdDhOV0WIm3euB7i5CsaFqeY0b98mA9wqhuAwGY5WOm3m6di4mGLi02rYNwOeK3uieWu9Lle9E4D+by6L+7VyY94gE76m6cle9kyY94sJH94u+NyOevbledbAwO+xOX94oyY94IED+76+f4me6bledmB98+8AyO+t4L+7KKH94i9j4muYNyO+pBhe9tOY946my7yutf3mG9EyO+y4L+79E76W7Kled44L+7AED+7O+h4m2bNyO2UP7yu5DyOOdAyOeTAwO+gSL+7qVv7ymTvu+xSL+b2BledZAwOeRIled9BleddAwO+0RL+74KX94EED+7n.le9CKX94SK32OZ.yOe6Ble9sED+7uBX94GWv7ymWP7y6YY94kVv7yWTP7yWaY940Vv7yWUvu+UKyOObIyO+tBhedZYledmkL+7GJH946A+W3mjq+Rle9iED+73JIj9dSVx7yepfe+tfeDpb5Rle9lBhedIvOp+2pkL+7sED+79UY94Osj4muqf3m+TUle9qKY94uVvu+3pL+7OVx7y2WP7yyqw7ysKY94GKH94Gqw7yarj4m+VAwOuccledzJle9GE76mtNyOu6Jle9mED+7f5L+7gqX94mJH94Cav7yyVw7yKUP7yetAyOe1Jletsf3meQCle98qX94kKH94EMY94Ouh4mWsf3m+VSle9gUL+75v92elcX09n21+9pC+we+m+A9W+S3Sp+Gu1e+u9+wJTUjH</PROCESSORSTATEZ>
+    </PROCESSOR>
+    <PROCESSOR id="4" bypass="0" prop_str_nodeName="GUITAR_1_INPUT" prop_int_uiLastX="155"
+               prop_int_uiLastY="191" prop_dbl_x="0.12402343750000000000" prop_dbl_y="0.02709961123764514923"
+               prop_int_MaxInputPins="256" prop_int_MaxOutputPins="256" cmp="1">
+      <PLUGIN name="Gain Control (mono)" descriptiveName="Gain" format="Internal"
+              category="Gain Control" manufacturer="Deskew Technologies, LLC"
+              version="1.0" file="4242" uid="1092" isInstrument="0" fileTime="0"
+              infoUpdateTime="0" numInputs="1" numOutputs="1" isShell="0" isEnabled="1"
+              useDelayedLoading="0" explicitWidgetRefresh="0" b64UserKeywords=""/>
+      <PROCESSORSTATEZ>64.3o8ByYiTzPFXfAaBvmPc2S+BNDGCwUEROwLyyVkLTOCTRgjRLmDyK4TsUICzyTkTH2RKI0T.xVI8siA.rdnCPC</PROCESSORSTATEZ>
+    </PROCESSOR>
+    <PROCESSOR id="5" bypass="0" prop_str_nodeName="GUITAR_1_PRE_LIMITER_GAIN"
+               prop_int_uiLastX="294" prop_int_uiLastY="205" prop_dbl_x="0.13208006322383880615"
+               prop_dbl_y="0.07495116442441940308" prop_int_MaxInputPins="256"
+               prop_int_MaxOutputPins="256" cmp="1">
+      <PLUGIN name="kHs Gain" format="VST3" category="Fx|Tools" manufacturer="Kilohearts"
+              version="2.4.0" file="C:\Program Files\Common Files\VST3\Kilohearts\kHs Gain.vst3"
+              uid="f35bce27" isInstrument="0" fileTime="19774f6c365" infoUpdateTime="1977b0b0183"
+              numInputs="2" numOutputs="2" isShell="0" isEnabled="1" useDelayedLoading="0"
+              explicitWidgetRefresh="0" b64UserKeywords=""/>
+      <PROCESSORSTATEZ>531.3ocsRmriaBDEE.skx17Sj0HQiYnLVxpk.rYdzL6cXLyiFJLs4quMoyBqnrM2EWU58daJoiGG9u94Od6s8d1NDl0SYEs1vHXxG6k35Z56ZSZgePQrEkA8YNjs1NJZnLNnnrhoOG0atb92KeIsq08KKG4iqHyO+ftNZbh9DTRU0L.k.SpIuuEVdzwATeUfpGNzypUpdX3tQ9VNyQQH.y3jHiqNKRTdIBsZAx.diBlql7FasIjkJp9ddYBifgYWsjSeZWhGPVS0e6VdUb9ndlkgK40BWqcNUSKCxGUE4nYi0CnihjCgvhtTsIcsRFEP.xhJuHR1xtpbrx7F+4XVC7JOvXVjnSstmN10yV8o5P2AE9FvsFdKGuMyftzE.Onq2R9b3XAtr1XXDPpq3AFugs1nMjvToy.fDFr8BeiqjuzBaEA9IZEAaQicOhJ723YQoo.68WfzCyWKGpS2kDqZ54Av2HfeQbDmhfVKIq.WnKze3yncXLXB0vzxsyL.4iFTjPhoSgO+r4.RonDxXCCLmxGGFF2FaUJm+XJnddXSJ8gjjEtjZuclZJcRSXDLnpnb2+uTaMU6lRZThfscHSPptDBHY7IDoLrYHzCQvQIFkUXzGXOErZEIxms4nCJ6Jvd0VwKWGMnyWIVSI2er0+HpBwYV9gv1MWlH4cTbS+VkGPWsq95SNguOc+6uf68u+2z+sufe3NuK</PROCESSORSTATEZ>
+      <PROCESSORLAYOUT>
+        <BUSINPUTS>
+          <PROCESSORBUS index="0" layout="L R"/>
+        </BUSINPUTS>
+        <BUSOUTPUTS>
+          <PROCESSORBUS index="0" layout="L R"/>
+        </BUSOUTPUTS>
+      </PROCESSORLAYOUT>
+    </PROCESSOR>
+    <PROCESSOR id="6" bypass="0" prop_str_nodeName="GUITAR_1_Gojira" prop_int_uiLastX="359"
+               prop_int_uiLastY="51" prop_dbl_x="0.12426757812500000000" prop_dbl_y="0.04345703125000000000"
+               prop_int_MaxInputPins="256" prop_int_MaxOutputPins="256" cmp="1">
+      <PLUGIN name="Archetype Gojira" format="VST3" category="Fx|Distortion|Dynamics|Reverb"
+              manufacturer="Neural DSP" version="1.0.0" file="C:\Program Files\Common Files\VST3\Neural DSP\Archetype Gojira.vst3"
+              uid="23018173" isInstrument="0" fileTime="17702e99b00" infoUpdateTime="1977b0b0185"
+              numInputs="2" numOutputs="2" isShell="0" isEnabled="1" useDelayedLoading="0"
+              explicitWidgetRefresh="0" b64UserKeywords=""/>
+      <PROCESSORSTATEZ>2109.3ocqZstahqjDddT182iTerA1SbjFcjL3K3AbRanaeg+Y6DbvsANGtXb3Iae71pAaFRnMSLrVBgBxecWc00kupp31q0+9+9u9129g6XRab11jYKFuIbyq+0Or5sb9eubwqK17W+Yq1sQantwE5Fgu5HGkqHErco6D3uQpSwAoLi3sVsHKW5Efzvpp8QvyznsTy3kcjO9anCOwLIinspXjEFU9L0CoNOhY6EruCweM0fTnXDAX5piIAY5twqbLQ4VdAuSMhw5FwKTYvZXB68X0dK64gsZEN2xyesCweutg2Skx5T7dBdGEWXaLg438RN0nuoR1jkv6F4Ts1yGzVxHDgJkAJcjV05mNU8oGRLV4DR7U5FUPkiXNyoLqVQKUxB46aNbVLI3gaPyFjixiX6bCl43EjZS4eOYaGPGQvnt7ipF5ErdJQURCo1GOIkqGHX+0plzNpfty2yeE8fNrqF57GJdjNYLRaJZoCrd4X0DPO9t9d+8rrXl5z3jctv2mqWQO7cDhnZQw1vu2M0.VWTO8gt9uoOFykMYpARFzSRv2poH0Jf4euG5yx4Sjb+DK2gZL4n85YgypAK+4yXGThcHEj0chws.MrVb1LYeKK8u79YUhCCx4WVmtBqNSOyeGReRhcCtKZWgSJ7cvOfaWbI18CeenxyhtG4XKzZ583zi2iV8bVZaFmzQ1uFr7mOgMuaI1wr.ufUWhaQPl0Snd0ga73k1tiFU29o9Yb3p8ijzoo1LYCwIt9u2.asmpvoHGsrz+6Br8023JvFuzd6V8Mvfe7XHdGDq4qi8nspQy7+41bPbljN78bNNwtUjXrOdoMGx4CXKXxAKf3qeU8qMHuqnt9azIg4RD32tzNHaiUaAwdzzGZDx.eRUH10yPtgb3ykxcN3qfxutbaRKnY.NA54Dz+rPfdFetbGHEB6YXM9LBj87dUxttt2MYebXuojntvZjp2qQ1ye.q0cf09Nv5bGXo2A1f6.a7cfM4Nvx50.+IT.vYvuy0ykKHNNtmN1MXkt6KZVdu3AbiDGC36WFC3ArZJ0HLgM2gQMBdSW1+e9x9Bfeb49ZqXDnZC47BZPrqS6sIgyMDC4Km+ky6gOs2iYyCm0XcVduOfuy9v8z53incwc0yU2UNT+bGZvZ0Vec9EDmpyMMAh0OF3wJA7P2yjC2bo7211xfHj+Vo7Sntg4Jhk8WT0DjaqR1kB2TyYdpfXW+jfC10XdlS6p6a7x0sMDaWNGzKLG8Ibt1KTLBSEtmKnB4mjlExyoXp6NYSS7ixg7JNWKWZ+f+7AA721iU498o7bJwD+kh3ZHOq6bA50gDDjOA7efbg1LCA5n+NWZ7iB0Qm1SER7dUO3yEm0oAYAnK0Qf+yoypI4P8Lh4NhiG+VGA2qmgeNgY2JbyUpEPj8zymctIPMcuA4zEnu07o+lyd84v8ak52QHm4ixtSysmw+BqEweii6vureekMxMj+1tTWoqC1kcLBdG0Xa5R40vVf7lEjor82JuzaWdkuY4U19l0uI2t71A0f7HOH6C0AGyrtNePQ6KgjGBX7koYQZrrHFDmr1Ziebr8aB7iFc1Z7LfeWNI.jAA4iHuopJvWpui5V.WBDetPA7GpudvZzAPtnGbOF+otXe7DYBxi9DAEwbb8WYMtw5N6SXqUdam5iaKj6.xKHE1mhGRg6MyfhFwc.NuU3whygNc91WyDx+uTlsa94czIrGq0eqkYM8XX0tAwBxQA0JlCb7R1IOzfY.7cxDjeK5gQsd7pXcgbwRRhhUm1064qg0v9V3HVgcXfb3HNmfKumxkl0skv37k2SRZ2.m5JrXRPti4DAxLcVKEg0UeTlcsMntAoVt9yVK3d9INwNQ8dn7dlNd7xjKqGe5Kj1+TLOhRbyHINhzwj1+GmqZWD0XdZPL2blQ7rjaoWISi39sE+l9rHtNqJrFNErVTlf9VLcPgbfPdGmvNZYrwjdB68.7nL.KRWUviOaM2enhbbsXS0wh5wWEVd8RMJdSeu.d782bnSVKVOg21US3YcAyLdgzMzeHv2qHw8k8ItG5SyU3R2VnuWeyIc.+l0Wo+PhwBwmOGa8baO1kwK5yX9GwqxNzO+M1hhY4+7OEwmG67gy9Hfe71NPc8BWiZzeZebMpmi6WCe8wcqu+dU3ukdUclsSy45dlsSEmphlvop596F5W0kxsg88H2R2ibGbOxs7cI2suG4l0nddEuP2MbMq47eG7KrBy0UWsi3S3LIas8lTSuSpOdZj4jDI2vNNT9r.qQd0Pqg5wWpPCSTMi38n5cXM5gLCkhgXgJ5wG5UOOdSa2.dObVonCuSKu4kyVDc5cYgIbeWdcyZoQP9xf8LyHlZgS07SyAYeNKK7UdtI6x4EFgU20t6vMvtpN774nlqlqmEwWyC733yVQyMLu77bbsONGiYJ5kyqzDA6q+lNt.WYLRuzfhAw03wkRO7aGUbh0GvZcFtp4vx2aCj0.4fD+9Ycag52JTBrC1DykeTTBedrv6A7rOjCbaY+9OlOAUoC6pOT1+0p4+pl6u.rC2vqi4zLiwAazOzq+iyQ9fbTSNEXs906fNc94ywM949ONZPn0xN1nBEntEFuuiXjIxyu.roX.2ohOOOV7gYFeb1f1xdmN6CMljzIKjWuFe1tGs1xBSrLBYNG+sCxdM7olYe1Lgql6Leu8y+4.qYsaullY2kOWH4nkRxQfN.0iOCMv9XM2VLkWWtwK+RGMMXIbWdX135839KpHe2IfNC3DZNo.v2k.uVcqg1+GVi9MXMD9LcD0l3fsfXIG5A3gY4+i+3r+QD9we74+ME91+CfwUMHT</PROCESSORSTATEZ>
+      <PROCESSORLAYOUT>
+        <BUSINPUTS>
+          <PROCESSORBUS index="0" layout="L R"/>
+        </BUSINPUTS>
+        <BUSOUTPUTS>
+          <PROCESSORBUS index="0" layout="L R"/>
+        </BUSOUTPUTS>
+      </PROCESSORLAYOUT>
+    </PROCESSOR>
+    <PROCESSOR id="8" bypass="0" prop_str_nodeName="COMPRESSOR_GUITAR_1" prop_int_uiLastX="245"
+               prop_int_uiLastY="182" prop_dbl_x="0.12548828125000000000" prop_dbl_y="0.05786132067441940308"
+               prop_int_MaxInputPins="256" prop_int_MaxOutputPins="256" cmp="1">
+      <PLUGIN name="kHs Compressor" format="VST3" category="Fx|Dynamics" manufacturer="Kilohearts"
+              version="2.4.0" file="C:\Program Files\Common Files\VST3\Kilohearts\kHs Compressor.vst3"
+              uid="dc1d7dca" isInstrument="0" fileTime="19774f6e25a" infoUpdateTime="1977b0b0186"
+              numInputs="4" numOutputs="2" isShell="0" isEnabled="1" useDelayedLoading="0"
+              explicitWidgetRefresh="0" b64UserKeywords=""/>
+      <PROCESSORSTATEZ>627.3ocsSlriaBDEEskxWRViT0EfACRVsDfMFLfMlYyNyfYpJvDFMe.46N1sxhNQYatKtuR06J81btdRTe+me6s213Y6PahFxJps6u1m9wFUoF78l5z59OXo3.BfmZD8xczL.BN.fnxM.X6cykvOW9EU+Y3nkcxwUqxCevgt1MvY0OYnqG.ngj3bwhdckQ6611gCR63.NNA0A1W0zYbgEaWjKYSfRDAxkQa4ozA44kLEIdO7aaCKKwv0bm3Bicckzn8WHoajkdvgA1lFP2gXa8VrZaQq6U0iMcVnSUzMnqVB54i59URKIDwUA8SOZ.TvN31hpnxz18xnT03T0K6rs1iqO2ikswbjiGEaRJ2x5wkPZxKDNz0wd8zZXOKKygmGPXJxYUucGleV5DOMiqE4kCA8fj63lBacbZWHB2Zmwz2YbTqUpHUMO8rlre5DbNd84vfrIJ9YG35KDoFqNN6htMPotTw6AGe.uubHzXjTm3QSCsBBOcGcIiWEM1Qcx0jWhKvrzoIZkeZWzJ2LB2Cdt8ns9n390MGofNJ3iA6qaEmJYtMmd9TwjrHItoU57AR6bMd1.Md95DkF0THiDPGHM9ewVmEXQvyFEtWsqKMFdUKhRwXRTjXRlRkVpb9LmX7EBQbdyP2bRZcVAZfp0JR0epZMg6LwL414NhpjhJY5lcs5IgnSKD4jInKEoFI96jQUN77qnqPy3JNg.B39k4kCdLKjKx1dDdbDBlcKBJ+Pfi0ZX0Kr8FV5oCsDTdNLE.OYZQfYs34Vn7xfFGZ+KVN43yjhf+o9SN2ryQP9y+MeVN..5WOoy9c1Mu+kZ0l2+6R2a+xLAxAv</PROCESSORSTATEZ>
+      <PROCESSORLAYOUT>
+        <BUSINPUTS>
+          <PROCESSORBUS index="0" layout="L R"/>
+          <PROCESSORBUS index="1" layout="L R"/>
+        </BUSINPUTS>
+        <BUSOUTPUTS>
+          <PROCESSORBUS index="0" layout="L R"/>
+        </BUSOUTPUTS>
+      </PROCESSORLAYOUT>
+    </PROCESSOR>
+    <PROCESSOR id="9" bypass="0" prop_str_nodeName="GP Relayer" prop_int_uiLastX="268"
+               prop_int_uiLastY="133" prop_dbl_x="0.13012695312500000000" prop_dbl_y="0.09277343750000000000"
+               prop_int_MaxInputPins="256" prop_int_MaxOutputPins="256" cmp="1">
+      <PLUGIN name="GP Relayer" format="Internal" category="System" manufacturer="Deskew Technologies, LLC"
+              version="1" file="434251" uid="6a04b" isInstrument="0" fileTime="0"
+              infoUpdateTime="0" numInputs="2" numOutputs="2" isShell="0" isEnabled="1"
+              useDelayedLoading="0" explicitWidgetRefresh="0" b64UserKeywords=""/>
+      <PROCESSORSTATEZ>58.3o8ByYiTzPFXfAaROwhyHwhRM9hKIwRRUgxRsnhyL+7rUICURghxOmTAyn3TKFhfFqj91w..DPZDVA</PROCESSORSTATEZ>
+      <PROCESSORLAYOUT>
+        <BUSINPUTS>
+          <PROCESSORBUS index="0" layout="L R"/>
+        </BUSINPUTS>
+        <BUSOUTPUTS>
+          <PROCESSORBUS index="0" layout="L R"/>
+        </BUSOUTPUTS>
+      </PROCESSORLAYOUT>
+    </PROCESSOR>
+    <CONNECTION srcID="4" srcChannel="0" dstID="6" dstChannel="0"/>
+    <CONNECTION srcID="5" srcChannel="0" dstID="9" dstChannel="0"/>
+    <CONNECTION srcID="5" srcChannel="1" dstID="9" dstChannel="1"/>
+    <CONNECTION srcID="6" srcChannel="0" dstID="8" dstChannel="0"/>
+    <CONNECTION srcID="6" srcChannel="1" dstID="8" dstChannel="1"/>
+    <CONNECTION srcID="8" srcChannel="0" dstID="5" dstChannel="0"/>
+    <CONNECTION srcID="8" srcChannel="1" dstID="5" dstChannel="1"/>
+    <RACKVIEW>
+      <RACKUNIT size="11" style="0" color="ff4682b4" ver="5.0"/>
+    </RACKVIEW>
+    <PRESET name="Default"/>
+    <SCRIPT_CONTENT></SCRIPT_CONTENT>
+  </RACKSPACE>
+  <RACKSPACE name="CRUNCH" uid="5db3aaf785b049ca92675ba34c6278f6" bpm="120.0"
+             timeNum="4" timeDen="4" resetTimeInfo="0" syncClock="0" maxDeactivationTime="2.5"
+             maxDeactivationTimeIn="0.0" scriptWindowPos="" usePatchPersist="0"
+             zoomLevel="1.0" viewX="112" viewY="6" activePreset="0">
+    <PROCESSORSTATE_IN handle="" gpscript="0" osc="0" x="0.127685546875" y="0.008056640625">23.VMjLg3.....OPwTUGkjSSQUPTUzK9..</PROCESSORSTATE_IN>
+    <PROCESSORSTATE_OUT handle="" gpscript="0" osc="0" x="0.135986328125" y="0.110107421875">73.VMjLg.D....OPwTUGkjSSQUPTUDHig1WvziHw3BLh.Ra0QWYeMFZeASOh.iHfLFZeESOhDiKvHBHsUGck80Xn8UL8HBLh7hO..</PROCESSORSTATE_OUT>
+    <PROCESSOR id="3" bypass="0" prop_str_nodeName="MIDI In (OMNI)" prop_int_MaxInputPins="256"
+               prop_int_MaxOutputPins="256" prop_dbl_x="0.02636718750000000000"
+               prop_dbl_y="0.01171875000000000000" cmp="1">
+      <PLUGIN name="MIDI In (OMNI)" descriptiveName="OMNI" format="Internal"
+              category="MIDI IN Processor" manufacturer="Deskew Technologies, LLC"
+              version="1.0" file="424242" uid="67932" isInstrument="0" fileTime="0"
+              infoUpdateTime="0" numInputs="0" numOutputs="0" isShell="0" isEnabled="1"
+              useDelayedLoading="0" explicitWidgetRefresh="0" b64UserKeywords=""/>
+      <PROCESSORSTATEZ>6914.3ocabksbhjjrc9Tpa8prIZxfcy5tMKIyDDRrD.4hPuTFaZAg.I.swGv7cecQ3aUOS2OzTtSfmdDgeb+bxx57H6+2+o++5e8mtdYc5NXRZXZxOhdX11sq1DL7siu71w+5mkLkpYq9SxtUrGnLWVYtQcwdEwt5aWUrVV+qTSYW8iTWLWQaugXWL1TYT+fGTRb7a1UYZM8idfJU0lUoZC8CefJW+seGU11T+3GvoafozO+Q+G2NX2wUm2wg+zrO8+oy9R2Oa6gW1cXElqSNt6kvMa99ab.WvjiOt3ou91B9y+eYOe0lcKd73Wz90+19quMOb6uJge234hs.xlXxhlRTesxjMwTEzTawTUzTG0JqQ1DS0QSgpuVCxlXpIZpk9wkxgVJaTND8uCXaVIWEik4jUrUQxVwXUNcEa037UrUWRXwXCNiEaMkTlMZKw4rXKPRZwnkSZwFkKQkXSU3bVrQYRrXpFmwhMJQRDSTZzVL0jSW1VYJI5HlB3jUrQoPnXpLmphMJEZIlnLHhy8x03DUrQYPrXpAmnhMJERXSUnLnsXJfSTwFkAcDSk4DUrQYPnXpJmnhMJEZIlnLHRJwZvIpXixfXorqDmnhMJERDSTFzVLUlSTwFkAcDSU4DUrQYPnXpNmnhMJEZIlnLHpLCRHPShMFZRLIPShMFZRLwPShIAZRrwPShIAZRrwPShIAZhsUmQlDSLvTE1jfKI1XXIwjfJI1XPIwDiIIlDHIwFiHIlD.I1VCFORLIvQhMFMRLwfQUYSBXjXiAiDSBXjXiAiDSLXjXR.iXaMYvHwj.FI1XvHwj.FI1XvHwDCFUiMIfQhMFLRLIfQhMFLplzeiQiT1D3HkQFORYS.jTFYDIkMARRYjwjT1XPo5hMAURYjgkDaABtjxHCLorwHSJaBzjxHiMorIfSJiL5jxl.OoLx3SJaL.UCYdBAgRYjgnT1DLJkQFjRYiQoT1DXJkQFmRYixEbbR8PexXkhUZzyIKlsY0x+2q3+kuyqyO+JYr+tkzzqtHZiJpD+IFzKxxehwGhpvehKkhpwehusE0f+TS4WVEDIJARXBj3DHAJPhTfDp.IVARvji9HqDMqJmjnIifEYknYknYknYknYknYknUVhVYIZkUagRzJKQSlNJprDsxRzJKQqrDsJRzpHQqhDsJpSLIZUjnUQhlL3RTEIZUjnUUhVUIZUknUUhVU0EDIZUknUUhVUIZxLEQ0jnUShVMIZ0jnUShVM08QIZ0jnUShVMIZ0knIs6ipKQqtDs5RzpKQqt55uDs5RzpKQqgDsFRzZHQS5DG0PhVCIZMjn0PUsIQqgDslRzZJQqoDslRzZJQSZRF0ThVSIZMUE25paU4cIU8cIUAdIUEdIUIdIUMdIUQdIUUdIUYdIUb+MXEUb0.KZjEMzhFaQCtnQWzvKJ7k.E.SfUimohqBiIPAxDnPYBTvLReA2iGW7v7UaWR8Au63p8G281hG9qeV0znhsTiZqpA3961tq2tOVc33vsa3lAfwKe79G9cqs.7+m7Mf9urb2cZS+yfe1n9IP8U2s4q+Kiga1L73Cq1Gsa6w861rY09CZ2PGnhGVwReb1V9tMu87JskIuc33rG+sG0jOeY+pCGdb2uYcxWGV8I1p66joMDwcefeCwP9rMuQAf5E9ae0e2H90KaM1pAMq0nbix0azrDrkOd0lUyN76g42rgKMvTtd4x0aVcU8e9it2uc29Uc1ra9rM+lLQZYixd4eZId2GTt1c66v9+0q9Z9tY6WxxFs6kyGLnZRe+etmjiZ+i2+q2d76uJLCPVZmgcGz4WCmD8qv33wISl7KWXZZx3A+0O+G9SCG2II8Wccz2D9As0MPDMA+iupa33z+5mMKU5aGxRGD1O46e1a526W86F28W8S.6+JYPXqdIwmeh9104egvznKaEN82blmLdR2gC90fr9sRF+W+z9y+9OeYya2+31e8xr8yddEjx+ZyiGN9CGJK1YwBcd8vB7e1J5b57Jf4sWQTzz407pr+6TSztz4U457mZHpT57pZQAqjHGoC0wB+rUDdzgBWQesJhDityRUc9vxIJT4NKLEYsA+bvfONQ6IGJ4jOgsh0xxGqHerp7QIZBninZjSTKxIhD4DwgbhlPNQKHmHAjSj9wIR93DkdbhBONQXGmHniSDxwI523DcabhbMNQlFmnNiSTkwIpw3DQXbh3KNQyEmn0hSzXwIRq3DIUbhRJNQAEmHbhSDLwIBk3D8QbhtHNQNDmHChSj+vIpd3D0NbhHGNQbCmnogSzxvIZX3DoKbhjENQoBmnPgSTlvIBR3DgHbh9CNQ2AmH2fSjYvIxK3DUEbhZBNQDAmHdfSDMvIZE3DMBbhz.NQR.mnDfST.vIL+cBgemPz2I76cJd8NEedmhFuSQe2oXs6Tr0cJR5NE4bmhTtSwE2o3f6TTucJJ2NEUamhgsSwr1oHT6TDocJ9yNEuYmhurSQS1onG6TrhcJ1vNEKXmh7qSQ586OqhqBoIPA0DnvZBTfMAJzl.EbSfBuIPA3DnPbBTPNAJLm.EnSfB0IPA6DnvcBT.OAJjm.EzSfB6IPA9DnPeBTvOAei+Pn9J.nfuQfX6p3pvfBTfPAJTn.ELTfBGJPADEnPhBTPQAJrn.EXTfBMJPAGEnviBT.RAJDo.EjTfBSJPAJEnPkBTvRAJbof55lkp3pflBTXSAJvo.E5TfBdJPgOEn.nBTHTAJHp.EFUfBjJPgREnfoBT3TAJfp.ERUfBpJPgUEn.qBTnUAJ3pfl54CTCHnvqrJ7JqBuxpvqrJ7JqBuxpvqrJ7JqBuxFnGLQEWEdkUgWYU3UVEdkUgWYU3UVEdkUOOjdfHEdkUORjdlH8PQ5ohziEomKROXjBuxpvqrJ7JaY8nXp3pvqrJ7JqBuxpvqrJ7JqBuxpvqrJ7JqBuxVQOCnJtJ7JqBuxpvqrJ7JqBuxpvqrp4krJ7JqZhIaU8vmp3pvqrJ7JqBuxpvqrJ7JqBuxpvqrJ7JqBuxVSO0qJtJ7JqBuxpvqrJ7JqBuxpvqrJ7JqBuxpvqr00iaqhqBuxpvqrJ7JqBuxpvqrJ7JqBux9MdkVifuMoBeC839pvqfsrJXKqB1xpfsrJXKqB1xpfsrJXKqB1x9MrU.8YMQCESCErU4ugs9ePE+aOJpGeCh8art+1lhDhBLqrBLqrBLq72fYe+j8G+8e1wMIJrWxOVrayt8+0Ou6tJ0ZXmW4m+34ukk37i+yy9D4F+ye79YZpMJUpgg9m2u3waqO1t9F2c0uHs+xcyF26R2ECMYOVTcSbTvEO9xGWuXxCggMuvc+qcRNtLc6ECuXW62N0ua65W732esV6+79KtXK9SYLtUWjd9GHzD+8JJWcz8FyN+WLumwQqO1De3xYO+1pWFEZ1cr6G2Ydc9Mv5OujW6zwDiOIsZYdBdJyFb5g0FWyl9efqLwMZL46m6OA+sJFd07Fae237Ix6W02DSqJx7z9EmWWcI9Ny5MSO+uciMit9SX7nmuMNzMDSfQl0T9A9O+6rewUg7y2Dy5ylZ1rB3uT4m9NEbgt27Yx1TSJr0kWwc83DynyObkdLOje9yMoACNGqW.+XPmG5vezcElTbQsZaFgFeHjyuolT7i2B9g8yadJ5v1PGtm+5slTeNU+y1F7388iP7m3+CyMo90b40cL8+p24+8DDe7mZgI91Q9mPvODvNverJDeLAVYhwPUqCe9YZ4rmi43h6Lwmy9OC5doo6zZ0+9vJpEu+cuIF1kR.GYWZ1E4uKztkCucT9d97+gKMzMots382GLw3Q4wK46G8Z4JVe3K6vR27nId22adECqBq2e8a8vV79+ZS7jy29yZ207z40T9owsb3khJq46Wi6ZRNuQM64rV74ySl3m8WOV1ku+cSKGdnd6FSLdq5EX83U8Ys3yumMw0FctrJ.Vu+h99kP96OTp8Le+s0UlD+i+g6awmuaMm7Qp5fq362qa4764UlsybxemzLCVOVd7bK97+EClHseFVu+l5mu.4u+nrN3uGdq.VuO7ecnEe+3UyI+0qwWbk4rSXG7cH+e77dwh8lSmOmRld80F7mO3qV78mClSmuRMXUw0FDdob.j+9qJMA+muHbySOBqGypJP96OoNdzbB2IdCVuAuKA4u+.Z4alS987OpAqGcegb+6cyZ+uYsndlOvGkvHmOQsqdmqu61yDhflQQ78y2MoH7jqGW+GG4l4QBceXv.k.nd2iPosi36uferpbND+U9uPmHWj+nx7Iie7.DerTnaDe+F76u9NXaOFe4pH2q9H8A3umup8HDeDTtWDe++KSJtqeBhOtU2OxM1up6+hwmpBw+EeZOLhqO.+HnooOie4hbHn4nSlTDzrcey83dw3Ht9A7iaZ85a9.2TlD4vjtUIF+abeSHVpmEw0WfeLn2zmwGyib3h9D7iFWBwGK5tIhq+BLo3M40P7wqRSgye+s5GBX70Wf3imUyh35SvOVd7deF+cdjCAMmXMoHnYPeyBbWeYDW+B9O2bMuR89FD943pHGVoGUlwuaMv36CTL79Ht9F76uydwkCX78Ghb3I0IvO19X3.CFI25Ht9uhI0ummjMvfvSe7Db96uUrtB2eXFDeDI74HFe.76Wy02Of6erEN+OiIXSqZR8o+fmg3et5qwjWhX7CvOhpe.hOtA8Jb96gRRpw8e9BhuePkrCQL9B32WIdSkAb+oiv4uOqJA9wG+Kf3iafuGw3O0MwXSojglCXU+Gv4uelmM049aWOzz3Y+.NeEw3Sferoxngl93F7I372Wfj2vfg+4hglEXUUPDie0fm+YADeO7WUKb96w5Z2zDiWEdDhec+APkHFeC7if56f3iWUpBm+9q2VvOBZ+FDe+I0h5v4OdU5Bt+bIH9d3wFMhbXO+mA+3UsZP78cpVdQjymSucwEl09x6lFG2+1D6veI.yMFAMiclQ33kgwD94Mlv0HnXGmAQBLshceb9o6p0v5QPuqbz822A+H956v5QPs9Nd9fnXG1puNrdrTv4n62ihiI72KCCWSSx4nYdakD6l5mjHMLjluH2Q2++D7i3y2AqmlDywyezN1gWk2CqGAMl6n5iIchI76xv5oIof72C+FcYrCaUE2Jjle4AGU+7E3Gw2G0JbMVT+jimuoarKymTKf0ik5acT8U5UwD9+NX8XQ4qP9isptN1gFKAqGmO5nip+JA9waxgQgqwhpOb77S8hcHmh9QgwHqfSNp9LueL0+XJrd7mxB4ONJxfXmeib+Sv5wc8pNp90B9w9Ke.qGuT2vwymML1gauMf0iPYlQT8cgKl5+zMNbM9nFMxjg.nihcTS63PZ9t1in5+xfepoLrdrTo6Hd9uwwNpoKr959U0aDgOLcRL0+pJrdbqX3HSIOlP2zXG0zLIjleb7HB+nJ3mZJlDt1CesKaDOeYVriZ5AqGgpuYDgubadL0+6EX8XrlA4OlUEwNpoErdb9zkiH7mZfepoT6v0HTv8i34WuAp+wlNsgZceY85QD9z7owT+yYv5wixmg7GG071XG0z.VOVU8xHB+pA3mZJzNL0C+U5vHd93YwNBzuc3I+3o12GQ3aKlGS8eutSXJdU4KH+wQoVD6HP6Ngz70AiH7ulfeBTFVOBOVYDO+8xXGA5Bq22opQcH+8spWsJl5eWCVOdU7BH+wAnuCvJ8+ykWFRyuGM1r.oWeeL0eO8xPZ9y1i446A+Hnycv5QPktiMG7fF2+PL0+eOrd7pduwlL7V6iP8uunsLrdrnb3XSC+IU35XZ9f3tzLQWNdLye.7iW5ccCOgWpyFa56uU7vSwz7Cyg0iW5tYroDRkXCT+6uzrEVOdoXFj+9C8nmio4KNAqGOzVNl4m.9W62zMWEdB2TuGxe+l15swz7G8uJjlOdMj+3nv6f5e+C8TX83C0yP96CZ7Kwz7IOAqGWzKiY9Of+d9R8Of06mjH+vXCNd6SuFSyuz.VOBE79XCJzR9dn922Ur60gD+ouFaPLy1Gho4axtNjl+NXLyuB7i652Cq22IcdkwFhy4wXZ9mCv5Qnl5iMHRVwaP8uuWZEX8HonKFan6ruGSyG0tWHM+dqIL+Mv+bOT03dgmPRMISLj7DeDSyOsDVOBkc4DCNI5zOg5e+pdAVOdA95IFbMc+JlluJ.VON++fIL+PvONUUq9gmvc8QSLXmzWNESyeMneHwOHcBq+SIn92iJcKrdbR8hIlJ9JwqCho4y1.qGypamv7OA+686DeBqGmzaAj+9Qke0FSyu0DVOBEeGj+3QU4XZVjqGDR7WeDxeTdiJwz7cECBI9Galv7aA+XU0iv5wgp2A4uuo9gpwz7euAqGg52Og02pVrCapVCVONT7aP96QJFTOllOryvPh+xmP9iiBB9wlRSFFdBGpsDj+334Mho4GWAqGakTdBy+tYrCA0eEVONJYMH+w16WD6vqhVX830ylSX94lD59YKXVS7TKLk5ueC3Gm+76YQwVAsRM67fduC9w6uCbL9ZbJ0++xvDZ9zTW3ZbnujTl+O3Gueeqiwe6jRyGTF7iyudGDebnsKSMU7fNiZkP2+23X74qRo4G1A9wQ81CwGG555TVegnDp93SGie2OkluXJ3Gm+sLDerU2fTSW+I0Gfer9ooiw2coz7GWEmPyGGOJDQZ2NJk0u.7i0WWMhw+mjRymTE7iyO6FER7eRSMS8EciSRn5u7Qb+g7TZ9kW.+3nryg3iCcTjx5izNgpOeXD2+XZJMeyLvON+8VH9Xq7agye+k9u.+X86wQb+k4oz7OW2IglO+DDero+hTV+EvOVeWcD2+YUJMeTcvON+d33Ph+1cv4uORoWlP0+cFy8mdHkleZO3GGUu+3v0Hp+ior9NcSH7gIi49WOkRyWMG7iy+OEhO1zbCb96qjNA9QREqFy821lRye0+pDhevSP7wld6RY8i.+HofWGy8+dMklOqA3GG5+CH9Hp8d372uSjccBg+XGy8GOlRyuc.7ikOMf3iMcdKk0mpWBgOEMg6e9QJMe2RvOI5+jPhe6moz6mH.7i3WCmv8WOkRy+MneBwOIaR3ZDzuTJq+E3Gw2lMg6+ZSo4Cu.7SuTAH9HncY37GEMePBg+87Dt+b0TZ9w2.+XU+AH9HnasTVesgID93WS392MRo4KWA9oWZwDle9Ev4OJpI3GA8Lob+cSFM+oykP7iZmx72akw52A9QPidob++nLZ9TynDh+z3TleeRlYJJpI3GK5tIkmOncFM+5GfernXYJy++xLVevwIzapZcJO+P2LZ916A+zKcIk0G35LyNTTSvOdn+dJOeQuLZ92QSRH9YAor9ACxX8GA+3lV8Td9igYz7wsRSH9asxX8EFkYpfhZB9wfdYFOex3LZ94OA+nwAYr9CoYr9lYINbnjzLd9krLZ95G.+zKMJi0mnHyzEE0D7iCUbWFOeyMYz72SxSH9gaxX8KtMi0OE7iCErOim+YVFMedTQBwe7yLVeiEv4OJpI3GapWNimOZYFM+9IvOt8cQFq+wcYr9r2.8m8U8I477S2mQy2uF7SuzqbVejGyn2eUcvOJp4nbd9p0Yz7+oSSH9oE4r9IaxX8eA+nTTKx44udNi3GjbaBwe8wbVekcv4CJpI3GkGaWNOe1KYD+gRferq8a4r9K6yX8kmA8m8.Xkx442NjQ7K1.9oWZWNqOyav4CJpI3GGJIrfmu68Lh+Q97DhebmBV+lOyX8qA+XS89E77eekQ7SZuHg3OOof02oDb9fhZB9wlhSK34CCxH9KVvO1zZUAq+S4LVe7kP+YOp9SE77iUxH9MOC9QP+WKX8gpA0mnnlfeDT9iBd9x5YD+mhUID+7xEr9QMyX82A+HnVSH93ttIm3Gc4cID+83aX8kByI8OuC7ifBWcSHoeeTNwepL3Guo6tg0eJNm02+9DGVTkeS3ILRsyI9U6.+3k942v5S0ImzOM7An+u+R4CP7wU0Mm3eME7iWZ1dCqe0U476O.7iGpGg36Oz5zKm3m08wDR+fS2v5a0Omze8AvOtoTEhOVpNLm3uUE7iOzlor9Wtb98SrF5+6+QaOM7jeQWMNm328B3G0en2TVerI4j9ssdB5+6a0OdZH89MxxI9ey.+H.+MSY8yxy42+A3G+oVBwGqptIm3Gd8lDR+h0SY80llS5+9H3G+6evKP7QnlY4D+wZfebp62mx5uMOme+JOC8+8OpVH93eoLVlS7K2C9Q8OZLk0maUNoeb7Vn+ueTknaCo2Oy84D+SHGH8Q5dKqe2C476uA7iaECuM7ju7bx5bheZucIj9IY2x568TNo+7Sfe7u+.y.+HT4y4D+0FfeTek6uk0+aaN+9gdA5+62peFd9PBVujS7aO.9Q8WNbKqO3q4j90IuB8+8U8eAwGKTOjS7eWB9Q8YpbKqe3wb98OA9wixKf3inlumS7iGrOgzuIYFqu3G4j92a.+36m95Ygz6u5qbh+bSvOxpZzLV+wS47625.z+2eUoXV3ZTosfbhe8afeT+mEyX8Is4j94cNB8+8MMdDhOV0WIm3euB7i5CsaFqeY0b98mA9wqhuAwGY5WOm3m6di4mGLi02rYNwOeK3uieWu9Lle9E4D+by6L+7VyY94gE76m6cle9kyY94sJH94u+NyOevbledbAwO+xOX94oyY94IED+76+f4me6bledmB98+8AyO+t4L+7KKH94i9j4muYNyO+pBhe9tOY946my7yutf3mG9EyO+y4L+79E76W7Kled44L+7AED+7O+h4m2bNyO2UP7yu5DyOOdAyOeTAwO+gSL+7qVv7ymTvu+xSL+b2BledZAwOeRIled9BleddAwO+0RL+74KX94EED+7n.le9CKX94SK32OZ.yOe6Ble9sED+7uBX94GWv7ymWP7y6YY94kVv7yWTP7yWaY940Vv7yWUvu+UKyOObIyO+tBhedZYledmkL+7GJH946A+W3mjq+Rle9iED+73JIj9dSVx7yepfe+tfeDpb5Rle9lBhedIvOp+2pkL+7sED+79UY94Osj4muqf3m+TUle9qKY94uVvu+3pL+7OVx7y2WP7yyqw7ysKY94GKH94Gqw7yarj4m+VAwOuccledzJle9GE76mtNyOu6Jle9mED+7f5L+7gqX94mJH94Cav7yyVw7yKUP7yetAyOe1Jletsf3meQCle98qX94kKH94EMY94Ouh4mWsf3m+VSle9gUL+75v92elcX09n21+9pC+we+m+A9W+S3Sp+Gu1e+u9+wJTUjH</PROCESSORSTATEZ>
+    </PROCESSOR>
+    <PROCESSOR id="4" bypass="0" prop_str_nodeName="GUITAR_1_INPUT" prop_int_uiLastX="155"
+               prop_int_uiLastY="191" prop_dbl_x="0.12402343750000000000" prop_dbl_y="0.02709961123764514923"
+               prop_int_MaxInputPins="256" prop_int_MaxOutputPins="256" cmp="1">
+      <PLUGIN name="Gain Control (mono)" descriptiveName="Gain" format="Internal"
+              category="Gain Control" manufacturer="Deskew Technologies, LLC"
+              version="1.0" file="4242" uid="1092" isInstrument="0" fileTime="0"
+              infoUpdateTime="0" numInputs="1" numOutputs="1" isShell="0" isEnabled="1"
+              useDelayedLoading="0" explicitWidgetRefresh="0" b64UserKeywords=""/>
+      <PROCESSORSTATEZ>64.3o8ByYiTzPFXfAaBvmPc2S+BNDGCwUEROwLyyVkLTOCTRgjRLmDyK4TsUICzyTkTH2RKI0T.xVI8siA.rdnCPC</PROCESSORSTATEZ>
+    </PROCESSOR>
+    <PROCESSOR id="5" bypass="0" prop_str_nodeName="GUITAR_1_PRE_LIMITER_GAIN"
+               prop_int_uiLastX="294" prop_int_uiLastY="205" prop_dbl_x="0.13208006322383880615"
+               prop_dbl_y="0.07495116442441940308" prop_int_MaxInputPins="256"
+               prop_int_MaxOutputPins="256" cmp="1">
+      <PLUGIN name="kHs Gain" format="VST3" category="Fx|Tools" manufacturer="Kilohearts"
+              version="2.4.0" file="C:\Program Files\Common Files\VST3\Kilohearts\kHs Gain.vst3"
+              uid="f35bce27" isInstrument="0" fileTime="19774f6c365" infoUpdateTime="1977b0b018b"
+              numInputs="2" numOutputs="2" isShell="0" isEnabled="1" useDelayedLoading="0"
+              explicitWidgetRefresh="0" b64UserKeywords=""/>
+      <PROCESSORSTATEZ>531.3ocsRmriaBDEE.skx17Sj0HQiYnLVxpk.rYdzL6cXLyiFJLs4quMoyBqnrM2EWU58daJoiGG9u94Od6s8d1NDl0SYEs1vHXxG6k35Z56ZSZgePQrEkA8YNjs1NJZnLNnnrhoOG0atb92KeIsq08KKG4iqHyO+ftNZbh9DTRU0L.k.SpIuuEVdzwATeUfpGNzypUpdX3tQ9VNyQQH.y3jHiqNKRTdIBsZAx.diBlql7FasIjkJp9ddYBifgYWsjSeZWhGPVS0e6VdUb9ndlkgK40BWqcNUSKCxGUE4nYi0CnihjCgvhtTsIcsRFEP.xhJuHR1xtpbrx7F+4XVC7JOvXVjnSstmN10yV8o5P2AE9FvsFdKGuMyftzE.Onq2R9b3XAtr1XXDPpq3AFugs1nMjvToy.fDFr8BeiqjuzBaEA9IZEAaQicOhJ723YQoo.68WfzCyWKGpS2kDqZ54Av2HfeQbDmhfVKIq.WnKze3yncXLXB0vzxsyL.4iFTjPhoSgO+r4.RonDxXCCLmxGGFF2FaUJm+XJnddXSJ8gjjEtjZuclZJcRSXDLnpnb2+uTaMU6lRZThfscHSPptDBHY7IDoLrYHzCQvQIFkUXzGXOErZEIxms4nCJ6Jvd0VwKWGMnyWIVSI2er0+HpBwYV9gv1MWlH4cTbS+VkGPWsq95SNguOc+6uf68u+2z+sufe3NuK</PROCESSORSTATEZ>
+      <PROCESSORLAYOUT>
+        <BUSINPUTS>
+          <PROCESSORBUS index="0" layout="L R"/>
+        </BUSINPUTS>
+        <BUSOUTPUTS>
+          <PROCESSORBUS index="0" layout="L R"/>
+        </BUSOUTPUTS>
+      </PROCESSORLAYOUT>
+    </PROCESSOR>
+    <PROCESSOR id="6" bypass="0" prop_str_nodeName="GUITAR_1_Gojira" prop_int_uiLastX="359"
+               prop_int_uiLastY="31" prop_dbl_x="0.12426757812500000000" prop_dbl_y="0.04345703125000000000"
+               prop_int_MaxInputPins="256" prop_int_MaxOutputPins="256" cmp="1">
+      <PLUGIN name="Archetype Gojira" format="VST3" category="Fx|Distortion|Dynamics|Reverb"
+              manufacturer="Neural DSP" version="1.0.0" file="C:\Program Files\Common Files\VST3\Neural DSP\Archetype Gojira.vst3"
+              uid="23018173" isInstrument="0" fileTime="17702e99b00" infoUpdateTime="1977b0b018d"
+              numInputs="2" numOutputs="2" isShell="0" isEnabled="1" useDelayedLoading="0"
+              explicitWidgetRefresh="0" b64UserKeywords=""/>
+      <PROCESSORSTATEZ>2111.3ocqZstahqjDddT182iTerA1SbjFcjL3K3AbRanaeg+Y6DbvsANGtXb3Iae71pAaFRnMSLrVBgBxecWc00kupp31q0+9+9u9129g6XRab11jYKFuIbyq+0Or5sb9eubwqK17W+Yq1sQantwE5Fgu5HGkqHErco6D3uQpSwAoLi3sVsHKW5Efzvpp8QvyznsTy3kcjO9anCOwLIinspXjEFU9L0CoNOhY6EruCweM0fTnXDAX5piIAY5twqbLQ4VdAuSMhw5FwKTYvZXB68X0dK64gsZEN2xyesCweutg2Skx5T7dBdGEWXaLg438RN0nuoR1jkv6F4Ts1yGzVxHDgJkAJcjV05mNU8oGRLV4DR7U5FUPkiXNyoLqVQKUxB46aNbVLI3gaPyFjixiX6bCl43EjZS4eOYaGPGQvnt7ipF5ErdJQURCo1GOIkqGHX+0plzNpfty2yeE8fNrqVk5A88mQHJdjNYLRaJZoCrd4X0DPO9t9d+8rrXl5z3jctv2mqWQO7cDhnZQw1vu2M0.VWTO8gt9uoOFykMYpARFzSRv2poH0Jf4euG5yx4Sjb+DK2gZL4n85YgypAK+4yXGThcHEj0chws.MrVb1LYeKK8u79YUhCCxoXcJ+4S5zUX0Y5Y96P5SRrq6tP.t1U3jBeG7C31EWhc+v2GpH7djisPqo2iSOdOZ0yYosYbRGY+Zvxe9D17tkXGyB7BVcItEAYVOg5UGtwiWZ6NZTc6m5mwgq1ORRmlZyjMDm35+dCr0dpBmhbzxR+uKv1Weiq.a7R6sa02.C9wig3cPrluN1i1pFMy+mayAwYR5v2y43D6VQhw93kXQNe.aASNXADe8qpesA4cE00eiNILWh.+1k1AYarZKH1il9PiPF3SpBwtdFxMjCetTtyAeET90kaSZAMCvIPOmf9mEBzy3yk6.oPXOCqwmQfrm2qR1008tI6iC6MkD0EViT8dMxd9CXstCr12AVm6.K8NvFbGXiuCrI2AVVuF3OgB.NC9ctdtbAwww8zwtAqzceQyx6EOfazWN9wCX0TpQXBatCiZD7ltr++7k8E.+3x80VwHP0Fx4Ezf7km1aSBmaHFxWN+Km2CeZuGylGNqw5r7de.em8g6o0wGQ6h6pmqtqbn94Nzf0ps957KHNUmaZBDqeLviUB3gtmIGt4R4usskAQH+sR4mPcCyUDK6unpIH2VkrKEtoly7TAwt9IAGrqw7Lm1U223kqaaH1tbNnWXN5S3bsWnXDlJbOITg7SRyB44TL0cmroI9Q4PdEmqkKseve9f.9a6wpb+9TdNkXh+RQbMjm0ct.85PBBxm.9OPtPalg.czemKM9Qg5nS6oBIdupG74hy5zfr.zk5Hv+4zY0jbndFwbGwwieqif60yvOmvraEt4J0BHxd54yN2Dnlt2fb5Bz2Z9zeyYu9b39sR86Hjy7QY2o41y3eg0h3uwwc3W1uuxF4FxeaWpqz0A6xNFAuiZrMco7ZXKPdyBxT19akW5sKux2r7Jaey52jaWd6fZPdjGj8g5fiYVWmOnn8kPxCAL9xzrHMVVDChSVaswON19MA9QiNaMdFvuKmD.xff7Qj2TUE3K02QcKfKAhOWn.9C0WOXM5.HWzCtGi+TWrOvBSTdzmHnHliq+JqwMV2YeBasxa6TebagbGPdAov9T7PJbuYFTzHtCv4sBOVbNzoy29ZlP9+kxrcyOuiNg8Xs9asLqoGCq1MHVQXsh4.GujcxCMXF.emLA42hdXTqGuJVWHWrjjnX0oc8d9ZXMruENhUXGFHGNhyI3x6oboYcaILNe48jj1MvotBKlDj6XNQfLSm0RQXc0GkYWaCpaPpkq+r0BtmehSrSTuGJumoiGuL4x5wm9Bo8OEyinD2LRhiHcLo8+w4p1EQMlmFDyMmYDOK4V5UxzHteawuoOKhqypBqgSAqEkInuESGTHGHj2wIriVFaLomvdO.OJCvhzUE73yVy8GpHGWK1Tcrnd7UgkWuTih2z2KfGe+MG5j0h0S3sc0DdVWvLiWHcC8GB78JRbeYeh6g9zbEtzsE5602bRGvuY8U5OjXrP74ywVO21icY7h9Ll+Q7prC8yeisnXV9O+SQ74wNe3rOB3GusCTWuv0nF8m1GWi54390vWeb256uWE9aoWUmY6zbttmY6TwopnIbppt+tg9UcobaXeOxsz8H2A2ibKeWxc66QtYMpmWwKzcCWyZN+2A+Bqvbc0U6H9DNSxVauI0z6j5imFYNIQxMriCkOKvZjWMzZnd7kJzvDUyHdOpdGVidHyPoXHVnhd7gd0yi2z1Mf2CmUJ5v6zxad4rEQmdWVXB22kW2rVZDjuLXOyLhoV3TM+zbP1myxBekmaxtbdgQX0cs6NbCrqpCOeNp4p45YQ707.ON9rUzbCyKOOGW6iywXlhd47JMQv95uoiKvUFizKMnXPbMdbozC+1QEmX8ArVmgqZNr781.YMPNHwueV2Vn9sBk.6fMwb4GEkvmGK7d.O6C4.2V1u+i4SPU5vt5Ck8esZ9up49K.6vM75XNMyXbvF8C85+3bjOHG0jSAVqe8NnSme9bbiet+iiFDZsriMpPApagw66HFYh77K.aJFvcp3yyiEeXlwGmMnsr2oy9PiIIcxB40qwms6QqsrvDKiPlywe6frWCepY1mMS3p4Ny2a+7eNvZV61qoY1c4yERNZojbDnCP83yPCrOVysES40ka7xuzQSCVB2kGlMtdOt+hJx2cBny.NglSJ.7cIvqU2Zn8+g0neCVCgOSGQsINXKHVxgd.dXV9+3ON6eDge7Ge9eSgu8+.HzKDRE</PROCESSORSTATEZ>
+      <PROCESSORLAYOUT>
+        <BUSINPUTS>
+          <PROCESSORBUS index="0" layout="L R"/>
+        </BUSINPUTS>
+        <BUSOUTPUTS>
+          <PROCESSORBUS index="0" layout="L R"/>
+        </BUSOUTPUTS>
+      </PROCESSORLAYOUT>
+    </PROCESSOR>
+    <PROCESSOR id="8" bypass="0" prop_str_nodeName="COMPRESSOR_GUITAR_1" prop_int_uiLastX="245"
+               prop_int_uiLastY="182" prop_dbl_x="0.12548828125000000000" prop_dbl_y="0.05786132067441940308"
+               prop_int_MaxInputPins="256" prop_int_MaxOutputPins="256" cmp="1">
+      <PLUGIN name="kHs Compressor" format="VST3" category="Fx|Dynamics" manufacturer="Kilohearts"
+              version="2.4.0" file="C:\Program Files\Common Files\VST3\Kilohearts\kHs Compressor.vst3"
+              uid="dc1d7dca" isInstrument="0" fileTime="19774f6e25a" infoUpdateTime="1977b0b018e"
+              numInputs="4" numOutputs="2" isShell="0" isEnabled="1" useDelayedLoading="0"
+              explicitWidgetRefresh="0" b64UserKeywords=""/>
+      <PROCESSORSTATEZ>627.3ocsSlriaBDEEskxWRViT0EfACRVsDfMFLfMlYyNyfYpJvDFMe.46N1sxhNQYatKtuR06J81btdRTe+me6s213Y6PahFxJps6u1m9wFUoF78l5z59OXo3.BfmZD8xczL.BN.fnxM.X6cykvOW9EU+Y3nkcxwUqxCevgt1MvY0OYnqG.ngj3bwhdckQ6611gCR63.NNA0A1W0zYbgEaWjKYSfRDAxkQa4ozA44kLEIdO7aaCKKwv0bm3Bicckzn8WHoajkdvgA1lFP2gXa8VrZaQq6U0iMcVnSUzMnqVB54i59URKIDwUA8SOZ.TvN31hpnxz18xnT03T0K6rs1iqO2ikswbjiGEaRJ2x5wkPZxKDNz0wd8zZXOKKygmGPXJxYUucGleV5DOMiqE4kCA8fj63lBacbZWHB2Zmwz2YbTqUpHUMO8rlre5DbNd84vfrIJ9YG35KDoFqNN6htMPotTw6AGe.uubHzXjTm3QSCsBBOcGcIiWEM1Qcx0jWhKvrzoIZkeZWzJ2LB2Cdt8ns9n390MGofNJ3iA6qaEmJYtMmd9TwjrHItoU57AR6bMd1.Md95DkF0THiDPGHM9ewVmEXQvyFEtWsqKMFdUKhRwXRTjXRlRkVpb9LmX7EBQbdyP2bRZcVAZfp0JR0epZMg6LwL414NhpjhJY5lcs5IgnSKD4jInKEoFI96jQUN77qnqPy3JNg.B39k4kCdLKjKx1dDdbDBlcKBJ+Pfi0ZX0Kr8FV5oCsDTdNLE.OYZQfYs34Vn7xfFGZ+KVN43yjhf+o9SN2ryQP9y+MeVN..5WOoy9c1Mu+kZ0l2+6R2a+xLAxAv</PROCESSORSTATEZ>
+      <PROCESSORLAYOUT>
+        <BUSINPUTS>
+          <PROCESSORBUS index="0" layout="L R"/>
+          <PROCESSORBUS index="1" layout="L R"/>
+        </BUSINPUTS>
+        <BUSOUTPUTS>
+          <PROCESSORBUS index="0" layout="L R"/>
+        </BUSOUTPUTS>
+      </PROCESSORLAYOUT>
+    </PROCESSOR>
+    <PROCESSOR id="9" bypass="0" prop_str_nodeName="GP Relayer" prop_int_uiLastX="268"
+               prop_int_uiLastY="133" prop_dbl_x="0.13012695312500000000" prop_dbl_y="0.09277343750000000000"
+               prop_int_MaxInputPins="256" prop_int_MaxOutputPins="256" cmp="1">
+      <PLUGIN name="GP Relayer" format="Internal" category="System" manufacturer="Deskew Technologies, LLC"
+              version="1" file="434251" uid="6a04b" isInstrument="0" fileTime="0"
+              infoUpdateTime="0" numInputs="2" numOutputs="2" isShell="0" isEnabled="1"
+              useDelayedLoading="0" explicitWidgetRefresh="0" b64UserKeywords=""/>
+      <PROCESSORSTATEZ>58.3o8ByYiTzPFXfAaROwhyHwhRM9hKIwRRUgxRsnhyL+7rUICURghxOmTAyn3TKFhfFqj91w..DPZDVA</PROCESSORSTATEZ>
+      <PROCESSORLAYOUT>
+        <BUSINPUTS>
+          <PROCESSORBUS index="0" layout="L R"/>
+        </BUSINPUTS>
+        <BUSOUTPUTS>
+          <PROCESSORBUS index="0" layout="L R"/>
+        </BUSOUTPUTS>
+      </PROCESSORLAYOUT>
+    </PROCESSOR>
+    <CONNECTION srcID="4" srcChannel="0" dstID="6" dstChannel="0"/>
+    <CONNECTION srcID="5" srcChannel="0" dstID="9" dstChannel="0"/>
+    <CONNECTION srcID="5" srcChannel="1" dstID="9" dstChannel="1"/>
+    <CONNECTION srcID="6" srcChannel="0" dstID="8" dstChannel="0"/>
+    <CONNECTION srcID="6" srcChannel="1" dstID="8" dstChannel="1"/>
+    <CONNECTION srcID="8" srcChannel="0" dstID="5" dstChannel="0"/>
+    <CONNECTION srcID="8" srcChannel="1" dstID="5" dstChannel="1"/>
+    <RACKVIEW>
+      <RACKUNIT size="11" style="0" color="ff4682b4" ver="5.0"/>
+    </RACKVIEW>
+    <PRESET name="Default"/>
+    <SCRIPT_CONTENT></SCRIPT_CONTENT>
+  </RACKSPACE>
+  <RACKSPACE name="HOT" uid="f3d1c54bb87a4c62962ca063410adee6" bpm="120.0"
+             timeNum="4" timeDen="4" resetTimeInfo="0" syncClock="0" maxDeactivationTime="2.5"
+             maxDeactivationTimeIn="0.0" scriptWindowPos="" usePatchPersist="0"
+             zoomLevel="1.0" viewX="112" viewY="6" activePreset="0">
+    <PROCESSORSTATE_IN handle="" gpscript="0" osc="0" x="0.127685546875" y="0.008056640625">23.VMjLg3.....OPwTUGkjSSQUPTUzK9..</PROCESSORSTATE_IN>
+    <PROCESSORSTATE_OUT handle="" gpscript="0" osc="0" x="0.135986328125" y="0.110107421875">73.VMjLg.D....OPwTUGkjSSQUPTUDHig1WvziHw3BLh.Ra0QWYeMFZeASOh.iHfLFZeESOhDiKvHBHsUGck80Xn8UL8HBLh7hO..</PROCESSORSTATE_OUT>
+    <PROCESSOR id="3" bypass="0" prop_str_nodeName="MIDI In (OMNI)" prop_int_MaxInputPins="256"
+               prop_int_MaxOutputPins="256" prop_dbl_x="0.02636718750000000000"
+               prop_dbl_y="0.01171875000000000000" cmp="1">
+      <PLUGIN name="MIDI In (OMNI)" descriptiveName="OMNI" format="Internal"
+              category="MIDI IN Processor" manufacturer="Deskew Technologies, LLC"
+              version="1.0" file="424242" uid="67932" isInstrument="0" fileTime="0"
+              infoUpdateTime="0" numInputs="0" numOutputs="0" isShell="0" isEnabled="1"
+              useDelayedLoading="0" explicitWidgetRefresh="0" b64UserKeywords=""/>
+      <PROCESSORSTATEZ>6914.3ocabksbhjjrc9Tpa8prIZxfcy5tMKIyDDRrD.4hPuTFaZAg.I.swGv7cecQ3aUOS2OzTtSfmdDgeb+bxx57H6+2+o++5e8mtdYc5NXRZXZxOhdX11sq1DL7siu71w+5mkLkpYq9SxtUrGnLWVYtQcwdEwt5aWUrVV+qTSYW8iTWLWQaugXWL1TYT+fGTRb7a1UYZM8idfJU0lUoZC8CefJW+seGU11T+3GvoafozO+Q+G2NX2wUm2wg+zrO8+oy9R2Oa6gW1cXElqSNt6kvMa99ab.WvjiOt3ou91B9y+eYOe0lcKd73Wz90+19quMOb6uJge234hs.xlXxhlRTesxjMwTEzTawTUzTG0JqQ1DS0QSgpuVCxlXpIZpk9wkxgVJaTND8uCXaVIWEik4jUrUQxVwXUNcEa037UrUWRXwXCNiEaMkTlMZKw4rXKPRZwnkSZwFkKQkXSU3bVrQYRrXpFmwhMJQRDSTZzVL0jSW1VYJI5HlB3jUrQoPnXpLmphMJEZIlnLHhy8x03DUrQYPrXpAmnhMJERXSUnLnsXJfSTwFkAcDSk4DUrQYPnXpJmnhMJEZIlnLHRJwZvIpXixfXorqDmnhMJERDSTFzVLUlSTwFkAcDSU4DUrQYPnXpNmnhMJEZIlnLHpLCRHPShMFZRLIPShMFZRLwPShIAZRrwPShIAZRrwPShIAZhsUmQlDSLvTE1jfKI1XXIwjfJI1XPIwDiIIlDHIwFiHIlD.I1VCFORLIvQhMFMRLwfQUYSBXjXiAiDSBXjXiAiDSLXjXR.iXaMYvHwj.FI1XvHwj.FI1XvHwDCFUiMIfQhMFLRLIfQhMFLplzeiQiT1D3HkQFORYS.jTFYDIkMARRYjwjT1XPo5hMAURYjgkDaABtjxHCLorwHSJaBzjxHiMorIfSJiL5jxl.OoLx3SJaL.UCYdBAgRYjgnT1DLJkQFjRYiQoT1DXJkQFmRYixEbbR8PexXkhUZzyIKlsY0x+2q3+kuyqyO+JYr+tkzzqtHZiJpD+IFzKxxehwGhpvehKkhpwehusE0f+TS4WVEDIJARXBj3DHAJPhTfDp.IVARvji9HqDMqJmjnIifEYknYknYknYknYknYknUVhVYIZkUagRzJKQSlNJprDsxRzJKQqrDsJRzpHQqhDsJpSLIZUjnUQhlL3RTEIZUjnUUhVUIZUknUUhVU0EDIZUknUUhVUIZxLEQ0jnUShVMIZ0jnUShVM08QIZ0jnUShVMIZ0knIs6ipKQqtDs5RzpKQqt55uDs5RzpKQqgDsFRzZHQS5DG0PhVCIZMjn0PUsIQqgDslRzZJQqoDslRzZJQSZRF0ThVSIZMUE25paU4cIU8cIUAdIUEdIUIdIUMdIUQdIUUdIUYdIUb+MXEUb0.KZjEMzhFaQCtnQWzvKJ7k.E.SfUimohqBiIPAxDnPYBTvLReA2iGW7v7UaWR8Au63p8G281hG9qeV0znhsTiZqpA3961tq2tOVc33vsa3lAfwKe79G9cqs.7+m7Mf9urb2cZS+yfe1n9IP8U2s4q+Kiga1L73Cq1Gsa6w861rY09CZ2PGnhGVwReb1V9tMu87JskIuc33rG+sG0jOeY+pCGdb2uYcxWGV8I1p66joMDwcefeCwP9rMuQAf5E9ae0e2H90KaM1pAMq0nbix0azrDrkOd0lUyN76g42rgKMvTtd4x0aVcU8e9it2uc29Uc1ra9rM+lLQZYixd4eZId2GTt1c66v9+0q9Z9tY6WxxFs6kyGLnZRe+etmjiZ+i2+q2d76uJLCPVZmgcGz4WCmD8qv33wISl7KWXZZx3A+0O+G9SCG2II8Wccz2D9As0MPDMA+iupa33z+5mMKU5aGxRGD1O46e1a526W86F28W8S.6+JYPXqdIwmeh9104egvznKaEN82blmLdR2gC90fr9sRF+W+z9y+9OeYya2+31e8xr8yddEjx+ZyiGN9CGJK1YwBcd8vB7e1J5b57Jf4sWQTzz407pr+6TSztz4U457mZHpT57pZQAqjHGoC0wB+rUDdzgBWQesJhDityRUc9vxIJT4NKLEYsA+bvfONQ6IGJ4jOgsh0xxGqHerp7QIZBninZjSTKxIhD4DwgbhlPNQKHmHAjSj9wIR93DkdbhBONQXGmHniSDxwI523DcabhbMNQlFmnNiSTkwIpw3DQXbh3KNQyEmn0hSzXwIRq3DIUbhRJNQAEmHbhSDLwIBk3D8QbhtHNQNDmHChSj+vIpd3D0NbhHGNQbCmnogSzxvIZX3DoKbhjENQoBmnPgSTlvIBR3DgHbh9CNQ2AmH2fSjYvIxK3DUEbhZBNQDAmHdfSDMvIZE3DMBbhz.NQR.mnDfST.vIL+cBgemPz2I76cJd8NEedmhFuSQe2oXs6Tr0cJR5NE4bmhTtSwE2o3f6TTucJJ2NEUamhgsSwr1oHT6TDocJ9yNEuYmhurSQS1onG6TrhcJ1vNEKXmh7qSQ586OqhqBoIPA0DnvZBTfMAJzl.EbSfBuIPA3DnPbBTPNAJLm.EnSfB0IPA6DnvcBT.OAJjm.EzSfB6IPA9DnPeBTvOAei+Pn9J.nfuQfX6p3pvfBTfPAJTn.ELTfBGJPADEnPhBTPQAJrn.EXTfBMJPAGEnviBT.RAJDo.EjTfBSJPAJEnPkBTvRAJbof55lkp3pflBTXSAJvo.E5TfBdJPgOEn.nBTHTAJHp.EFUfBjJPgREnfoBT3TAJfp.ERUfBpJPgUEn.qBTnUAJ3pfl54CTCHnvqrJ7JqBuxpvqrJ7JqBuxpvqrJ7JqBuxFnGLQEWEdkUgWYU3UVEdkUgWYU3UVEdkUOOjdfHEdkUORjdlH8PQ5ohziEomKROXjBuxpvqrJ7JaY8nXp3pvqrJ7JqBuxpvqrJ7JqBuxpvqrJ7JqBuxVQOCnJtJ7JqBuxpvqrJ7JqBuxpvqrp4krJ7JqZhIaU8vmp3pvqrJ7JqBuxpvqrJ7JqBuxpvqrJ7JqBuxVSO0qJtJ7JqBuxpvqrJ7JqBuxpvqrJ7JqBuxpvqr00iaqhqBuxpvqrJ7JqBuxpvqrJ7JqBux9MdkVifuMoBeC839pvqfsrJXKqB1xpfsrJXKqB1xpfsrJXKqB1x9MrU.8YMQCESCErU4ugs9ePE+aOJpGeCh8art+1lhDhBLqrBLqrBLq72fYe+j8G+8e1wMIJrWxOVrayt8+0Ou6tJ0ZXmW4m+34ukk37i+yy9D4F+ye79YZpMJUpgg9m2u3waqO1t9F2c0uHs+xcyF26R2ECMYOVTcSbTvEO9xGWuXxCggMuvc+qcRNtLc6ECuXW62N0ua65W732esV6+79KtXK9SYLtUWjd9GHzD+8JJWcz8FyN+WLumwQqO1De3xYO+1pWFEZ1cr6G2Ydc9Mv5OujW6zwDiOIsZYdBdJyFb5g0FWyl9efqLwMZL46m6OA+sJFd07Fae237Ix6W02DSqJx7z9EmWWcI9Ny5MSO+uciMit9SX7nmuMNzMDSfQl0T9A9O+6rewUg7y2Dy5ylZ1rB3uT4m9NEbgt27Yx1TSJr0kWwc83DynyObkdLOje9yMoACNGqW.+XPmG5vezcElTbQsZaFgFeHjyuolT7i2B9g8yadJ5v1PGtm+5slTeNU+y1F7388iP7m3+CyMo90b40cL8+p24+8DDe7mZgI91Q9mPvODvNverJDeLAVYhwPUqCe9YZ4rmi43h6Lwmy9OC5doo6zZ0+9vJpEu+cuIF1kR.GYWZ1E4uKztkCucT9d97+gKMzMots382GLw3Q4wK46G8Z4JVe3K6vR27nId22adECqBq2e8a8vV79+ZS7jy29yZ207z40T9owsb3khJq46Wi6ZRNuQM64rV74ySl3m8WOV1ku+cSKGdnd6FSLdq5EX83U8Ys3yumMw0FctrJ.Vu+h99kP96OTp8Le+s0UlD+i+g6awmuaMm7Qp5fq362qa4764UlsybxemzLCVOVd7bK97+EClHseFVu+l5mu.4u+nrN3uGdq.VuO7ecnEe+3UyI+0qwWbk4rSXG7cH+e77dwh8lSmOmRld80F7mO3qV78mClSmuRMXUw0FDdob.j+9qJMA+muHbySOBqGypJP96OoNdzbB2IdCVuAuKA4u+.Z4alS987OpAqGcegb+6cyZ+uYsndlOvGkvHmOQsqdmqu61yDhflQQ78y2MoH7jqGW+GG4l4QBceXv.k.nd2iPosi36uferpbND+U9uPmHWj+nx7Iie7.DerTnaDe+F76u9NXaOFe4pH2q9H8A3umup8HDeDTtWDe++KSJtqeBhOtU2OxM1up6+hwmpBw+EeZOLhqO.+HnooOie4hbHn4nSlTDzrcey83dw3Ht9A7iaZ85a9.2TlD4vjtUIF+abeSHVpmEw0WfeLn2zmwGyib3h9D7iFWBwGK5tIhq+BLo3M40P7wqRSgye+s5GBX70Wf3imUyh35SvOVd7deF+cdjCAMmXMoHnYPeyBbWeYDW+B9O2bMuR89FD943pHGVoGUlwuaMv36CTL79Ht9F76uydwkCX78Ghb3I0IvO19X3.CFI25Ht9uhI0ummjMvfvSe7Db96uUrtB2eXFDeDI74HFe.76Wy02Of6erEN+OiIXSqZR8o+fmg3et5qwjWhX7CvOhpe.hOtA8Jb96gRRpw8e9BhuePkrCQL9B32WIdSkAb+oiv4uOqJA9wG+Kf3iafuGw3O0MwXSojglCXU+Gv4uelmM049aWOzz3Y+.NeEw3Sferoxngl93F7I372Wfj2vfg+4hglEXUUPDie0fm+YADeO7WUKb96w5Z2zDiWEdDhec+APkHFeC7if56f3iWUpBm+9q2VvOBZ+FDe+I0h5v4OdU5Bt+bIH9d3wFMhbXO+mA+3UsZP78cpVdQjymSucwEl09x6lFG2+1D6veI.yMFAMiclQ33kgwD94Mlv0HnXGmAQBLshceb9o6p0v5QPuqbz822A+H956v5QPs9Nd9fnXG1puNrdrTv4n62ihiI72KCCWSSx4nYdakD6l5mjHMLjluH2Q2++D7i3y2AqmlDywyezN1gWk2CqGAMl6n5iIchI76xv5oIof72C+FcYrCaUE2Jjle4AGU+7E3Gw2G0JbMVT+jimuoarKymTKf0ik5acT8U5UwD9+NX8XQ4qP9isptN1gFKAqGmO5nip+JA9waxgQgqwhpOb77S8hcHmh9QgwHqfSNp9LueL0+XJrd7mxB4ONJxfXmeib+Sv5wc8pNp90B9w9Ke.qGuT2vwymML1gauMf0iPYlQT8cgKl5+zMNbM9nFMxjg.nihcTS63PZ9t1in5+xfepoLrdrTo6Hd9uwwNpoKr959U0aDgOLcRL0+pJrdbqX3HSIOlP2zXG0zLIjleb7HB+nJ3mZJlDt1CesKaDOeYVriZ5AqGgpuYDgubadL0+6EX8XrlA4OlUEwNpoErdb9zkiH7mZfepoT6v0HTv8i34WuAp+wlNsgZceY85QD9z7owT+yYv5wixmg7GG071XG0z.VOVU8xHB+pA3mZJzNL0C+U5vHd93YwNBzuc3I+3o12GQ3aKlGS8eutSXJdU4KH+wQoVD6HP6Ngz70AiH7ulfeBTFVOBOVYDO+8xXGA5Bq22opQcH+8spWsJl5eWCVOdU7BH+wAnuCvJ8+ykWFRyuGM1r.oWeeL0eO8xPZ9y1i446A+Hnycv5QPktiMG7fF2+PL0+eOrd7pduwlL7V6iP8uunsLrdrnb3XSC+IU35XZ9f3tzLQWNdLye.7iW5ccCOgWpyFa56uU7vSwz7Cyg0iW5tYroDRkXCT+6uzrEVOdoXFj+9C8nmio4KNAqGOzVNl4m.9W62zMWEdB2TuGxe+l15swz7G8uJjlOdMj+3nv6f5e+C8TX83C0yP96CZ7Kwz7IOAqGWzKiY9Of+d9R8Of06mjH+vXCNd6SuFSyuz.VOBE79XCJzR9dn922Ur60gD+ouFaPLy1Gho4axtNjl+NXLyuB7i652Cq22IcdkwFhy4wXZ9mCv5Qnl5iMHRVwaP8uuWZEX8HonKFan6ruGSyG0tWHM+dqIL+Mv+bOT03dgmPRMISLj7DeDSyOsDVOBkc4DCNI5zOg5e+pdAVOdA95IFbMc+JlluJ.VON++fIL+PvONUUq9gmvc8QSLXmzWNESyeMneHwOHcBq+SIn92iJcKrdbR8hIlJ9JwqCho4y1.qGypamv7OA+686DeBqGmzaAj+9Qke0FSyu0DVOBEeGj+3QU4XZVjqGDR7WeDxeTdiJwz7cECBI9Galv7aA+XU0iv5wgp2A4uuo9gpwz7euAqGg52Og02pVrCapVCVONT7aP96QJFTOllOryvPh+xmP9iiBB9wlRSFFdBGpsDj+334Mho4GWAqGakTdBy+tYrCA0eEVONJYMH+w16WD6vqhVX830ylSX94lD59YKXVS7TKLk5ueC3Gm+76YQwVAsRM67fduC9w6uCbL9ZbJ0++xvDZ9zTW3ZbnujTl+O3Gueeqiwe6jRyGTF7iyudGDebnsKSMU7fNiZkP2+23X74qRo4G1A9wQ81CwGG555TVegnDp93SGie2OkluXJ3Gm+sLDerU2fTSW+I0Gfer9ooiw2coz7GWEmPyGGOJDQZ2NJk0u.7i0WWMhw+mjRymTE7iyO6FER7eRSMS8EciSRn5u7Qb+g7TZ9kW.+3nryg3iCcTjx5izNgpOeXD2+XZJMeyLvON+8VH9Xq7agye+k9u.+X86wQb+k4oz7OW2IglO+DDero+hTV+EvOVeWcD2+YUJMeTcvON+d33Ph+1cv4uORoWlP0+cFy8mdHkleZO3GGUu+3v0Hp+ior9NcSH7gIi49WOkRyWMG7iy+OEhO1zbCb96qjNA9QREqFy821lRye0+pDhevSP7wld6RY8i.+HofWGy8+dMklOqA3GG5+CH9Hp8d372uSjccBg+XGy8GOlRyuc.7ikOMf3iMcdKk0mpWBgOEMg6e9QJMe2RvOI5+jPhe6moz6mH.7i3WCmv8WOkRy+MneBwOIaR3ZDzuTJq+E3Gw2lMg6+ZSo4Cu.7SuTAH9HncY37GEMePBg+87Dt+b0TZ9w2.+XU+AH9HnasTVesgID93WS392MRo4KWA9oWZwDle9Ev4OJpI3GA8Lob+cSFM+oykP7iZmx72akw52A9QPidob++nLZ9TynDh+z3TleeRlYJJpI3GK5tIkmOncFM+5GfernXYJy++xLVevwIzapZcJO+P2LZ916A+zKcIk0G35LyNTTSvOdn+dJOeQuLZ92QSRH9YAor9ACxX8GA+3lV8Td9igYz7wsRSH9asxX8EFkYpfhZB9wfdYFOex3LZ94OA+nwAYr9CoYr9lYINbnjzLd9krLZ95G.+zKMJi0mnHyzEE0D7iCUbWFOeyMYz72SxSH9gaxX8KtMi0OE7iCErOim+YVFMedTQBwe7yLVeiEv4OJpI3GapWNimOZYFM+9IvOt8cQFq+wcYr9r2.8m8U8I477S2mQy2uF7SuzqbVejGyn2eUcvOJp4nbd9p0Yz7+oSSH9oE4r9IaxX8eA+nTTKx44udNi3GjbaBwe8wbVekcv4CJpI3GkGaWNOe1KYD+gRferq8a4r9K6yX8kmA8m8.Xkx442NjQ7K1.9oWZWNqOyav4CJpI3GGJIrfmu68Lh+Q97DhebmBV+lOyX8qA+XS89E77eekQ7SZuHg3OOof02oDb9fhZB9wlhSK34CCxH9KVvO1zZUAq+S4LVe7kP+YOp9SE77iUxH9MOC9QP+WKX8gpA0mnnlfeDT9iBd9x5YD+mhUID+7xEr9QMyX82A+HnVSH93ttIm3Gc4cID+83aX8kByI8OuC7ifBWcSHoeeTNwepL3Guo6tg0eJNm02+9DGVTkeS3ILRsyI9U6.+3k942v5S0ImzOM7An+u+R4CP7wU0Mm3eME7iWZ1dCqe0U476O.7iGpGg36Oz5zKm3m08wDR+fS2v5a0Omze8AvOtoTEhOVpNLm3uUE7iOzlor9Wtb98SrF5+6+QaOM7jeQWMNm328B3G0en2TVerI4j9ssdB5+6a0OdZH89MxxI9ey.+H.+MSY8yxy42+A3G+oVBwGqptIm3Gd8lDR+h0SY80llS5+9H3G+6evKP7QnlY4D+wZfebp62mx5uMOme+JOC8+8OpVH93eoLVlS7K2C9Q8OZLk0maUNoeb7Vn+ueTknaCo2Oy84D+SHGH8Q5dKqe2C476uA7iaECuM7ju7bx5bheZucIj9IY2x568TNo+7Sfe7u+.y.+HT4y4D+0FfeTek6uk0+aaN+9gdA5+62peFd9PBVujS7aO.9Q8WNbKqO3q4j90IuB8+8U8eAwGKTOjS7eWB9Q8YpbKqe3wb98OA9wixKf3inlumS7iGrOgzuIYFqu3G4j92a.+36m95Ygz6u5qbh+bSvOxpZzLV+wS47625.z+2eUoXV3ZTosfbhe8afeT+mEyX8Is4j94cNB8+8MMdDhOV0WIm3euB7i5CsaFqeY0b98mA9wqhuAwGY5WOm3m6di4mGLi02rYNwOeK3uieWu9Lle9E4D+by6L+7VyY94gE76m6cle9kyY94sJH94u+NyOevbledbAwO+xOX94oyY94IED+76+f4me6bledmB98+8AyO+t4L+7KKH94i9j4muYNyO+pBhe9tOY946my7yutf3mG9EyO+y4L+79E76W7Kled44L+7AED+7O+h4m2bNyO2UP7yu5DyOOdAyOeTAwO+gSL+7qVv7ymTvu+xSL+b2BledZAwOeRIled9BleddAwO+0RL+74KX94EED+7n.le9CKX94SK32OZ.yOe6Ble9sED+7uBX94GWv7ymWP7y6YY94kVv7yWTP7yWaY940Vv7yWUvu+UKyOObIyO+tBhedZYledmkL+7GJH946A+W3mjq+Rle9iED+73JIj9dSVx7yepfe+tfeDpb5Rle9lBhedIvOp+2pkL+7sED+79UY94Osj4muqf3m+TUle9qKY94uVvu+3pL+7OVx7y2WP7yyqw7ysKY94GKH94Gqw7yarj4m+VAwOuccledzJle9GE76mtNyOu6Jle9mED+7f5L+7gqX94mJH94Cav7yyVw7yKUP7yetAyOe1Jletsf3meQCle98qX94kKH94EMY94Ouh4mWsf3m+VSle9gUL+75v92elcX09n21+9pC+we+m+A9W+S3Sp+Gu1e+u9+wJTUjH</PROCESSORSTATEZ>
+    </PROCESSOR>
+    <PROCESSOR id="4" bypass="0" prop_str_nodeName="GUITAR_1_INPUT" prop_int_uiLastX="155"
+               prop_int_uiLastY="191" prop_dbl_x="0.12402343750000000000" prop_dbl_y="0.02709961123764514923"
+               prop_int_MaxInputPins="256" prop_int_MaxOutputPins="256" cmp="1">
+      <PLUGIN name="Gain Control (mono)" descriptiveName="Gain" format="Internal"
+              category="Gain Control" manufacturer="Deskew Technologies, LLC"
+              version="1.0" file="4242" uid="1092" isInstrument="0" fileTime="0"
+              infoUpdateTime="0" numInputs="1" numOutputs="1" isShell="0" isEnabled="1"
+              useDelayedLoading="0" explicitWidgetRefresh="0" b64UserKeywords=""/>
+      <PROCESSORSTATEZ>64.3o8ByYiTzPFXfAaBvmPc2S+BNDGCwUEROwLyyVkLTOCTRgjRLmDyK4TsUICzyTkTH2RKI0T.xVI8siA.rdnCPC</PROCESSORSTATEZ>
+    </PROCESSOR>
+    <PROCESSOR id="5" bypass="0" prop_str_nodeName="GUITAR_1_PRE_LIMITER_GAIN"
+               prop_int_uiLastX="294" prop_int_uiLastY="205" prop_dbl_x="0.13208006322383880615"
+               prop_dbl_y="0.07495116442441940308" prop_int_MaxInputPins="256"
+               prop_int_MaxOutputPins="256" cmp="1">
+      <PLUGIN name="kHs Gain" format="VST3" category="Fx|Tools" manufacturer="Kilohearts"
+              version="2.4.0" file="C:\Program Files\Common Files\VST3\Kilohearts\kHs Gain.vst3"
+              uid="f35bce27" isInstrument="0" fileTime="19774f6c365" infoUpdateTime="1977b0b0194"
+              numInputs="2" numOutputs="2" isShell="0" isEnabled="1" useDelayedLoading="0"
+              explicitWidgetRefresh="0" b64UserKeywords=""/>
+      <PROCESSORSTATEZ>531.3ocsRmriaBDEE.skx17Sj0HQiYnLVxpk.rYdzL6cXLyiFJLs4quMoyBqnrM2EWU58daJoiGG9u94Od6s8d1NDl0SYEs1vHXxG6k35Z56ZSZgePQrEkA8YNjs1NJZnLNnnrhoOG0atb92KeIsq08KKG4iqHyO+ftNZbh9DTRU0L.k.SpIuuEVdzwATeUfpGNzypUpdX3tQ9VNyQQH.y3jHiqNKRTdIBsZAx.diBlql7FasIjkJp9ddYBifgYWsjSeZWhGPVS0e6VdUb9ndlkgK40BWqcNUSKCxGUE4nYi0CnihjCgvhtTsIcsRFEP.xhJuHR1xtpbrx7F+4XVC7JOvXVjnSstmN10yV8o5P2AE9FvsFdKGuMyftzE.Onq2R9b3XAtr1XXDPpq3AFugs1nMjvToy.fDFr8BeiqjuzBaEA9IZEAaQicOhJ723YQoo.68WfzCyWKGpS2kDqZ54Av2HfeQbDmhfVKIq.WnKze3yncXLXB0vzxsyL.4iFTjPhoSgO+r4.RonDxXCCLmxGGFF2FaUJm+XJnddXSJ8gjjEtjZuclZJcRSXDLnpnb2+uTaMU6lRZThfscHSPptDBHY7IDoLrYHzCQvQIFkUXzGXOErZEIxms4nCJ6Jvd0VwKWGMnyWIVSI2er0+HpBwYV9gv1MWlH4cTbS+VkGPWsq95SNguOc+6uf68u+2z+sufe3NuK</PROCESSORSTATEZ>
+      <PROCESSORLAYOUT>
+        <BUSINPUTS>
+          <PROCESSORBUS index="0" layout="L R"/>
+        </BUSINPUTS>
+        <BUSOUTPUTS>
+          <PROCESSORBUS index="0" layout="L R"/>
+        </BUSOUTPUTS>
+      </PROCESSORLAYOUT>
+    </PROCESSOR>
+    <PROCESSOR id="6" bypass="0" prop_str_nodeName="GUITAR_1_Gojira" prop_int_uiLastX="359"
+               prop_int_uiLastY="31" prop_dbl_x="0.12426757812500000000" prop_dbl_y="0.04345703125000000000"
+               prop_int_MaxInputPins="256" prop_int_MaxOutputPins="256" cmp="1">
+      <PLUGIN name="Archetype Gojira" format="VST3" category="Fx|Distortion|Dynamics|Reverb"
+              manufacturer="Neural DSP" version="1.0.0" file="C:\Program Files\Common Files\VST3\Neural DSP\Archetype Gojira.vst3"
+              uid="23018173" isInstrument="0" fileTime="17702e99b00" infoUpdateTime="1977b0b0196"
+              numInputs="2" numOutputs="2" isShell="0" isEnabled="1" useDelayedLoading="0"
+              explicitWidgetRefresh="0" b64UserKeywords=""/>
+      <PROCESSORSTATEZ>2110.3ocqZstahqjDddT182iTerA1SbjFcjL3K3AbRanaeg+Y6DbvsANGtXb3Iae71pAaFRnMSLrVBgBxecUc00kutp31q0+9+9u9129g6XRab11jYKFuIbyq+0Or5sb9eubwqK17W+Yq1sQantwE5Fgu5HGkqHErco6D3uQpSwAoLi3sVsHKW5Efzvpp8QvyznsTy3kcjO9anCOwLIinspXjEFU9L0CoNOhY6EruCweM0fTnXDAX5piIAY5twqbLQ4VdAuSMhw5FwKTYvZXBxdrZuk87vVsBma44u1g3uW2v6oRccJdOAuihKrMlvb7dImZz2TIaxR3cibpV64CZKYDhPk5.kNRqZ8Smp9zCIFqbBI9JciJnxQLm4TlUqnkJYgb4lC6ESBd3FzrA4n7H1N2fYNdAo1T92S11ArQDLpKeqpgdAqmRTkzPp8wSR41AB1espIsiJX6787WQOXC6pgN8.VJJdjNYLRaJZoCrd4X0DvN9t9d+8rrXl5z3jctv2maWQO7cDhnZQw1vu2M0.VWTO8gt9uoOFy0MYpARFrSRv2poH0Jf4euG5y54Sjb+DK2gZL4n85YgypA6AE9SXGThcHEz0chws.MrVb1LYeKK8ur7rJwgA8rFaJ5Ba5Jr5L8L+cH8II10dVbIt1U3jBeGhC39EWhc+v2Gp7rnyQN1BsldNN834nUOmk1lwIcj8qAK+4SXy6VhcLKvKX0k3VDjY8DpWc3FOdos6nQ0IO0OiCWIORRml5yjMDm35+dC70dpBmhbzxx3uKv1Weiq.e7R+saM1.Cwwig7cPtluN1i9pFMK9m6yA4YR5vk4bbhcqHwXe7ReNjyGvVvjCV.4W+p1WaPeWQc82nSBykHvucoeP1Fq1Bx8noOzHjAwjpPtqmgZC4vmK06bHVAkec81jVPy.bBryIn+Yg.6L9b8NPJDjYXMwLBz87dU5ttt2M4ebP1TRTWXMR060H+4Of05NvZeGXctCrz6.avcfM9NvlbGXY8ZP7DJ.3L32450xEjGG2SG6FrR28EMKuW7.tQhyA78KyA7.VMkZDlvl6vnFAuoK6+Oe4XAHNtTt1JFAp1PMufFTu7jrMIbtgXnd47ubcO7IYOlMObVisY489.9N6C2SqiOh1EmUOWcV4P8ycnAqUa804WPbp12zDHW+XfGqDvCcOSNbyk5eaaKChP9ak5Og5FlqHV2eQUSPssJcWJbSM64oBxc8SBNXWi4YNsqtuwKW22Pre4bvtvbzmv4ZuPwHLUrLoB4mjlExqoXp6NYSShixg5JNWqVZ+f+7AA721iU4w8o7ZJwD+kh3ZHOq6bA10gDDTOAhefZg1LCA1n+NWZ7iBsQmjoBIdupG74h85zfr.zk1HH94zd0jb39Lh4NhiG+VGAmqmgeNgY2JbyUtKfH+omOaeSf6z8FTSWf8Vym9a160WC2uUpeGgblOp6NM2eF+KrVD+MNtC+xw8U9H2P8a6RaktN3W1wH3cTi8oK0WCaA5aVPlx1eq9Ruc8U9l0WY6a19lb65aGTCpi7frObO3Xl004CJRtDRdHfwWllEowxhXPdxZua7iiseSPbznyVimA76xIAfNHndD4MUUAwR8cT2B3Rf7yEJP7P82GrFa.TK5A2i4epK2Ws7kPQLGW+UViarsy9D1Z021o931B4Nf7BRA4T7PJbtYFTzHtCv9sBOVbMzoy29ZlP9+k5rcy2uiNg83c82ZYVSOFVsaPrfZTvcEyANdI6jGZvL.9NYBpuE8vnVOdUrtPsXIIQ4pS65870vZXeKbDqvNLPNbDmSvkmS4Ry51RXd9xyIIsafScEVLIH2wbh.clNqkhv6UeTmcsMntAoVt9yVK3b9INwNQ8dn7blNd7xjKuO9zWHs+oXdDk3lQRbDYiIs+ONW0uHpw7zfbt4Li3YI2RuRlFwiaK9M8YQbdiJrFNErVTlf9VLcPgbfPdGmvNZYrwjdB68.7nLPX+VJ34msl6OTQNtVro5B6UaEV98kZT9l9dA776u4PmrVrcBusqlv85BlY7Boan+PPrWQh6K6SbOzmlqvktsvXu9lS5.wMquR+gDiExOeN1541drKiWzmw7OhWkcne9arEkyx+4eJhOO14C68Q.+3scf60KbMpw9o8w0ndNteM70m2s996Ug+V5U0Y9NMmq6Y9NUbpJZBmppyuaneUWp2F12idKcO5cv8n2x2kd29dzaVi54U7Bc2v0rly+cvuvJrVWc2cDeBmIYqs2jZ5cR84SiLmjH4F1wgxmEXM5qFZMbe7kJzvDUyHdOpdGVidHyPoXHWnhd7gd0yy2z1Mf2CmUJ5v6zxad4rEQmdWVXBO1keuYszHndYvdlYDSsvoZ9o4ftOmkE9Ju1jc47Bivp6Z2c3FPppCOeNp4p45YQ707.ON9rUzbCyK2OGW6iywXlhd47JMQfb82zwE3JiQ5kNTLHuFOuT5ge6ngSr8.VqyvUMGVtrMPVCjCR76m0sEpeqPIvOXSLW+QQI74wBuGvy9PMvsk86+X8DTkMrq9PY+Wql+qZt+BvObC+dLmlYLNXi9gd8ebNxGziZpo.q0udGzo8OeNtwO2+wQCBsV1wFUn.2agw66HFYh77K.eJFvcp3yyiEeXlwGmMnsr2o89PiIIcxB42WiOa2idaYgIVFgLmi+1AcuF9TyrOalvUyclKa+7eNvZV61qoY1c4yERNZojbDeDP83yPC7OVy8ES42K23keYilFrDNKOLab8d73EUju6DvlAbBMmT.36RfWqt0P6+CqQ+FrFBelNhZSbvVPtjC8.7vr7+web1+HB+3O97+lBe6+A6u6f4.</PROCESSORSTATEZ>
+      <PROCESSORLAYOUT>
+        <BUSINPUTS>
+          <PROCESSORBUS index="0" layout="L R"/>
+        </BUSINPUTS>
+        <BUSOUTPUTS>
+          <PROCESSORBUS index="0" layout="L R"/>
+        </BUSOUTPUTS>
+      </PROCESSORLAYOUT>
+    </PROCESSOR>
+    <PROCESSOR id="8" bypass="0" prop_str_nodeName="COMPRESSOR_GUITAR_1" prop_int_uiLastX="245"
+               prop_int_uiLastY="182" prop_dbl_x="0.12548828125000000000" prop_dbl_y="0.05786132067441940308"
+               prop_int_MaxInputPins="256" prop_int_MaxOutputPins="256" cmp="1">
+      <PLUGIN name="kHs Compressor" format="VST3" category="Fx|Dynamics" manufacturer="Kilohearts"
+              version="2.4.0" file="C:\Program Files\Common Files\VST3\Kilohearts\kHs Compressor.vst3"
+              uid="dc1d7dca" isInstrument="0" fileTime="19774f6e25a" infoUpdateTime="1977b0b0198"
+              numInputs="4" numOutputs="2" isShell="0" isEnabled="1" useDelayedLoading="0"
+              explicitWidgetRefresh="0" b64UserKeywords=""/>
+      <PROCESSORSTATEZ>627.3ocsSlriaBDEEskxWRViT0EfACRVsDfMFLfMlYyNyfYpJvDFMe.46N1sxhNQYatKtuR06J81btdRTe+me6s213Y6PahFxJps6u1m9wFUoF78l5z59OXo3.BfmZD8xczL.BN.fnxM.X6cykvOW9EU+Y3nkcxwUqxCevgt1MvY0OYnqG.ngj3bwhdckQ6611gCR63.NNA0A1W0zYbgEaWjKYSfRDAxkQa4ozA44kLEIdO7aaCKKwv0bm3Bicckzn8WHoajkdvgA1lFP2gXa8VrZaQq6U0iMcVnSUzMnqVB54i59URKIDwUA8SOZ.TvN31hpnxz18xnT03T0K6rs1iqO2ikswbjiGEaRJ2x5wkPZxKDNz0wd8zZXOKKygmGPXJxYUucGleV5DOMiqE4kCA8fj63lBacbZWHB2Zmwz2YbTqUpHUMO8rlre5DbNd84vfrIJ9YG35KDoFqNN6htMPotTw6AGe.uubHzXjTm3QSCsBBOcGcIiWEM1Qcx0jWhKvrzoIZkeZWzJ2LB2Cdt8ns9n390MGofNJ3iA6qaEmJYtMmd9TwjrHItoU57AR6bMd1.Md95DkF0THiDPGHM9ewVmEXQvyFEtWsqKMFdUKhRwXRTjXRlRkVpb9LmX7EBQbdyP2bRZcVAZfp0JR0epZMg6LwL414NhpjhJY5lcs5IgnSKD4jInKEoFI96jQUN77qnqPy3JNg.B39k4kCdLKjKx1dDdbDBlcKBJ+Pfi0ZX0Kr8FV5oCsDTdNLE.OYZQfYs34Vn7xfFGZ+KVN43yjhf+o9SN2ryQP9y+MeVN..5WOoy9c1Mu+kZ0l2+6R2a+xLAxAv</PROCESSORSTATEZ>
+      <PROCESSORLAYOUT>
+        <BUSINPUTS>
+          <PROCESSORBUS index="0" layout="L R"/>
+          <PROCESSORBUS index="1" layout="L R"/>
+        </BUSINPUTS>
+        <BUSOUTPUTS>
+          <PROCESSORBUS index="0" layout="L R"/>
+        </BUSOUTPUTS>
+      </PROCESSORLAYOUT>
+    </PROCESSOR>
+    <PROCESSOR id="9" bypass="0" prop_str_nodeName="GP Relayer" prop_int_uiLastX="268"
+               prop_int_uiLastY="133" prop_dbl_x="0.13012695312500000000" prop_dbl_y="0.09277343750000000000"
+               prop_int_MaxInputPins="256" prop_int_MaxOutputPins="256" cmp="1">
+      <PLUGIN name="GP Relayer" format="Internal" category="System" manufacturer="Deskew Technologies, LLC"
+              version="1" file="434251" uid="6a04b" isInstrument="0" fileTime="0"
+              infoUpdateTime="0" numInputs="2" numOutputs="2" isShell="0" isEnabled="1"
+              useDelayedLoading="0" explicitWidgetRefresh="0" b64UserKeywords=""/>
+      <PROCESSORSTATEZ>58.3o8ByYiTzPFXfAaROwhyHwhRM9hKIwRRUgxRsnhyL+7rUICURghxOmTAyn3TKFhfFqj91w..DPZDVA</PROCESSORSTATEZ>
+      <PROCESSORLAYOUT>
+        <BUSINPUTS>
+          <PROCESSORBUS index="0" layout="L R"/>
+        </BUSINPUTS>
+        <BUSOUTPUTS>
+          <PROCESSORBUS index="0" layout="L R"/>
+        </BUSOUTPUTS>
+      </PROCESSORLAYOUT>
+    </PROCESSOR>
+    <CONNECTION srcID="4" srcChannel="0" dstID="6" dstChannel="0"/>
+    <CONNECTION srcID="5" srcChannel="0" dstID="9" dstChannel="0"/>
+    <CONNECTION srcID="5" srcChannel="1" dstID="9" dstChannel="1"/>
+    <CONNECTION srcID="6" srcChannel="0" dstID="8" dstChannel="0"/>
+    <CONNECTION srcID="6" srcChannel="1" dstID="8" dstChannel="1"/>
+    <CONNECTION srcID="8" srcChannel="0" dstID="5" dstChannel="0"/>
+    <CONNECTION srcID="8" srcChannel="1" dstID="5" dstChannel="1"/>
+    <RACKVIEW>
+      <RACKUNIT size="11" style="0" color="ff4682b4" ver="5.0"/>
+    </RACKVIEW>
+    <PRESET name="Default"/>
+    <SCRIPT_CONTENT></SCRIPT_CONTENT>
+  </RACKSPACE>
+  <SETLISTS activeSetlist="0"/>
+</GIGRACK>

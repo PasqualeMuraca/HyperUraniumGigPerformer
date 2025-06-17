@@ -1,0 +1,116 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<GIGRACK activeRackSpace="0" gbpm="120.0" gtimeNum="4" gtimeDen="4" gTranspose="0"
+         version="5.0" scriptWindowPos="" globalStereoCount="2" globalPanelVisible="0">
+  <SCRIPT_CONTENT></SCRIPT_CONTENT>
+  <GLOBALRACKSPACE name="GLOBAL RACKSPACE" uid="c70d725d44634d22979070cd5af69132"
+                   bpm="120.0" timeNum="4" timeDen="4" resetTimeInfo="0" syncClock="0"
+                   maxDeactivationTime="2.5" maxDeactivationTimeIn="0.0" scriptWindowPos=""
+                   usePatchPersist="0" zoomLevel="1.0" viewX="0" viewY="0" activePreset="0">
+    <PROCESSORSTATE_IN handle="" gpscript="0" osc="0" x="0.0" y="0.0">23.VMjLg3.....OPwTUGkjSSQUPTUzK9..</PROCESSORSTATE_IN>
+    <PROCESSORSTATE_OUT handle="" gpscript="0" osc="0" x="0.0" y="0.0">73.VMjLg.D....OPwTUGkjSSQUPTUDHig1WvziHw3BLh.Ra0QWYeMFZeASOh.iHfLFZeESOhDiKvHBHsUGck80Xn8UL8HBLh7hO..</PROCESSORSTATE_OUT>
+    <PROCESSOR id="4" bypass="0" prop_str_nodeName="To Rackspaces" cmp="1">
+      <PLUGIN name="To Rackspaces" format="Internal" category="Global" manufacturer="Deskew Technologies, LLC"
+              version="1.0" file="1010970" uid="f6d1a" isInstrument="0" fileTime="0"
+              infoUpdateTime="0" numInputs="4" numOutputs="0" isShell="0" isEnabled="1"
+              useDelayedLoading="0" explicitWidgetRefresh="0" b64UserKeywords=""/>
+      <PROCESSORSTATEZ>8.3o8......D.</PROCESSORSTATEZ>
+    </PROCESSOR>
+    <PROCESSOR id="5" bypass="0" prop_str_nodeName="From Rackspaces" cmp="1">
+      <PLUGIN name="From Rackspaces" format="Internal" category="Global" manufacturer="Deskew Technologies, LLC"
+              version="1.0" file="10104242" uid="9a2db2" isInstrument="0" fileTime="0"
+              infoUpdateTime="0" numInputs="0" numOutputs="4" isShell="0" isEnabled="1"
+              useDelayedLoading="0" explicitWidgetRefresh="0" b64UserKeywords=""/>
+      <PROCESSORSTATEZ>8.3o8......D.</PROCESSORSTATEZ>
+    </PROCESSOR>
+    <RACKVIEW>
+      <RACKUNIT size="11" style="4" color="ff4682b4" ver="5.0"/>
+    </RACKVIEW>
+    <PRESET name="Default"/>
+    <SCRIPT_CONTENT></SCRIPT_CONTENT>
+  </GLOBALRACKSPACE>
+  <RACKSPACE name="Rackspace" uid="b1a595f238d94b129cdf776887467d8a" bpm="120.0"
+             timeNum="4" timeDen="4" resetTimeInfo="0" syncClock="0" maxDeactivationTime="2.5"
+             maxDeactivationTimeIn="0.0" scriptWindowPos="" usePatchPersist="0"
+             zoomLevel="1.0" viewX="0" viewY="0" activePreset="0">
+    <PROCESSORSTATE_IN handle="" gpscript="0" osc="0" x="0.102783203125" y="0.0146484375">23.VMjLg3.....OPwTUGkjSSQUPTUzK9..</PROCESSORSTATE_IN>
+    <PROCESSORSTATE_OUT handle="" gpscript="0" osc="0" x="0.20654296875" y="0.0">73.VMjLg.D....OPwTUGkjSSQUPTUDHig1WvziHw3BLh.Ra0QWYeMFZeASOh.iHfLFZeESOhDiKvHBHsUGck80Xn8UL8HBLh7hO..</PROCESSORSTATE_OUT>
+    <PROCESSOR id="4" bypass="0" prop_str_nodeName="VOICE_1_INPUT" prop_int_uiLastX="155"
+               prop_int_uiLastY="191" prop_dbl_x="0.10717773437500000000" prop_dbl_y="0.04541015625000000000"
+               prop_int_MaxInputPins="256" prop_int_MaxOutputPins="256" cmp="1">
+      <PLUGIN name="Gain Control (mono)" descriptiveName="Gain" format="Internal"
+              category="Gain Control" manufacturer="Deskew Technologies, LLC"
+              version="1.0" file="4242" uid="1092" isInstrument="0" fileTime="0"
+              infoUpdateTime="0" numInputs="1" numOutputs="1" isShell="0" isEnabled="1"
+              useDelayedLoading="0" explicitWidgetRefresh="0" b64UserKeywords=""/>
+      <PROCESSORSTATEZ>64.3o8ByYiTzPFXfAaBvmPc2S+BNDGCwUEROwLyyVkLTOCTRgjRLmDyK4TsUICzyTkTH2RKI0T.xVI8siA.rdnCPC</PROCESSORSTATEZ>
+    </PROCESSOR>
+    <PROCESSOR id="5" bypass="0" prop_str_nodeName="EQ_VOICE_1" prop_int_uiLastX="188"
+               prop_int_uiLastY="262" prop_dbl_x="0.10937500000000000000" prop_dbl_y="0.06347656250000000000"
+               prop_int_MaxInputPins="256" prop_int_MaxOutputPins="256" cmp="1">
+      <PLUGIN name="Pro-Q 4" format="VST3" category="Fx|EQ" manufacturer="FabFilter"
+              version="4.0.1.0" file="C:\Program Files\Common Files\VST3\FabFilter\FabFilter Pro-Q 4.vst3"
+              uid="3dc7ff47" isInstrument="0" fileTime="193d890f980" infoUpdateTime="1977aca3b8d"
+              numInputs="4" numOutputs="2" isShell="0" isEnabled="1" useDelayedLoading="0"
+              explicitWidgetRefresh="0" b64UserKeywords=""/>
+      <PROCESSORSTATEZ>697.3oc6Wt0ahBDEGueB1uC6ylPWtjHlXZxvc7RY3xPEeSPkUGDnVqJ9oeGFPgZpMYyt8MOIpyQly4++yugG.eYte14GO7PeeWOdXx6wqRc2Ma2hm5aJmsIOKcQ5tm334DYzBVCcUYJCnD8GlkcJ+tm77oNigjTNfLIuqLcOjO7LfxkJkKsXNG8jOmSq2vjb8kqgLMAsegcF8L.vzNbjtjWWOelopRY+Gsec5qG5co+LU8CbIuseOWOseT8uriMIdxJbVqbgeP419qt9oVbVT+AJqeuEUyKyKU+J8Z62y0W0uVyCYGYl+h4fXAuhxGjtk+pqeEagnG7hdTdqzLuem7d8Fw2Ta7G0ORk4O+sy6gLbt.PuNVccwCdtnY9Zyan0.O0Q+u3cs9k71twOckat1Wv6WyyGbadqBI5GbadWyuTwvEJWw6p3K3cQdd9wayafBQe+ay65yax825M9a+my6qu+dKQ5t2j2Hl3MIqUuy6679Nuuy6679Nuuy6+cde0772F8F1bdb47QA9IO+X8y2VEZAJgGUax6+Xq2Xnuo57U6jyR2sMKIYw1m3YEXzTUGueLkNTKqfRBhQ5yNAN5gs0ixDXC5TF5TfQ0BZxM6MEDUAYDmmOUw8UNf1DOjW7IWGLE.1wlI1YGzhvlbRUZbxS1D4.sQNVBd4k+mWr+zBfT3QDaHQWirw5FaE8mrFoErLTeJVPyPPzOZYWsvx0wfeOCGQ1m.a3I0jYqPICGjB8eGoarhjubjeTgMwm3j4XfTTJRy3ylskLaBwieI3DvYRAvYdY8awrSwGjLhEHZO5kIrjZyHdhE6OYIj3kV97c.oOhIyH0NCKP7GurgqZRDF3.IyiMNvexuHy9tpyNDH5jmKEhdAIp9Qas0GJevOfn0PW6WlbzdisFYlacRSNDu5fq+iW+lgO7G.CJzWYC</PROCESSORSTATEZ>
+      <PROCESSORLAYOUT>
+        <BUSINPUTS>
+          <PROCESSORBUS index="0" layout="L R"/>
+          <PROCESSORBUS index="1" layout="L R"/>
+        </BUSINPUTS>
+        <BUSOUTPUTS>
+          <PROCESSORBUS index="0" layout="L R"/>
+        </BUSOUTPUTS>
+      </PROCESSORLAYOUT>
+    </PROCESSOR>
+    <PROCESSOR id="6" bypass="0" prop_str_nodeName="COMPRESSOR_VOICE_1" prop_int_uiLastX="439"
+               prop_int_uiLastY="51" prop_dbl_x="0.11157226562500000000" prop_dbl_y="0.07958984375000000000"
+               prop_int_MaxInputPins="256" prop_int_MaxOutputPins="256" cmp="1">
+      <PLUGIN name="kHs Compressor" format="VST3" category="Fx|Dynamics" manufacturer="Kilohearts"
+              version="2.4.0" file="C:\Program Files\Common Files\VST3\Kilohearts\kHs Compressor.vst3"
+              uid="dc1d7dca" isInstrument="0" fileTime="19774f6e25a" infoUpdateTime="1977aca3b8d"
+              numInputs="4" numOutputs="2" isShell="0" isEnabled="1" useDelayedLoading="0"
+              explicitWidgetRefresh="0" b64UserKeywords=""/>
+      <PROCESSORSTATEZ>635.3ocsSlriaBDEEskxWRViDAyjKKY0R1XiMTXyfghgclAiYnvXfhouh7Im1oyhVQYatKt5I8d6dmCRh86+7au81ZzEaNiRRZV0ktqcIuuVQ5At9QURU26hbhzan+HF3WsM7D8FaZ5sGuQS+bmwbvuW9kT8p5Cm2KGUveOXBTdsk.r5ZOoY3QywXguuMsS6nwfy34Gro26pfP0cd4xJldqLtoGZbwnSzL2VuwbzjKIaCm9gSKylehYGmTyyybVNQ.nXDZyjnLSIuydpTkt9v.ImbLXUzTQTpFpC0h7IKN52YTnaG5dzyh6.WsmgOH0trUL7HmASvkRs7hvm.u67xRhXUzP97J05Lwpt9.7.I0nV73fLBmwHqeaTDpaSkIU.s0xu4gB7w3yNHfWD+vbr0B+Q8nBQCnDTzGwNhmBCilA.cm355UdNprmN+LwFJfBVNbn9opdzxgBQURVvA+kLtUM2IhqnraXBYxYY71KLuI2oOq03gyrUuPDEK.L4xvEc5omQURoRyUvE9BJKV98ahUutaXDCIJqHoMMbr6rmz93StzyUxD0xNawtaHOfLF4nimB.kv4Vy76fFtZJDZhsqVzR8901PZZodZs+KUhRYOgBhVDa9bx0ck.MKiIPiz2pODsMF9nwNy.WN0uhez8fOgL2GOwJ3n5N5DpPwXCbYkSZ.jYM+JTrGMD6dp+50XyqmmzlHxIBvROYK9.4R1PUPSSzlEmAnVMs5BTqhFeNOASswFFQuc.qQZEheA2B7u5Va5suf7ux26SFWtnV7El+.K8G99eDsCQolt9cUKBI7x1PmaeZF6ne4OmeMVd7ySW+iuHXq+weqeu8KH0mhvN</PROCESSORSTATEZ>
+      <PROCESSORLAYOUT>
+        <BUSINPUTS>
+          <PROCESSORBUS index="0" layout="L R"/>
+          <PROCESSORBUS index="1" layout="L R"/>
+        </BUSINPUTS>
+        <BUSOUTPUTS>
+          <PROCESSORBUS index="0" layout="L R"/>
+        </BUSOUTPUTS>
+      </PROCESSORLAYOUT>
+    </PROCESSOR>
+    <PROCESSOR id="7" bypass="0" prop_str_nodeName="GP Relayer" prop_int_uiLastX="81"
+               prop_int_uiLastY="185" prop_dbl_x="0.09130859375000000000" prop_dbl_y="0.10986328125000000000"
+               prop_int_MaxInputPins="256" prop_int_MaxOutputPins="256" cmp="1">
+      <PLUGIN name="GP Relayer" format="Internal" category="System" manufacturer="Deskew Technologies, LLC"
+              version="1" file="434251" uid="6a04b" isInstrument="0" fileTime="0"
+              infoUpdateTime="0" numInputs="2" numOutputs="2" isShell="0" isEnabled="1"
+              useDelayedLoading="0" explicitWidgetRefresh="0" b64UserKeywords=""/>
+      <PROCESSORSTATEZ>56.3o8ByYiTzPFXfAaROwhyHwhRM9hKIwRRUgxRsnhyL+7rUICURghxOmTAyn3TKFlf5aGC.PflQPE</PROCESSORSTATEZ>
+      <PROCESSORLAYOUT>
+        <BUSINPUTS>
+          <PROCESSORBUS index="0" layout="L R"/>
+        </BUSINPUTS>
+        <BUSOUTPUTS>
+          <PROCESSORBUS index="0" layout="L R"/>
+        </BUSOUTPUTS>
+      </PROCESSORLAYOUT>
+    </PROCESSOR>
+    <CONNECTION srcID="4" srcChannel="0" dstID="5" dstChannel="0"/>
+    <CONNECTION srcID="4" srcChannel="0" dstID="5" dstChannel="1"/>
+    <CONNECTION srcID="5" srcChannel="0" dstID="6" dstChannel="0"/>
+    <CONNECTION srcID="5" srcChannel="1" dstID="6" dstChannel="1"/>
+    <CONNECTION srcID="6" srcChannel="0" dstID="7" dstChannel="0"/>
+    <CONNECTION srcID="6" srcChannel="1" dstID="7" dstChannel="1"/>
+    <RACKVIEW>
+      <RACKUNIT size="11" style="0" color="ff4682b4" ver="5.0"/>
+    </RACKVIEW>
+    <PRESET name="Default"/>
+    <SCRIPT_CONTENT></SCRIPT_CONTENT>
+  </RACKSPACE>
+  <SETLISTS activeSetlist="0"/>
+</GIGRACK>
