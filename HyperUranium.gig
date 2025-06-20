@@ -65,14 +65,14 @@ on WidgetValueChanged(LeadGuitar1Button, newValue) {
              timeNum="4" timeDen="4" resetTimeInfo="0" syncClock="0" maxDeactivationTime="2.5"
              maxDeactivationTimeIn="0.0" scriptWindowPos="" usePatchPersist="0"
              zoomLevel="0.7257449692014858" viewX="0" viewY="0" activePreset="0">
-    <PROCESSORSTATE_IN handle="" gpscript="0" osc="0" x="0.1975097358226776" y="0.01196288503706455">23.VMjLg3.....OPwTUGkjSSQUPTUzK9..</PROCESSORSTATE_IN>
+    <PROCESSORSTATE_IN handle="" gpscript="0" osc="0" x="0.1567382961511612" y="0.008300783112645149">23.VMjLg3.....OPwTUGkjSSQUPTUzK9..</PROCESSORSTATE_IN>
     <PROCESSORSTATE_OUT handle="" gpscript="0" osc="0" x="0.1911621242761612" y="0.2141112983226776">103.VMjLg3E....OPwTUGkjSSQUPTUDHig1WvziHv3RN4fSN1jiMwPSMvTyM1bCNh.Ra0QWYeMFZeASOh.iHfLFZeESOh.iK4jCN4XSN1DCM0.SM2XyM3HBHsUGck80Xn8UL8HBLh7hO..</PROCESSORSTATE_OUT>
     <PROCESSOR id="35" bypass="0" prop_str_nodeName="BASS_Parallax" prop_int_uiLastX="127"
                prop_int_uiLastY="132" prop_dbl_x="0.23339845240116119385" prop_dbl_y="0.06225585192441940308"
                prop_int_MaxInputPins="256" prop_int_MaxOutputPins="256" cmp="1">
       <PLUGIN name="Parallax" format="VST3" category="Fx|Distortion" manufacturer="Neural DSP"
               version="1.0.0" file="C:\Program Files\Common Files\VST3\Neural DSP\Parallax.vst3"
-              uid="bca9b5ae" isInstrument="0" fileTime="176bad09300" infoUpdateTime="1977b2297ea"
+              uid="bca9b5ae" isInstrument="0" fileTime="176bad09300" infoUpdateTime="1978efbe907"
               numInputs="2" numOutputs="2" isShell="0" isEnabled="1" useDelayedLoading="0"
               explicitWidgetRefresh="0" b64UserKeywords=""/>
       <PROCESSORSTATEZ>951.3oc0Vs0aihCEtuO+J1mqjmPtnlUpZjLAaBZfFSiswva.y.avIjtoDxke86grcZSSHUoyaikPIxvweemuyEeji59Wa+xM2bubJuGa957YkSqhq942t2YzxEOsr7mkUeqqwfdHomcZ.FgPYvChgNrb2qpd1B1iwoN6YkMueLh+3FKIxB8G4xt36I4NApUajpdXFZLmFtzua7VOQz.AEg4LD9vWtHQ6EDtuOW8rfx2NjlfrpMIJtZOdKakPppvnjsBiDsuMO22Nh4zMtFNyA7Z1fZBXiQ3VhL1hPSy2nmpEKRx2PGa4Q3IXgZKgFuhP+QRHWMqgCZ6.J7sYtVwZx73prf3UuhQfvw25EdvLo28fE6gIrYKhGT6DDtSPSkh4I6zFwUXcxZrciufq68nKxJ.vWFsWeXu+WHF2MtiePTUJ8s8bCBWILT6EzvoM+d3rXHxKwZblIG6HXdvdlEzPPOFQbkp+wKH5YxT+Jxb0JPCM.+pSiVV7hTBq5aGgXjBNtiEBOlEU.mgGuVk6Xjrriz0lHipvYM7LUCuyg8tv1I3hrNB2oK8nh93fPjBhqB3WPedK8DLBIXOR3SQVYnk9.upY3Y.W2okwaPB00ia1Q96HdIAhKWssr2Y6ZOa4470LXxS+8jy369i4am3cZRqZ7gJ2Sz3IupwycI8A72HufNc6Gh61DtZYe5UiK6Hb8zFJt19RZkIbRmFeeSqbFwy+D39vQ3xxkpchq2VuiscnQh5b9lw6Mn+seTr0oI1FHaWiaVmnw8dSiMAMJ2qaxUGeJXXMYACzmvMny353ct6FzBWMIbYhIzeovYzYZS1vxZcK0pNbV3FGtpx2v8b98jMoZ3Gxu8nVi828g7SzB+5Lyz9C42buy4mZd37V32pF9E7q9VWecwcL7BnOs1mD0zatbHMtn8baAZzo9GbGRlLZQN0eqddZK0Dr7+0V2ZN1A6jed9B9Yo1HrbCOzPPiO2txv4ol0mYW4K1A2Usyyts5HoCbBmFK9NmA8xCR2m945Y3vQwqS6xV2gd80.Pu7UCMR+UusKDGZIOKyjTaD28hZBam6Hbca4zM3wfd+6ZEqIIm2OCvZuLpvuHYY3ktmpkdCfu8rlF9a4aM3cQeCZMDzR7FvasvNsFd9b2GC4lnfvBHN+6zCai.9VMMsO9Szi3n4WtT9kiiXZNncKf4hfYmd+ffkbwHALOETCl6GDdXFM37wi4+n9PrE9uKBk9pAYOJ739LmfHiC09vbfD58e8nAou+qmNl8M+mpkajx</PROCESSORSTATEZ>
@@ -100,7 +100,7 @@ on WidgetValueChanged(LeadGuitar1Button, newValue) {
                prop_int_MaxInputPins="256" prop_int_MaxOutputPins="256" cmp="1">
       <PLUGIN name="Pro-R 2" format="VST3" category="Fx|Reverb" manufacturer="FabFilter"
               version="2.0.4.0" file="C:\Program Files\Common Files\VST3\FabFilter\FabFilter Pro-R 2.vst3"
-              uid="336ac312" isInstrument="0" fileTime="193d890f980" infoUpdateTime="1977b2297eb"
+              uid="336ac312" isInstrument="0" fileTime="193d890f980" infoUpdateTime="1978efbe908"
               numInputs="2" numOutputs="2" isShell="0" isEnabled="1" useDelayedLoading="0"
               explicitWidgetRefresh="0" b64UserKeywords=""/>
       <PROCESSORSTATEZ>424.3ociS0saBBCF0j8jrqIoahNERHlTJ+HSVZUvB5cyIhvbvhqJSex1i2jxhfcKa66BROe+v4vguRQxW+wUsZoQ876P1rKNIyi8HKZflCJ+kWyyhxXCtqmBvZVJwyDTFqKePCMjU.fB1VDOYFX7TI9IfsscNlex8f6g9U0u+wicgPPiX0RzE3SQm0R12gtLmZItCNQl5CKl3PTFcBuGKVu7EJcLEOxvPNzRdWx6J2pJVmi8biC7Hf4qvRp60y5cluUR0BAC59xFPQjut5H5So4Mlug9xTVDYXbFdw70emsOnLlbF1Wfuuz2Zqg8.b+fPW.2UMO7LeDw9oKzoU9I4oouw35625eQHCCgrmeUBYLxTz+9d+q8m6.KV52Qu+Vyt+c+KmOABKlGgL6mnGHp+gDQ+UEmgfwiC7Mb+A+nQ+b+ph++EFPNszcD+vAWOoK86eI95+UX538NAMxqcSiqAZNlKSXn7L117Mah1NnmJvx4Y28OvokuGPUZGFWXMDUPmE6XOzCFDlLssTYTusWsMflJ6SMqIyZl+rTXsjNQt.gZ2HdMs0m.SeP6rB</PROCESSORSTATEZ>
@@ -147,14 +147,14 @@ on WidgetValueChanged(LeadGuitar1Button, newValue) {
       </PROCESSORLAYOUT>
     </PROCESSOR>
     <PROCESSOR id="57" bypass="0" prop_str_nodeName="LIMITER_DRUMKIT" prop_int_uiLastX="198"
-               prop_int_uiLastY="381" prop_dbl_x="0.29125976562500000000" prop_dbl_y="0.10131835192441940308"
+               prop_int_uiLastY="218" prop_dbl_x="0.29125976562500000000" prop_dbl_y="0.10131835192441940308"
                prop_int_MaxInputPins="256" prop_int_MaxOutputPins="256" cmp="1">
       <PLUGIN name="kHs Compressor" format="VST3" category="Fx|Dynamics" manufacturer="Kilohearts"
               version="2.4.0" file="C:\Program Files\Common Files\VST3\Kilohearts\kHs Compressor.vst3"
-              uid="dc1d7dca" isInstrument="0" fileTime="19774f6e25a" infoUpdateTime="1977b2297eb"
+              uid="dc1d7dca" isInstrument="0" fileTime="19774f6e25a" infoUpdateTime="1978efbe908"
               numInputs="4" numOutputs="2" isShell="0" isEnabled="1" useDelayedLoading="0"
               explicitWidgetRefresh="0" b64UserKeywords=""/>
-      <PROCESSORSTATEZ>616.3ocsSlzaiBDEDNRyuj4LRcX2fjUjvDiw.FiwrYtAjFnYwXnY+W+3DMGxLZtN0gumTUuiU4IS+y0e7xKa8t5vXUMjgtesOpG911ixM0OZtCu2+FOkHPB7TFUeRG8S.IG.XmZJ.vSYsF9U32z8OwX75dkjR17vEgpH7ffcO9jgU.fgztNeWduw8woIIULcVd+cccs2qTOYmOtIC.YRKRiokORpenH9cQ5.fXalLgp.GKImVVkbAiOjmj6glzdYjmeXIyPA2t8cldN9BTmZl6GMGVC8Z6n4VcT8Yw4QyRWevjt5ryLlXh0.RyFONcs8zs4oOL6nPG0LpHDimTrW3aYLukxO2J2ynrCiQtQAxROvwfChSYx5Fwc4GOOT7wldVmSIUnqkikoNnYc9ivfaHGqvkKzXG6.irj0GbU7jmOKL1DAYDK0q5PQGNxxsbojgOqtVKwIrJOSYX1jlVKqaEfHG0kZ8WIVoq68K08JCrtAKbDwh2x4fQ74O5zPP+OxDcmHzqccotRYvpTAg5ImNvhu3qSjoZGgpFcELJIUR7YNqLovcgzk3PW0PhKcopFLjE.TRkB9u.QaCVHAroSH2qdnmiTpuEw2bWq67Th1M8nMwnYyyNYBMy9GtMLrN9wBMGYbuWXQHq9BILIJujhvYo.EUx1zXfCsnn1TPlTE23iNiQGmmprVr3P5nAFp8A7qQXtMwtb39MA1dDdB7.K7pjZGw39jKzeVU8pkeRRaI0mGKIvyd7NPWj7kVRQY+08IGd5GjXB.o6.+S8mcaKrijxW9V.v6..yWqjre+61W+1TZ6q+8P6keArq8Fv.</PROCESSORSTATEZ>
+      <PROCESSORSTATEZ>616.3ocsStzihBEEDtSleIyZRtMuERLcBhhHfHhWdH6.7Bb4gn7F90O1clE8LY1N0huSRUmkU4JS+yke71aqcu.YrJ6Sw2uzE1g9X8A45pG02Q269fmRDHAdIixOIT+HPBB.aTS..IUcxfuB+lt+IFhV1oDWvlELKTF11KX20dzvxGvPZWksIqy39v3njZKcZV2cccsskpGsyFVkBPLI4IQzxGH02mGsUj1GH9LUlPUfikjSKsTNmwCwSx8PSZmL10KnfoOmaytFSWnm.0w5otAy9k.2mMzbKPUO11rvIoKOXRVfaLiHFYMPzrQCiWdd75z3MyFJ7AMiRBwnQE6Y9mLlWS3mdJ2wnrosE6D5KK8nMBrWbLUV2HpI6vo97aq5XgGiKwWJFJRf3Ic9CH+qXnUv7Y5VnsuQZ7xCtRdxSmDFpCQLhE5kM3v8GX4lOWvvmVUoECCJyRU5mLoo0RaV.XxAcomdKDKzUcdE5tE9VWQ4PwVwqYbnP9rGMZXj2sTQmQB8JGGpKTFrJkHjd7w8rsm8zIRUsCwkCNBFEjJwdLmTFU3NS5PruorO1gtPUCEvB.JIR9+WfnsAKh.U2Hj4V02wQJ08DyWeWq4zXr1U8vUQ3IySvTg5Iu8W66WFtMSyQF04FjGvpOShhCyJnHfy43vB15Zi1.KJpU4jwkQ0d3Ss3CSikVyVbXcbOC0Ne9kvVtUQNbscq7scIbE3AVsKRpMDC6hOS+YU0sR9EIskTecrj.u5wa.aSZfOIEk8V1Eu+kuerI.jrA7O0e1ssZgRJe4aA.aA.luVIo+920u+soz52+6g1a+BdY9FL.</PROCESSORSTATEZ>
       <PROCESSORLAYOUT>
         <BUSINPUTS>
           <PROCESSORBUS index="0" layout="L R"/>
@@ -170,10 +170,10 @@ on WidgetValueChanged(LeadGuitar1Button, newValue) {
                prop_int_MaxInputPins="256" prop_int_MaxOutputPins="256" cmp="1">
       <PLUGIN name="kHs Compressor" format="VST3" category="Fx|Dynamics" manufacturer="Kilohearts"
               version="2.4.0" file="C:\Program Files\Common Files\VST3\Kilohearts\kHs Compressor.vst3"
-              uid="dc1d7dca" isInstrument="0" fileTime="19774f6e25a" infoUpdateTime="1977b2297ec"
+              uid="dc1d7dca" isInstrument="0" fileTime="19774f6e25a" infoUpdateTime="1978efbe909"
               numInputs="4" numOutputs="2" isShell="0" isEnabled="1" useDelayedLoading="0"
               explicitWidgetRefresh="0" b64UserKeywords=""/>
-      <PROCESSORSTATEZ>616.3ocsSlzaiBDEDNRyuj4LRcX2fjUjvDiw.FiwrYtAjFnYwXnY+W+3DMGxLZtN0gumTUuiU4IS+y0e7xKa8t5vXUMjgtesOpG911ixM0OZtCu2+FOkHPB7TFUeRG8S.IG.XmZJ.vSYsF9U32z8OwX75dkjR17vEgpH7ffcO9jgU.fgztNeWduw8woIIULcVd+cccs2qTOYmOtIC.YRKRiokORpenH9cQ5.fXalLgp.GKImVVkbAiOjmj6glzdYjmeXIyPA2t8cldN9BTmZl6GMGVC8Z6n4VcT8Yw4QyRWevjt5ryLlXh0.RyFONcs8zs4oOL6nPG0LpHDimTrW3aYLukxO2J2ynrCiQtQAxROvwfChSYx5Fwc4GOOT7wldVmSIUnqkikoNnYc9ivfaHGqvkKzXG6.irj0GbU7jmOKL1DAYDK0q5PQGNxxsbojgOqtVKwIrJOSYX1jlVKqaEfHG0kZ8WIVoq68K08JCrtAKbDwh2x4fQ74O5zPP+OxDcmHzqccotRYvpTAg5ImNvhu3qSjoZGgpFcELJIUR7YNqLovcgzk3PW0PhKcopFLjE.TRkB9u.QaCVHAroSH2qdnmiTpuEw2bWq67Th1M8nMwnYyyNYBMy9GtMLrN9wBMGYbuWXQHq9BILIJujhvYo.EUx1zXfCsnn1TPlTE23iNiQGmmprVr3P5nAFp8A7qQXtMwtb39MA1dDdB7.K7pjZGw39jKzeVU8pkeRRaI0mGKIvyd7NPWj7kVRQY+08IGd5GjXB.o6.+S8mcaKrijxW9V.v6..yWqjre+61W+1TZ6q+8P6keArq8Fv.</PROCESSORSTATEZ>
+      <PROCESSORSTATEZ>616.3ocsStzihBEEDtSleIyZRtMuERLcBhhHfHhWdH6.7Bb4gn7F90O1clE8LY1N0huSRUmkU4JS+yke71aqcu.YrJ6Sw2uzE1g9X8A45pG02Q269fmRDHAdIixOIT+HPBB.aTS..IUcxfuB+lt+IFhV1oDWvlELKTF11KX20dzvxGvPZWksIqy39v3njZKcZV2cccsskpGsyFVkBPLI4IQzxGH02mGsUj1GH9LUlPUfikjSKsTNmwCwSx8PSZmL10KnfoOmaytFSWnm.0w5otAy9k.2mMzbKPUO11rvIoKOXRVfaLiHFYMPzrQCiWdd75z3MyFJ7AMiRBwnQE6Y9mLlWS3mdJ2wnrosE6D5KK8nMBrWbLUV2HpI6vo97aq5XgGiKwWJFJRf3Ic9CH+qXnUv7Y5VnsuQZ7xCtRdxSmDFpCQLhE5kM3v8GX4lOWvvmVUoECCJyRU5mLoo0RaV.XxAcomdKDKzUcdE5tE9VWQ4PwVwqYbnP9rGMZXj2sTQmQB8JGGpKTFrJkHjd7w8rsm8zIRUsCwkCNBFEjJwdLmTFU3NS5PruorO1gtPUCEvB.JIR9+WfnsAKh.U2Hj4V02wQJ08DyWeWq4zXr1U8vUQ3IySvTg5Iu8W66WFtMSyQF04FjGvpOShhCyJnHfy43vB15Zi1.KJpU4jwkQ0d3Ss3CSikVyVbXcbOC0Ne9kvVtUQNbscq7scIbE3AVsKRpMDC6hOS+YU0sR9EIskTecrj.u5wa.aSZfOIEk8V1Eu+kuerI.jrA7O0e1ssZgRJe4aA.aA.luVIo+920u+soz52+6g1a+BdY9FL.</PROCESSORSTATEZ>
       <PROCESSORLAYOUT>
         <BUSINPUTS>
           <PROCESSORBUS index="0" layout="L R"/>
@@ -189,10 +189,10 @@ on WidgetValueChanged(LeadGuitar1Button, newValue) {
                prop_int_MaxInputPins="256" prop_int_MaxOutputPins="256" cmp="1">
       <PLUGIN name="kHs Compressor" format="VST3" category="Fx|Dynamics" manufacturer="Kilohearts"
               version="2.4.0" file="C:\Program Files\Common Files\VST3\Kilohearts\kHs Compressor.vst3"
-              uid="dc1d7dca" isInstrument="0" fileTime="19774f6e25a" infoUpdateTime="1977b2297ed"
+              uid="dc1d7dca" isInstrument="0" fileTime="19774f6e25a" infoUpdateTime="1978efbe90a"
               numInputs="4" numOutputs="2" isShell="0" isEnabled="1" useDelayedLoading="0"
               explicitWidgetRefresh="0" b64UserKeywords=""/>
-      <PROCESSORSTATEZ>623.3ocsSlriaBEEDskxWRVizKOd.FrjUKgw.1LYZlM6.LyS1LZH+7wt6Mshx1TKJcUU6t5TNbne96e71a6bLsHzqFSyaLGBFhee2It15asMwMCuuAAArfmRu5kaIqBXs.f8GS.fM35q9eV9M07xlBW4EhJIy7WXpB5GYLF5UUz8.DPi5r8YCJMSPs9S8nzrgFYYoCUGUMxlnSAwDIUIgHtSPYwhvCaQdfs2S4vNxPQRRIkVwUPTGSQRcShkmK2w0uj3bA0d9NMGKWlGpsOFlzFW8ct2gnVsN5R5xiJ3prlYaaODRDHVuPGUuvJNF0exTCeIEdU4izYZTsLtt+0XdzItP2qQS7H8l9nNetfi58kbDStZgdoo41Jjjkq40Ulv0KZZ16c2anJM1USmVpZv1pJF42VL4seSiMTEcOllwDEugAEgdnZhO2mWDxvzXPSNgUK0a4WkkJL9PCQHk1sxlCmjYuiViQn5Aux.mRO8KwIVa62dIiJ9xlraJx4w0Wm2ZOioVaaiaJnRJTEmHGoJR1+gqLV0Qif7pIaFkRnPjKARXVfhEZicpqZLxFUdTJ1mD.DRX89uXa0UHiwba6XxbpGGnfrC2y2z1H0cdNR5hb.cX9Csy1oLsObEuLddc55BhBFN33W3SZt.iiBxJww7VJxCJImaU580wwoafQUgst4n97SOlqzWzoxkWFIv481rFzSQmXS0OPGZ3fYvbG.MDSRzNneV8p3SzLLR6SNlO4EnxCRdxxfoA0C8NT5.lUhnW7K74mAHA92Z4CWuU6J4apnfAVnAu2W4r.c.Hg64UB+9uh18qusk18q+do81eLDkYbG</PROCESSORSTATEZ>
+      <PROCESSORSTATEZ>626.3ocsSlzihBEEEtR5eI8ZSd8yGffIlJAQFjIoPYP1AHyO.kYn+y2ZUapzo21mEmby4lbWby2wlC8ye+i2dam84KDF39jrpyc9cQuu6HWc485pnpt22ff.VvSYfe4WTz.rW.f8Rw..qjBz6ykeSUurgfEdgvBxTuYFreaOiYWqlpgKf.ZVltOsSsZ.p2drEkj1UonHe.KoYlNPm.hHhwwAHtiPEw7fCaQtfsOR3VIwPQRRImf4xIJinHotKyxykY63UPbJmZOeit8EGlIs5otA89EO6GMHpkKRNjN7nbN7kQ155CAD9hkyzgkyrh8gsGOqudNAdS8ijQZToxZCuaQ7nibAN2BG3QFUsgMdb9RFsEbDCN5AtIIYVpjjEKYk3yvkq55V6c1apI22TRmTnYxVqIF5UmO3teSkETC8Hhl4LJZCCJDMocd8XaVd.CSkIM4vpR41Kd3zDg9IcDgbRyBaFbPg8AZIBgJ6bK7sKbMtFEeYa61qoTQW2jdWUIKp713VqwUZkVVqOKnQJfihUB0DIa+vQYEVxzOCOXwnV.EBcHPBiBTrPqUGav8gVnBI4HOR.PHl08+hs0PkLZkScCSpcYeGEjs6Q1l5J4lSigxWU7oCxlzOYkvTO4Hds+zxvsYDELny1K2i77LLJzOsX8J247L+BxwZ0VOi0qoqfg3fZmLTa1woQrwrAUlxbOwZd2MK9sTzwVTsczAl1qLYd.flhww5GLNocS7IZFDp+IGyG+BT4AwOYYfAXxr0lx.vrPD9hegO+L.Yv+Vye33tXgUtqg76Xgl7teky97NfXtmSw76+JZ2u9VWZ2u96l1a+AjoNYbA</PROCESSORSTATEZ>
       <PROCESSORLAYOUT>
         <BUSINPUTS>
           <PROCESSORBUS index="0" layout="L R"/>
@@ -208,10 +208,10 @@ on WidgetValueChanged(LeadGuitar1Button, newValue) {
                prop_int_MaxInputPins="256" prop_int_MaxOutputPins="256" cmp="1">
       <PLUGIN name="kHs Compressor" format="VST3" category="Fx|Dynamics" manufacturer="Kilohearts"
               version="2.4.0" file="C:\Program Files\Common Files\VST3\Kilohearts\kHs Compressor.vst3"
-              uid="dc1d7dca" isInstrument="0" fileTime="19774f6e25a" infoUpdateTime="1977b2297ee"
+              uid="dc1d7dca" isInstrument="0" fileTime="19774f6e25a" infoUpdateTime="1978efbe90a"
               numInputs="4" numOutputs="2" isShell="0" isEnabled="1" useDelayedLoading="0"
               explicitWidgetRefresh="0" b64UserKeywords=""/>
-      <PROCESSORSTATEZ>616.3ocsSlzaiBDEDNRyuj4LRcX2fjUjvDiw.FiwrYtAjFnYwXnY+W+3DMGxLZtN0gumTUuiU4IS+y0e7xKa8t5vXUMjgtesOpG911ixM0OZtCu2+FOkHPB7TFUeRG8S.IG.XmZJ.vSYsF9U32z8OwX75dkjR17vEgpH7ffcO9jgU.fgztNeWduw8woIIULcVd+cccs2qTOYmOtIC.YRKRiokORpenH9cQ5.fXalLgp.GKImVVkbAiOjmj6glzdYjmeXIyPA2t8cldN9BTmZl6GMGVC8Z6n4VcT8Yw4QyRWevjt5ryLlXh0.RyFONcs8zs4oOL6nPG0LpHDimTrW3aYLukxO2J2ynrCiQtQAxROvwfChSYx5Fwc4GOOT7wldVmSIUnqkikoNnYc9ivfaHGqvkKzXG6.irj0GbU7jmOKL1DAYDK0q5PQGNxxsbojgOqtVKwIrJOSYX1jlVKqaEfHG0kZ8WIVoq68K08JCrtAKbDwh2x4fQ74O5zPP+OxDcmHzqccotRYvpTAg5ImNvhu3qSjoZGgpFcELJIUR7YNqLovcgzk3PW0PhKcopFLjE.TRkB9u.QaCVHAroSH2qdnmiTpuEw2bWq67Th1M8nMwnYyyNYBMy9GtMLrN9wBMGYbuWXQHq9BILIJujhvYo.EUx1zXfCsnn1TPlTE23iNiQGmmprVr3P5nAFp8A7qQXtMwtb39MA1dDdB7.K7pjZGw39jKzeVU8pkeRRaI0mGKIvyd7NPWj7kVRQY+08IGd5GjXB.o6.+S8mcaKrijxW9V.v6..yWqjre+61W+1TZ6q+8P6keArq8Fv.</PROCESSORSTATEZ>
+      <PROCESSORSTATEZ>616.3ocsStzihBEEDtSleIyZRtMuERLcBhhHfHhWdH6.7Bb4gn7F90O1clE8LY1N0huSRUmkU4JS+yke71aqcu.YrJ6Sw2uzE1g9X8A45pG02Q269fmRDHAdIixOIT+HPBB.aTS..IUcxfuB+lt+IFhV1oDWvlELKTF11KX20dzvxGvPZWksIqy39v3njZKcZV2cccsskpGsyFVkBPLI4IQzxGH02mGsUj1GH9LUlPUfikjSKsTNmwCwSx8PSZmL10KnfoOmaytFSWnm.0w5otAy9k.2mMzbKPUO11rvIoKOXRVfaLiHFYMPzrQCiWdd75z3MyFJ7AMiRBwnQE6Y9mLlWS3mdJ2wnrosE6D5KK8nMBrWbLUV2HpI6vo97aq5XgGiKwWJFJRf3Ic9CH+qXnUv7Y5VnsuQZ7xCtRdxSmDFpCQLhE5kM3v8GX4lOWvvmVUoECCJyRU5mLoo0RaV.XxAcomdKDKzUcdE5tE9VWQ4PwVwqYbnP9rGMZXj2sTQmQB8JGGpKTFrJkHjd7w8rsm8zIRUsCwkCNBFEjJwdLmTFU3NS5PruorO1gtPUCEvB.JIR9+WfnsAKh.U2Hj4V02wQJ08DyWeWq4zXr1U8vUQ3IySvTg5Iu8W66WFtMSyQF04FjGvpOShhCyJnHfy43vB15Zi1.KJpU4jwkQ0d3Ss3CSikVyVbXcbOC0Ne9kvVtUQNbscq7scIbE3AVsKRpMDC6hOS+YU0sR9EIskTecrj.u5wa.aSZfOIEk8V1Eu+kuerI.jrA7O0e1ssZgRJe4aA.aA.luVIo+920u+soz52+6g1a+BdY9FL.</PROCESSORSTATEZ>
       <PROCESSORLAYOUT>
         <BUSINPUTS>
           <PROCESSORBUS index="0" layout="L R"/>
@@ -227,10 +227,10 @@ on WidgetValueChanged(LeadGuitar1Button, newValue) {
                prop_int_MaxInputPins="256" prop_int_MaxOutputPins="256" cmp="1">
       <PLUGIN name="kHs Compressor" format="VST3" category="Fx|Dynamics" manufacturer="Kilohearts"
               version="2.4.0" file="C:\Program Files\Common Files\VST3\Kilohearts\kHs Compressor.vst3"
-              uid="dc1d7dca" isInstrument="0" fileTime="19774f6e25a" infoUpdateTime="1977b2297ef"
+              uid="dc1d7dca" isInstrument="0" fileTime="19774f6e25a" infoUpdateTime="1978efbe90b"
               numInputs="4" numOutputs="2" isShell="0" isEnabled="1" useDelayedLoading="0"
               explicitWidgetRefresh="0" b64UserKeywords=""/>
-      <PROCESSORSTATEZ>616.3ocsSlzaiBDEDNRyuj4LRcX2fjUjvDiw.FiwrYtAjFnYwXnY+W+3DMGxLZtN0gumTUuiU4IS+y0e7xKa8t5vXUMjgtesOpG911ixM0OZtCu2+FOkHPB7TFUeRG8S.IG.XmZJ.vSYsF9U32z8OwX75dkjR17vEgpH7ffcO9jgU.fgztNeWduw8woIIULcVd+cccs2qTOYmOtIC.YRKRiokORpenH9cQ5.fXalLgp.GKImVVkbAiOjmj6glzdYjmeXIyPA2t8cldN9BTmZl6GMGVC8Z6n4VcT8Yw4QyRWevjt5ryLlXh0.RyFONcs8zs4oOL6nPG0LpHDimTrW3aYLukxO2J2ynrCiQtQAxROvwfChSYx5Fwc4GOOT7wldVmSIUnqkikoNnYc9ivfaHGqvkKzXG6.irj0GbU7jmOKL1DAYDK0q5PQGNxxsbojgOqtVKwIrJOSYX1jlVKqaEfHG0kZ8WIVoq68K08JCrtAKbDwh2x4fQ74O5zPP+OxDcmHzqccotRYvpTAg5ImNvhu3qSjoZGgpFcELJIUR7YNqLovcgzk3PW0PhKcopFLjE.TRkB9u.QaCVHAroSH2qdnmiTpuEw2bWq67Th1M8nMwnYyyNYBMy9GtMLrN9wBMGYbuWXQHq9BILIJujhvYo.EUx1zXfCsnn1TPlTE23iNiQGmmprVr3P5nAFp8A7qQXtMwtb39MA1dDdB7.K7pjZGw39jKzeVU8pkeRRaI0mGKIvyd7NPWj7kVRQY+08IGd5GjXB.o6.+S8mcaKrijxW9V.v6..yWqjre+61W+1TZ6q+8P6keArq8Fv.</PROCESSORSTATEZ>
+      <PROCESSORSTATEZ>616.3ocsStzihBEEDtSleIyZRtMuERLcBhhHfHhWdH6.7Bb4gn7F90O1clE8LY1N0huSRUmkU4JS+yke71aqcu.YrJ6Sw2uzE1g9X8A45pG02Q269fmRDHAdIixOIT+HPBB.aTS..IUcxfuB+lt+IFhV1oDWvlELKTF11KX20dzvxGvPZWksIqy39v3njZKcZV2cccsskpGsyFVkBPLI4IQzxGH02mGsUj1GH9LUlPUfikjSKsTNmwCwSx8PSZmL10KnfoOmaytFSWnm.0w5otAy9k.2mMzbKPUO11rvIoKOXRVfaLiHFYMPzrQCiWdd75z3MyFJ7AMiRBwnQE6Y9mLlWS3mdJ2wnrosE6D5KK8nMBrWbLUV2HpI6vo97aq5XgGiKwWJFJRf3Ic9CH+qXnUv7Y5VnsuQZ7xCtRdxSmDFpCQLhE5kM3v8GX4lOWvvmVUoECCJyRU5mLoo0RaV.XxAcomdKDKzUcdE5tE9VWQ4PwVwqYbnP9rGMZXj2sTQmQB8JGGpKTFrJkHjd7w8rsm8zIRUsCwkCNBFEjJwdLmTFU3NS5PruorO1gtPUCEvB.JIR9+WfnsAKh.U2Hj4V02wQJ08DyWeWq4zXr1U8vUQ3IySvTg5Iu8W66WFtMSyQF04FjGvpOShhCyJnHfy43vB15Zi1.KJpU4jwkQ0d3Ss3CSikVyVbXcbOC0Ne9kvVtUQNbscq7scIbE3AVsKRpMDC6hOS+YU0sR9EIskTecrj.u5wa.aSZfOIEk8V1Eu+kuerI.jrA7O0e1ssZgRJe4aA.aA.luVIo+920u+soz52+6g1a+BdY9FL.</PROCESSORSTATEZ>
       <PROCESSORLAYOUT>
         <BUSINPUTS>
           <PROCESSORBUS index="0" layout="L R"/>
@@ -256,10 +256,10 @@ on WidgetValueChanged(LeadGuitar1Button, newValue) {
                prop_int_MaxInputPins="256" prop_int_MaxOutputPins="256" cmp="1">
       <PLUGIN name="kHs Compressor" format="VST3" category="Fx|Dynamics" manufacturer="Kilohearts"
               version="2.4.0" file="C:\Program Files\Common Files\VST3\Kilohearts\kHs Compressor.vst3"
-              uid="dc1d7dca" isInstrument="0" fileTime="19774f6e25a" infoUpdateTime="1977b2297ef"
+              uid="dc1d7dca" isInstrument="0" fileTime="19774f6e25a" infoUpdateTime="1978efbe90c"
               numInputs="4" numOutputs="2" isShell="0" isEnabled="1" useDelayedLoading="0"
               explicitWidgetRefresh="0" b64UserKeywords=""/>
-      <PROCESSORSTATEZ>629.3ocsSlraiBDFFLRySxbFIBalEIqHAXaBz.lkFClaXLXvlEa5l0mf4wdhSlCQilqy2gRszeerpCpL+7W+3kWVevGx5T0eorwGmfydastZa881lrF7a7rTjxjeL1pmDBrHkgjjJumSRxS6rD+4wuslmX3zx1co23JhmEqRP8hdXjkoSDIKkWcgRA1rwYjFQiYtTfa..iMQW2o6FI4ju+jiuCl28Jbem6jKaVoL6fKgP4xi5P.HxXZ9Hg.n+vA3.qLQ9nMpPTCKXvjzs4QGKRqJl23XpR441Y6xfQwQ6rqhNcCMlKfkVkfrrPb0CQutArJ3hYrtFW3TzUdsB95jCyAKzF2CXaoYi6s5JbNFqyYbnul4pc989fToHpK9ZU6CA553xoDQVtz561YrZbHn..FIriY78R.OqMgP3rnh+T5YTVjmXtKc0bRFkTI+dDOqP.bwyR8z3jpuL+CIh8UdvFMUo35kqynbcO8Fq3X7vTfDSZpOyvRPWNEvZ+3MLkvhLUuIR9H7F8MSSBt67FDLQnhElMtyHQtvUv6id19CzNLAEOLkQDUl02o1zE1xCbik7mRjXhZkVEj5q.PTBxjljpC+WfPaTAgTOLIwBYlkdCndJDPMp5QPugQeq0UZWJO+yBJ7UwYGuJJAUStzWEfwdMaMFAbR8VUNFR0OzPvx2sCu4+X0VKp8Icgrzsgk6E1VdBzJRI5mXWkc3PO4i5yktaqG7pG2oEMMwXjoAAojJtyz1xkm+zp49.NHHoxS496d8VqD9Mlqdp240p+wq+GyTK8ha3QbC8odtcPPP9WEwFxmci8ym4u+0WW+52Bq0u92Y2K+FbU.avJ</PROCESSORSTATEZ>
+      <PROCESSORSTATEZ>629.3ocsSlraiBDFFLRySxbFIBagEIqHAXaLz.lkFClaXLXvlEa5l0mf4wdhSlCQilqy2gRszeerpCpL+7W+3kWVcvGx5T0eorwGmfydektZa881lrF767rTjxjeL1pmDBrHkgjjJ6xIIk2Anh+732VySLbZYy1zabEwyhUIndQOLxxzIhjkxqtPo.a13LRinwLWJvM.fw5nqa0cijbx2exw2Ay6dEtuycxkMqTlcvkPnb4QcH.DYLMejP.ze3.bfUlHezFUHpgELXR5V+niEoUEyabLUo7b6rcYvn3nc1UQmtgFyEvRqRPVVHt5gnW2.VEbwLVWiKbJ5JuVAecxg4fEZi6Arszrw8VcENGi04LNzWyb0N+dePpTD0Eesp8g.ccb4ThHKWZ8c6LVMNDT..iD1xLtqDvyZSHDNKp3OkdFkE4Il6RWMmjQIUxuGwyJD.W7rTOMNo5Ky+PhXekGrQSUJtd45LJW2SuwJNFOLEHwjl5yLrDzkSAr1OdCSIrHS0ahjOBuQeyzjf6NuAASDpXgYs6LRjK7M38QOa+AZGlfhGlxHhJy56Tq6Ba4AtwR9SIRLQsRuEj5q.PTBxjljpC+WfPaTAgTOLIwBYlkdCndJDPMp5QPulQei0UZWJO+yBJ7UwYGuJJAUStzWEfwdMaLFAbR8VUNFR0OzPvxc1g27e71FKp8Icgrzsgk6E1TdBzJRI5mXWkc3PO4i5yktapG7pG2pEMMwXjoAAojJtyz1xkm+zp49.NHHoxS496d8FqD90lu8TuyqU+iW+OloV5E2vi3F5S8bagff7uJh0jO6F6mOy280WW852BqUu92Y2K+F3JaaHE</PROCESSORSTATEZ>
       <PROCESSORLAYOUT>
         <BUSINPUTS>
           <PROCESSORBUS index="0" layout="L R"/>
@@ -271,14 +271,14 @@ on WidgetValueChanged(LeadGuitar1Button, newValue) {
       </PROCESSORLAYOUT>
     </PROCESSOR>
     <PROCESSOR id="69" bypass="0" prop_str_nodeName="LIMITER_MIX" prop_int_uiLastX="198"
-               prop_int_uiLastY="381" prop_dbl_x="0.18920896947383880615" prop_dbl_y="0.19775389134883880615"
+               prop_int_uiLastY="218" prop_dbl_x="0.18945312500000000000" prop_dbl_y="0.19775390625000000000"
                prop_int_MaxInputPins="256" prop_int_MaxOutputPins="256" cmp="1">
       <PLUGIN name="kHs Compressor" format="VST3" category="Fx|Dynamics" manufacturer="Kilohearts"
               version="2.4.0" file="C:\Program Files\Common Files\VST3\Kilohearts\kHs Compressor.vst3"
-              uid="dc1d7dca" isInstrument="0" fileTime="19774f6e25a" infoUpdateTime="1977b2297f0"
+              uid="dc1d7dca" isInstrument="0" fileTime="19774f6e25a" infoUpdateTime="1978efbe90d"
               numInputs="4" numOutputs="2" isShell="0" isEnabled="1" useDelayedLoading="0"
               explicitWidgetRefresh="0" b64UserKeywords=""/>
-      <PROCESSORSTATEZ>616.3ocsSlzaiBDEDNRyuj4LRcX2fjUjvDiw.FiwrYtAjFnYwXnY+W+3DMGxLZtN0gumTUuiU4IS+y0e7xKa8t5vXUMjgtesOpG911ixM0OZtCu2+FOkHPB7TFUeRG8S.IG.XmZJ.vSYsF9U32z8OwX75dkjR17vEgpH7ffcO9jgU.fgztNeWduw8woIIULcVd+cccs2qTOYmOtIC.YRKRiokORpenH9cQ5.fXalLgp.GKImVVkbAiOjmj6glzdYjmeXIyPA2t8cldN9BTmZl6GMGVC8Z6n4VcT8Yw4QyRWevjt5ryLlXh0.RyFONcs8zs4oOL6nPG0LpHDimTrW3aYLukxO2J2ynrCiQtQAxROvwfChSYx5Fwc4GOOT7wldVmSIUnqkikoNnYc9ivfaHGqvkKzXG6.irj0GbU7jmOKL1DAYDK0q5PQGNxxsbojgOqtVKwIrJOSYX1jlVKqaEfHG0kZ8WIVoq68K08JCrtAKbDwh2x4fQ74O5zPP+OxDcmHzqccotRYvpTAg5ImNvhu3qSjoZGgpFcELJIUR7YNqLovcgzk3PW0PhKcopFLjE.TRkB9u.QaCVHAroSH2qdnmiTpuEw2bWq67Th1M8nMwnYyyNYBMy9GtMLrN9wBMGYbuWXQHq9BILIJujhvYo.EUx1zXfCsnn1TPlTE23iNiQGmmprVr3P5nAFp8A7qQXtMwtb39MA1dDdB7.K7pjZGw39jKzeVU8pkeRRaI0mGKIvyd7NPWj7kVRQY+08IGd5GjXB.o6.+S8mcaKrijxW9V.v6..yWqjre+61W+1TZ6q+8P6keArq8Fv.</PROCESSORSTATEZ>
+      <PROCESSORSTATEZ>616.3ocsStzihBEEDtSleIyZRtMuERLcBhhHfHhWdH6.7Bb4gn7F90O1clE8LY1N0huSRUmkU4JS+yke71aqcu.YrJ6Sw2uzE1g9X8A45pG02Q269fmRDHAdIixOIT+HPBB.aTS..IUcxfuB+lt+IFhV1oDWvlELKTF11KX20dzvxGvPZWksIqy39v3njZKcZV2cccsskpGsyFVkBPLI4IQzxGH02mGsUj1GH9LUlPUfikjSKsTNmwCwSx8PSZmL10KnfoOmaytFSWnm.0w5otAy9k.2mMzbKPUO11rvIoKOXRVfaLiHFYMPzrQCiWdd75z3MyFJ7AMiRBwnQE6Y9mLlWS3mdJ2wnrosE6D5KK8nMBrWbLUV2HpI6vo97aq5XgGiKwWJFJRf3Ic9CH+qXnUv7Y5VnsuQZ7xCtRdxSmDFpCQLhE5kM3v8GX4lOWvvmVUoECCJyRU5mLoo0RaV.XxAcomdKDKzUcdE5tE9VWQ4PwVwqYbnP9rGMZXj2sTQmQB8JGGpKTFrJkHjd7w8rsm8zIRUsCwkCNBFEjJwdLmTFU3NS5PruorO1gtPUCEvB.JIR9+WfnsAKh.U2Hj4V02wQJ08DyWeWq4zXr1U8vUQ3IySvTg5Iu8W66WFtMSyQF04FjGvpOShhCyJnHfy43vB15Zi1.KJpU4jwkQ0d3Ss3CSikVyVbXcbOC0Ne9kvVtUQNbscq7scIbE3AVsKRpMDC6hOS+YU0sR9EIskTecrj.u5wa.aSZfOIEk8V1Eu+kuerI.jrA7O0e1ssZgRJe4aA.aA.luVIo+920u+soz52+6g1a+BdY9FL.</PROCESSORSTATEZ>
       <PROCESSORLAYOUT>
         <BUSINPUTS>
           <PROCESSORBUS index="0" layout="L R"/>
@@ -294,10 +294,10 @@ on WidgetValueChanged(LeadGuitar1Button, newValue) {
                prop_int_MaxInputPins="256" prop_int_MaxOutputPins="256" cmp="1">
       <PLUGIN name="Pro-Q 4" format="VST3" category="Fx|EQ" manufacturer="FabFilter"
               version="4.0.1.0" file="C:\Program Files\Common Files\VST3\FabFilter\FabFilter Pro-Q 4.vst3"
-              uid="3dc7ff47" isInstrument="0" fileTime="193d890f980" infoUpdateTime="1977b2297f1"
+              uid="3dc7ff47" isInstrument="0" fileTime="193d890f980" infoUpdateTime="1978efbe90d"
               numInputs="4" numOutputs="2" isShell="0" isEnabled="1" useDelayedLoading="0"
               explicitWidgetRefresh="0" b64UserKeywords=""/>
-      <PROCESSORSTATEZ>677.3oc6W10bhBCEFt+B1+C60NCUz1U5LNclHI7QKTCBAIdGPEVQDrVJU8W+Fhef5r1c1cl8NNyHlXNm79ddBWXbk6781e6la56Z6zEm9Q7rL6B+hoO1WWNewx7roYEO1oaGIAEZB1FITE3A7uDhZU87A4gl4F3cq7TfzOj4ipVW.TMDx9zcnvg3A4Cy40qoyVOJAKTGuNYjINnkwK.fvownAGmuu9nUiCPviIv8y.3A8E35y06L+dnd99w0+XFKRcjgcFNyFelxm5u802aax878GXvdTdre10u65+VBW32C0ua+NoeXYjq2V3SoMcgvyj9L+sqdI.ffynJi37oWkef086+EdumeYRASgWv6cwWv6MKWtb804M.xz2857dO+lLriZs+Jq6uuh2qXR26p7lHDuHMA8m38LwMRV09omb8ZeAuea4xmtNuQXl9zFd2v6Fd2v6Fd2v6Fd2v6+MdeQ+72FO7b84wwyGH927+GwBm3OEJLXMpdd+aO4FC80QuNqPNOqXUdZ5zUO1UjcCBDxrzjSGtkgjTZLQ0eKXsybK0v76DospB05KYf063+NDokoY+DWbCmPaJgqHeS73YgIVnQC0I7ZTPodJyU72RRCdluriksYhiN.QzkRryqxBiljappUpOltgnDFkHFDUJ5Ga4RS.qCyHo9QIc7aCV6WVMFpnUPDY4k5uwZrWgoKsHKZ.UxMLxv0q.r1qsoZ3GscmbOQQaarKMB6PSQtgqrT0rYZrcdp+Bvff0Dw.V+pEyz+tp5Kcm7FQ44HXpOS6fX5XZTBySdimDCFv7hRsO6oDrctneAq12Y9pM3mCiLHdhrb.re6HSua26RNnsrdmOzZN00q8mJgqLf9yQo9qLPgw5pgJTGVOW+lI6j7hSu92d40Cu4WbHKi0E</PROCESSORSTATEZ>
+      <PROCESSORSTATEZ>661.3oc6W10iZBDEFd+Ez+C8ZSlcAoU1DylL7Mq55vGCJdGfBUAAp00O3WeGFTAMqaSaRuiSh3LNy479ddN2HNhresyWd3g9NV1cQIuGsL0Zq21EuzWWLacdV5hzsuv1kkGn3tBYICJCj.8KPXmxmOKNdT1PT0Iu5y+cQ5pxyAvxkRjOcGCNGOKddOMeMcx4gqPf5X9LyQH+NCeCBAMCSgK6Oke3lI9xRWt.0OBRm0GP0mp2U98b9z5Q0+xMVmXKJwNdoE5Jka5uS42qX02n0GNj7X2k9opeq5+Nfa7647qpWi9gbiL8m.64O1UR5JouxeU4yCgXTpqhIkO8J8iTc+9eg2m3WJu+Boa3cU7I79Xdd9g6yanDQem6y6S7a1XV0Z+sqt+9LdugHcu6xaLHZcxJ4+DuWxbj2n1O8DqO6S38Oyye897VFQz2sk2s7tk2s7tk2s7tk2s79ei22zO+swyCpmGWlORnO3+Oh.M7mhqj+A4588erwaLzWWd9xshYoa2jkjrXyKcY3.Jxxi1MhRGpkkvItQXUuB3A6XC0fLNF2NkgJEXTsP5rd+RBSUPDyZ6PUbWkCnEwFaGUXYFSAfQjdhQ1dkfXcVgJMJrE0wlHCr4XN67xeyNxY1Qnf+ALiOQWsrQpZa3cltBq3F5qNKlSQii2IHrmhe45H3O7hCH2iiwuPNwaINYvqoHm2wpZKI6CG5Dbzf3y3j4wPgfTrh1G0agf09wil3V.MmdDZNuL+MwLyh2KnEwQzd3joLjbyHdhI1YZHh3kF97cHoN7Idjb8h4H9qqnlkbRPLzDQ5GiXWmoOQ58sUyNLLnv1hBQa2DYmfMFpCD263RzZfkwjoGLVanP54FSZxP7lAW+Gu8MCe32o2OXT.</PROCESSORSTATEZ>
       <PROCESSORLAYOUT>
         <BUSINPUTS>
           <PROCESSORBUS index="0" layout="L R"/>
@@ -313,10 +313,10 @@ on WidgetValueChanged(LeadGuitar1Button, newValue) {
                prop_int_MaxInputPins="256" prop_int_MaxOutputPins="256" cmp="1">
       <PLUGIN name="Pro-Q 4" format="VST3" category="Fx|EQ" manufacturer="FabFilter"
               version="4.0.1.0" file="C:\Program Files\Common Files\VST3\FabFilter\FabFilter Pro-Q 4.vst3"
-              uid="3dc7ff47" isInstrument="0" fileTime="193d890f980" infoUpdateTime="1977b2297f1"
+              uid="3dc7ff47" isInstrument="0" fileTime="193d890f980" infoUpdateTime="1978efbe90e"
               numInputs="4" numOutputs="2" isShell="0" isEnabled="1" useDelayedLoading="0"
               explicitWidgetRefresh="0" b64UserKeywords=""/>
-      <PROCESSORSTATEZ>661.3oc6W10ahBDEFt+B1+C60MgBX2UMwzDjY3CKrBEFjw6.pvJNBVJ0h7qeGF+.0r1j8xMgSh5LNmy79ddFtfwSV767e6t6F4431yh7QxxLmxfxEOMRWNe8l7rEYkOI1Sb.mBN0xAx0DViY+vEeey2CkmZlOwZ+JSBG7SY1H5mdbRMCAMCmxcLFJebNqdMc55woVbswqyewzJ7dieIIwcd7x3SyOTebwrPH3TBL+LFbTeNl9L8tvuGqmseL8OkwZhqLPb5RGqKT9b+cn990oUr8Wtvyd4tS8y99ko+g4bWzur52uem0OzLx0449bvtd.vEReg+X0uTX2.6V+zWtcsuf2usYyjayanEUe7s48A9kMHbA3JduO9BduaylMU2l2R.p9d2l2G327ohps9aaa+8U7tfJc+axaDWxZRJri2c7ti2c7ti2c7ti2c79+MdeU+7uFCet873z4Cv5u795Vbm4OELHrB1NezCmcigQ5vWWVJmmUVjSHKJdpm.8FDPn4VSFcXVFfH3DjZPsTk6Ja0n7GEv22DpsWxvRWL3c.TKyvYBSbC2HGLhoHaS7YYYgrguLUGwpQAR7UVoDTiHgOyV101wL0UWBhzGj5j2jkEbdtop1V8Y3cHkn3Tgv3sBAI1d3TopnLDIHNULfWpJXayXfhVIRflGIXm8L+RSObYV7X7.unXCO+RoJedS0nO38l+CjhVchGN1xESfdQE1pZNTMpWQBVKMNrBIDR6WsDp9O1T+Vu4ugTdNFPBnZGlfmgiSodxe17DowTunz5y9Jg0qDBJo09N0W7R+dZrAxWfliD8+NwzG2+rjKrl16rg1qvd97epDUX.BVAIAEFvnDc0HErKsmaexjdRd0o2nGt95g28G.lfIYk.</PROCESSORSTATEZ>
+      <PROCESSORSTATEZ>660.3oc6W10ahBDEFt+B1+C60MgBX2ULwzDjY3CqrNTXPFuCnBqHBVJ0h7qeGF+.0r1j8xMgSh5LNmy79ddFtfwUQ767e6t6F5Z6zCk9Q7xL6R+xEOMzPIe8l7rEYkOI1SThSkjfrgbMAZD6Gtn6a9dfxTy7wn8qLNP5mJrQzO83jaFBZFNk6XLP43bV85Fz0iRPbswqyewDEb+jeIKycd7xnSyOTeTwr.H3TBL+LBbTeNl9L8tvuGqmseL8Okw5TGEf3zk1nKT9b+cn990IUr8Wov0Z4tS8y99ko+g4bWzur52uem0OzLxM349TZWO.3Bouver5WJrSxp0O8UZW6K38aa1L917Fhn5StMuOvuLofEfq3893K38tMa1TcadKCn56dadefeymJp05uss82Ww6Bpz8uIuwbwqSSfc7ti2c7ti2c7ti2c7ti2+uw6q5m+0XvysmGmNe.n+x6qi3NyepDPPErc9vGN6FCCMfutrTIOqrHOMcQwS8Dn2f.BM2ZxnCyx.bJIFq4WKW4rxRKL+QAx8MgV6kLPFh9uCf5Y51iYhOwIzlfYJx1DOVVHrE7koFXVMpvTO0Up903zfmYK6XYal3XHCwFRI14MYgfyyM0z2ZLirCqFFkHDDsUvO1xkjHWElgS8iRD84kq721LFnpWhEn4k5uyZlWooKoLKZDQxMLZhqWobkGuoV3G7ty+AVUuN1kDgbHoP2vBKMcapF0qR8WKOJnBKDP6W8Xp9O1T+V24ugUeNBj5S0NHlLiDkP8j2r4wxindQs0m8UCpWI3WRq8cpu3k+8znIXOAZNxz+6DSeb+yRNvZZuyFZsh35w+oZXwDf+JXpewDXXrgVnJwg1ysOYROIu5za3CWe8v69CHXQVH</PROCESSORSTATEZ>
       <PROCESSORLAYOUT>
         <BUSINPUTS>
           <PROCESSORBUS index="0" layout="L R"/>
@@ -350,7 +350,7 @@ on WidgetValueChanged(LeadGuitar1Button, newValue) {
                prop_int_MaxInputPins="256" prop_int_MaxOutputPins="256" cmp="1">
       <PLUGIN name="Pro-R 2" format="VST3" category="Fx|Reverb" manufacturer="FabFilter"
               version="2.0.4.0" file="C:\Program Files\Common Files\VST3\FabFilter\FabFilter Pro-R 2.vst3"
-              uid="336ac312" isInstrument="0" fileTime="193d890f980" infoUpdateTime="1977b2297f1"
+              uid="336ac312" isInstrument="0" fileTime="193d890f980" infoUpdateTime="1978efbe90e"
               numInputs="2" numOutputs="2" isShell="0" isEnabled="1" useDelayedLoading="0"
               explicitWidgetRefresh="0" b64UserKeywords=""/>
       <PROCESSORSTATEZ>596.3ociT00bhBCE0G1+H6yLCEQToy3zYR.hfBRn7ghuITgpPEkBB3eo9mbiQ1V0NS289vkbRt2aN2SRvSh+2e7qNcF4Y6zCmVFuYmcwph0OMRSJ6s8Y6Vuq3o9CDYQ9aw1JrmsWO6zmnYKRgQrOhpMWHyCYnXYpG2n2HpSbCa55ynhISUCAD+iRrWrnWj.r+aiFeOy8GhffXMiACO7V2AYlmK.yUqSwGCsmnHC6Ofq74onfGuc815sgm+vLLzaeICjfG9W9zVuVaoI+Xvm76n4s7o01IFrVV9S3W4e09wF0sQzB+I798qkeB9qWA.byA.YFj0g65Op9cS7Oi30uvO83ACn7Kh8K88awWjqKxFm5mBzUMSZ6meHdTkmLHVdJRROpmZ088+2i2SdI.nmNquDPW3d9K+s3YJvy.US6WKm6lA1Zdq9eU+R0qK78+BSu4cxznQ2l4V89mrKmOK1ZcTa9USO5gqdFLRS4kMERY6JxyRSWm+DeeNVjVh9QC5wIjd6Wad36.nStBJLQjgXq+pbzqJGwbFItWN5n4QGBbUbUE25fnsumcrf2xMuSyxRwfC+bhriSxI6YBmeDhwQ8Hq6hTe2E4m4NeUzQO+hPT3N.Lft2f5.tDTXrFZUB3U+RswpwUnUQm7VTH34WCpWkBf90jbaDfpyESCNXLV8Ms49wViUSI3ngj54R9hGuLSnqeC.FVJlNk1FXW7XCtImGZzxgb0sAYgnkmpZ6+JnEs9U0NEJoADraIW2fb1jfRtWcpI5chE5p2CD89NMdzC2+moN+A.w28LA</PROCESSORSTATEZ>
@@ -455,7 +455,7 @@ on WidgetValueChanged(LeadGuitar1Button, newValue) {
                prop_int_MaxInputPins="256" prop_int_MaxOutputPins="256" cmp="1">
       <PLUGIN name="Pro-R 2" format="VST3" category="Fx|Reverb" manufacturer="FabFilter"
               version="2.0.4.0" file="C:\Program Files\Common Files\VST3\FabFilter\FabFilter Pro-R 2.vst3"
-              uid="336ac312" isInstrument="0" fileTime="193d890f980" infoUpdateTime="1977b2297f2"
+              uid="336ac312" isInstrument="0" fileTime="193d890f980" infoUpdateTime="1978efbe90e"
               numInputs="2" numOutputs="2" isShell="0" isEnabled="1" useDelayedLoading="0"
               explicitWidgetRefresh="0" b64UserKeywords=""/>
       <PROCESSORSTATEZ>596.3ociT00bhBCE0G1+H6yLCEQToy3zYR.hfBRn7ghuITgpPEkBB3eo9mbiQ1V0NS289vkbRt2aN2SRvSh+2e7qNcF4Y6zCmVFuYmcwph0OMRSJ6s8Y6Vuq3o9CDYQ9aw1JrmsWO6zmnYKRgQrOhpMWHyCYnXYpG2n2HpSbCa55ynhISUCAD+iRrWrnWj.r+aiFeOy8GhffXMiACO7V2AYlmK.yUqSwGCsmnHC6Ofq74onfGuc815sgm+vLLzaeICjfG9W9zVuVaoI+Xvm76n4s7o01IFrVV9S3W4e09wF0sQzB+I798qkeB9qWA.byA.YFj0g65Op9cS7Oi30uvO83ACn7Kh8K88awWjqKxFm5mBzUMSZ6meHdTkmLHVdJRROpmZ088+2i2SdI.nmNquDPW3d9K+s3YJvy.US6WKm6lA1Zdq9eU+R0qK78+BSu4cxznQ2l4V89mrKmOK1ZcTa9USO5gqdFLRS4kMERY6JxyRSWm+DeeNVjVh9QC5wIjd6Wad36.nStBJLQjgXq+pbzqJGwbFItWN5n4QGBbUbUE25fnsumcrf2xMuSyxRwfC+bhriSxI6YBmeDhwQ8Hq6hTe2E4m4NeUzQO+hPT3N.Lft2f5.tDTXrFZUB3U+RswpwUnUQm7VTH34WCpWkBf90jbaDfpyESCNXLV8Ms49wViUSI3ngj54R9hGuLSnqeC.FVJlNk1FXW7XCtImGZzxgb0sAYgnkmpZ6+JnEs9U0NEJoADraIW2fb1jfRtWcpI5chE5p2CD89NMdzC2+moN+A.w28LA</PROCESSORSTATEZ>
@@ -473,10 +473,10 @@ on WidgetValueChanged(LeadGuitar1Button, newValue) {
                prop_int_MaxInputPins="256" prop_int_MaxOutputPins="256" cmp="1">
       <PLUGIN name="Pro-Q 4" format="VST3" category="Fx|EQ" manufacturer="FabFilter"
               version="4.0.1.0" file="C:\Program Files\Common Files\VST3\FabFilter\FabFilter Pro-Q 4.vst3"
-              uid="3dc7ff47" isInstrument="0" fileTime="193d890f980" infoUpdateTime="1977b2297f2"
+              uid="3dc7ff47" isInstrument="0" fileTime="193d890f980" infoUpdateTime="1978efbe90e"
               numInputs="4" numOutputs="2" isShell="0" isEnabled="1" useDelayedLoading="0"
               explicitWidgetRefresh="0" b64UserKeywords=""/>
-      <PROCESSORSTATEZ>661.3oc6W10iZBDEFd+Ez+C8ZSlcAoU1DylL7Mq55vGCJdGfBUAAp00O3WeGFTAMqaSaRuiSh3LNy479ddN2HNhresyWd3g9NV1cQIuGsL0Zq21EuzWWLacdV5hzsuv1kkGn3tBYICJCj.8KPXmxmOKNdT1PT0Iu5y+cQ5pxyAvxkRjOcGCNGOKddOMeMcx4gqPf5X9LyQH+NCeCBAMCSgK6Oke3lI9xRWt.0OBRm0GP0mp2U98b9z5Q0+xMVmXKJwNdoE5Jka5uS42qX02n0GNj7X2k9opeq5+Nfa7647qpWi9gbiL8m.64O1UR5JouxeU4yCgXTpqhIkO8J8iTc+9eg2m3WJu+Boa3cU7I79Xdd9g6yanDQem6y6S7a1XV0Z+sqt+9LdugHcu6xaLHZcxJ4+DuWxbj2n1O8DqO6S38Oyye897VFQz2sk2s7tk2s7tk2s7tk2s79ei22zO+swyCpmGWlORnO3+Oh.M7mhqj+A4588erwaLzWWd9xshYoa2jkjrXyKcY3.Jxxi1MhRGpkkvItQXUuB3A6XC0fLNF2NkgJEXTsP5rd+RBSUPDyZ6PUbWkCnEwFaGUXYFSAfQjdhQ1dkfXcVgJMJrE0wlHCr4XN67xeyNxY1Qnf+ALiOQWsrQpZa3cltBq3F5qNKlSQii2IHrmhe45H3O7hCH2iiwuPNwaINYvqoHm2wpZKI6CG5Dbzf3y3j4wPgfTrh1G0agf09wil3V.MmdDZNuL+MwLyh2KnEwQzd3joLjbyHdhI1YZHh3kF97cHoN7Idjb8h4H9qqnlkbRPLzDQ5GiXWmoOQ58sUyNLLnv1hBQa2DYmfMFpCD263RzZfkwjoGLVanP54FSZxP7lAW+Gu8MCe32o2OXT.</PROCESSORSTATEZ>
+      <PROCESSORSTATEZ>677.3oc6W9sbhBCEFuOA66vdsyPEsckNiSmIRB+oEpAgfDuCnBqHBVK0p9zugfJpyZ2Y2Y163LiXh4bx224W3Biqbmu29a2bSeWamt3zOhmkYW3WL8w95x4KVlmMMq3wNc6HInPSv1Hgx.Of+kPTqxmOHOzL2.WsxSAR+PlOpbcAP4PH6S2gBGhGjOLmWulNa8nDrPc75jQl3fVFu..BmFiFbb995iVMN.AOl.2OCfGzWfqOWuy76g546GW+iYrH0QF1Y3La7YJep+1WeucI2y2efA6w5i8SU+V0+sDtvuGpuZ+NoeXYjq2V3Soscgvyj9L+UUuD.PvYTkQb9zqzOv598+Bu2yuLofovK3cU7E7d6xkK2bcdCfL8cuNu2yuIC6nV6u0082Ww6ULo6cUdSDhWjlf9S7dl3VIqZ+zStdsuf2usb4SWm2HLSeZCua3cCua3cCua3cCua38+Fuune9aiGdt97334CD+a9+iXgS7mBEFrAUOu+smbig95nWmUHmmUrJOMc5pG6JxtAABYt1jSGtkgjTZLQ0eGXiybK0v76DosJC05KYf063+NDokYX+DWbCmPaJgqHeS73YgIVnQC0I7ZTPodJyU72QRCdluriksYhiN.QzkRryKyBiljappsVeLcKQILJQLHZsnerkKMArILij5GkzwuMXi+5xwPEsBhHKuT+sVi8JLcoEYQCnRtgQFtdEfMdsMUC+ns6j6IJZ6hcoQXGZJxMbkkplMSicyS8W.FDrgHFv5WsXl92UV+Z2IuQTdNBl5yzNHlNlFkv7j23IwfALunT6ydJA6lK5Wvp8cluZC94vHChmHKG.62Nxz6pdWxAsi067gVyotds+TIbkAzeNJ0ekAJLVWMTg5v5452LYmjWb50+1Kud3M+BzHaiEF</PROCESSORSTATEZ>
       <PROCESSORLAYOUT>
         <BUSINPUTS>
           <PROCESSORBUS index="0" layout="L R"/>
